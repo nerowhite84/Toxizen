@@ -1,61 +1,52 @@
 {
-	"wallpapers": [
-		{
-			"name": "1",
-			"author": "Shuvro Mojumder",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Wallpapers/1.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Wallpapers/1.jpg",
-			"dimensions": "808 x 1200",
-			"copyright": "@2016 PIXIV ARTISTS COPYRIGHTED PROTECTED"
-		},
-		{
-			"name": "2",
-			"author": "Shuvro Mojumder",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Wallpapers/2.jpg",
-			"dimensions": "960 x 1200",
-			"copyright": "@2016 PIXIV ARTISTS COPYRIGHTED PROTECTED"
-		},
-		{
-			"name": "3",
-			"author": "Shuvro Mojumder",
-			"url": "https://github.com/nerowhite84/Toxizen/tree/master/Wallpapers3.jpg",
-			"dimensions": "700 x 990",
-			"copyright": "@2016 PIXIV ARTISTS COPYRIGHTED PROTECTED"
-		},
-		{
-			"name": "4",
-			"author": "Shuvro Mojumder",
-			"url": "https://github.com/nerowhite84/Toxizen/tree/master/Wallpapers4.jpg",
-			"dimensions": "849 x 1200",
-			"copyright": "@2016 PIXIV ARTISTS COPYRIGHTED PROTECTED"
-		},
-		{
-			"name": "5",
-			"author": "Shuvro Mojumder",
-			"url": "https://github.com/nerowhite84/Toxizen/tree/master/Wallpapers5.jpg",
-			"dimensions": "686 x 1200",
-			"copyright": "@2016 PIXIV ARTISTS COPYRIGHTED PROTECTED"
-		},
-		{
-			"name": "6",
-			"author": "Shuvro Mojumder",
-			"url": "https://github.com/nerowhite84/Toxizen/tree/master/Wallpapers6.jpg",
-			"dimensions": "782 x 933",
-			"copyright": "@2016 PIXIV ARTISTS COPYRIGHTED PROTECTED"
-		},
-		{
-			"name": "7",
-			"author": "Shuvro Mojumder",
-			"url": "https://github.com/nerowhite84/Toxizen/tree/master/Wallpapers7.jpg",
-			"dimensions": "900 x 1200",
-			"copyright": "@2016 PIXIV ARTISTS COPYRIGHTED PROTECTED"
-		},
-		{
-			"name": "8",
-			"author": "Shuvro Mojumder",
-			"url": "https://github.com/nerowhite84/Toxizen/tree/master/Wallpapers8.jpg",
-			"dimensions": "810 x 1200",
-			"copyright": "@2016 PIXIV ARTISTS COPYRIGHTED PROTECTED"
-		}
-	]
+	"wallpapers": [{
+		"name": "1",
+		"author": "Shuvro Mojumder",
+		"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Wallpapers/1.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Wallpapers/1.jpg",
+		"dimensions": "808 x 1200",
+		"copyright": "@2016 PIXIV ARTISTS COPYRIGHTED PROTECTED"
+	}, {
+		"name": "2",
+		"author": "Shuvro Mojumder",
+		"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Wallpapers/2.jpg",
+		"dimensions": "960 x 1200",
+		"copyright": "@2016 PIXIV ARTISTS COPYRIGHTED PROTECTED"
+	}, {
+		"name": "3",
+		"author": "Shuvro Mojumder",
+		"url": "https://github.com/nerowhite84/Toxizen/tree/master/Wallpapers3.jpg",
+		"dimensions": "700 x 990",
+		"copyright": "@2016 PIXIV ARTISTS COPYRIGHTED PROTECTED"
+	}, {
+		"name": "4",
+		"author": "Shuvro Mojumder",
+		"url": "https://github.com/nerowhite84/Toxizen/tree/master/Wallpapers4.jpg",
+		"dimensions": "849 x 1200",
+		"copyright": "@2016 PIXIV ARTISTS COPYRIGHTED PROTECTED"
+	}, {
+		"name": "5",
+		"author": "Shuvro Mojumder",
+		"url": "https://github.com/nerowhite84/Toxizen/tree/master/Wallpapers5.jpg",
+		"dimensions": "686 x 1200",
+		"copyright": "@2016 PIXIV ARTISTS COPYRIGHTED PROTECTED"
+	}, {
+		"name": "6",
+		"author": "Shuvro Mojumder",
+		"url": "https://github.com/nerowhite84/Toxizen/tree/master/Wallpapers6.jpg",
+		"dimensions": "782 x 933",
+		"copyright": "@2016 PIXIV ARTISTS COPYRIGHTED PROTECTED"
+	}, {
+		"name": "7",
+		"author": "Shuvro Mojumder",
+		"url": "https://github.com/nerowhite84/Toxizen/tree/master/Wallpapers7.jpg",
+		"dimensions": "900 x 1200",
+		"copyright": "@2016 PIXIV ARTISTS COPYRIGHTED PROTECTED"
+	}, {
+		"name": "8",
+		"author": "Shuvro Mojumder",
+		"url": "https://github.com/nerowhite84/Toxizen/tree/master/Wallpapers8.jpg",
+		"dimensions": "810 x 1200",
+		"copyright": "@2016 PIXIV ARTISTS COPYRIGHTED PROTECTED"
+	}]
 }
