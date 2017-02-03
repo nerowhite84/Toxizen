@@ -1,52 +1,93 @@
 {
 	"wallpapers": [{
-		"name": "1",
-		"author": "Shuvro Mojumder",
-		"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Wallpapers/1.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Wallpapers/1.jpg",
-		"dimensions": "808 x 1200",
-		"copyright": "@2016 PIXIV ARTISTS COPYRIGHTED PROTECTED"
+		"name": "16 - 1 (1)",
+		"author": "pixiv,shuvro",
+		"url": "16 - 1 (1).jpg",
+		"dimensions": "5261 x 3354",
+		"copyright": "@2017 S Pictures"
 	}, {
-		"name": "2",
-		"author": "Shuvro Mojumder",
-		"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Wallpapers/2.jpg",
-		"dimensions": "960 x 1200",
-		"copyright": "@2016 PIXIV ARTISTS COPYRIGHTED PROTECTED"
+		"name": "16 - 1 (2)",
+		"author": "pixiv,shuvro",
+		"url": "16 - 1 (2).jpg",
+		"dimensions": "862 x 1219",
+		"copyright": "@2017 S Pictures"
 	}, {
-		"name": "3",
-		"author": "Shuvro Mojumder",
-		"url": "https://github.com/nerowhite84/Toxizen/tree/master/Wallpapers3.jpg",
-		"dimensions": "700 x 990",
-		"copyright": "@2016 PIXIV ARTISTS COPYRIGHTED PROTECTED"
+		"name": "16 - 1",
+		"author": "pixiv,shuvro",
+		"url": "16 - 1.jpg",
+		"dimensions": "1094 x 800",
+		"copyright": "@2017 S Pictures"
 	}, {
-		"name": "4",
-		"author": "Shuvro Mojumder",
-		"url": "https://github.com/nerowhite84/Toxizen/tree/master/Wallpapers4.jpg",
-		"dimensions": "849 x 1200",
-		"copyright": "@2016 PIXIV ARTISTS COPYRIGHTED PROTECTED"
+		"name": "16 - 1",
+		"author": "pixiv,shuvro",
+		"url": "16 - 1.png",
+		"dimensions": "1440 x 2560",
+		"copyright": "@2017 S Pictures"
 	}, {
-		"name": "5",
-		"author": "Shuvro Mojumder",
-		"url": "https://github.com/nerowhite84/Toxizen/tree/master/Wallpapers5.jpg",
-		"dimensions": "686 x 1200",
-		"copyright": "@2016 PIXIV ARTISTS COPYRIGHTED PROTECTED"
+		"name": "16 - 2 (1)",
+		"author": "pixiv,shuvro",
+		"url": "16 - 2 (1).jpg",
+		"dimensions": "2560 x 1760",
+		"copyright": "@2017 S Pictures"
 	}, {
-		"name": "6",
-		"author": "Shuvro Mojumder",
-		"url": "https://github.com/nerowhite84/Toxizen/tree/master/Wallpapers6.jpg",
-		"dimensions": "782 x 933",
-		"copyright": "@2016 PIXIV ARTISTS COPYRIGHTED PROTECTED"
+		"name": "16 - 2",
+		"author": "pixiv,shuvro",
+		"url": "16 - 2.jpg",
+		"dimensions": "1080 x 1920",
+		"copyright": "@2017 S Pictures"
 	}, {
-		"name": "7",
-		"author": "Shuvro Mojumder",
-		"url": "https://github.com/nerowhite84/Toxizen/tree/master/Wallpapers7.jpg",
-		"dimensions": "900 x 1200",
-		"copyright": "@2016 PIXIV ARTISTS COPYRIGHTED PROTECTED"
+		"name": "16 - 2",
+		"author": "pixiv,shuvro",
+		"url": "16 - 2.png",
+		"dimensions": "800 x 1098",
+		"copyright": "@2017 S Pictures"
 	}, {
-		"name": "8",
-		"author": "Shuvro Mojumder",
-		"url": "https://github.com/nerowhite84/Toxizen/tree/master/Wallpapers8.jpg",
-		"dimensions": "810 x 1200",
-		"copyright": "@2016 PIXIV ARTISTS COPYRIGHTED PROTECTED"
+		"name": "16 - 3",
+		"author": "pixiv,shuvro",
+		"url": "16 - 3.jpg",
+		"dimensions": "566 x 800",
+		"copyright": "@2017 S Pictures"
+	}, {
+		"name": "16 - 4",
+		"author": "pixiv,shuvro",
+		"url": "16 - 4.png",
+		"dimensions": "577 x 1024",
+		"copyright": "@2017 S Pictures"
+	}, {
+		"name": "17 - 1",
+		"author": "pixiv,shuvro",
+		"url": "17 - 1.jpg",
+		"dimensions": "3120 x 4160",
+		"copyright": "@2017 S Pictures"
+	}, {
+		"name": "2016 - 1",
+		"author": "pixiv,shuvro",
+		"url": "2016 - 1.png",
+		"dimensions": "1080 x 1920",
+		"copyright": "@2017 S Pictures"
+	}, {
+		"name": "chahua",
+		"author": "pixiv,shuvro",
+		"url": "chahua.png",
+		"dimensions": "760 x 1335",
+		"copyright": "@2017 S Pictures"
+	}, {
+		"name": "night_rain",
+		"author": "pixiv,shuvro",
+		"url": "night_rain.png",
+		"dimensions": "1440 x 2560",
+		"copyright": "@2017 S Pictures"
+	}, {
+		"name": "pixiv60283897",
+		"author": "pixiv,shuvro",
+		"url": "pixiv60283897.jpg",
+		"dimensions": "900 x 1273",
+		"copyright": "@2017 S Pictures"
+	}, {
+		"name": "semc_theme_lockscreen_wallpaper",
+		"author": "pixiv,shuvro",
+		"url": "semc_theme_lockscreen_wallpaper.png",
+		"dimensions": "760 x 1335",
+		"copyright": "@2017 S Pictures"
 	}]
 }
