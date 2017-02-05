@@ -1,7 +1,7 @@
 {
 	"wallpapers": [
 		{
-			"name": "16 - 1 (1)",
+			"name": "CARDCAPTOR",
 			"author": "Toxizen",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/thum/16%20-%201%20(1).jpg",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wallpaperspro/16%20-%201%20(1).jpg",
@@ -15,6 +15,13 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wallpaperspro/16%20-%201%20(2).jpg",
 			"dimensions": "862 x 1219",
 			"copyright": "@2017 Shuvro Mojumder"
+		},
+		{
+			"name": "BOY",
+			"author": "Toxizen",
+			"url": "http://afok.weebly.com/uploads/9/1/6/9/91692972/59401691-p0-master1200_orig.jpg",
+			"dimensions": "700 x 700",
+			"copyright": "@2017 TOFUVI"
 		},
 		{
 			"name": "16 - 1",
@@ -99,10 +106,10 @@
 			"author": "Toxizen",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wallpaperspro/pixiv60283897.jpg",
 			"dimensions": "900 x 1273",
-			"copyright": "@2017 Shuvro Mojumder"
+			"copyright": "@2017 PIXIV"
 		},
 		{
-			"name": "semc_theme_lockscreen_wallpaper",
+			"name": "MATERIAL NIGHT",
 			"author": "Toxizen",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wallpaperspro/semc_theme_lockscreen_wallpaper.png",
 			"dimensions": "760 x 1335",
