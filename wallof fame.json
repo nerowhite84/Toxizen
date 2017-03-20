@@ -2,40 +2,35 @@
     "Categories": 
         [
             {
-                "name": "KitKat"
+                "name": "Anime"
             },
             {
-                "name": "Lollipop"
+                "name": "Material and Minimalist"
             },
             {
-                "name": "Marshmallow"
+                "name": "Stock OEM WALLS"
             },
             {
-                "name": "Nougat"
+                "name": "Other"
             },
             {
-                "name": "NoImagesInside"
+                "name": "Dots"
             },
-            {
-                "name": "AnotherCategory"
-            }
         ],
     
 	"Wallpapers":
         [
 			{
-				"author": "Taken from gadgetraid",
-				"url": "http://www.gadgetraid.com/wp-content/uploads/2016/07/android-n-nougat-wallpaper-1.png",
-				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5TkZ0amk4TGZWYkU",
-				"name": "Nougat Wallpaper 1",
-                "category": "nougat,anothercategory"
+				"author": "Taken from PIXIV",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/cardcaptor/56520474_p3_master1200.jpg",
+				"name": "CardCaptor Sakura",
+                "category": "Anime"
 			},
 			{
-				"author": "Taken from gadgetraid",
-				"url": "http://www.gadgetraid.com/wp-content/uploads/2016/07/android-n-nougat-wallpaper-2.jpg",
-				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5WTh5X054ZHJocmM",
-				"name": "Nougat Wallpaper 2",
-                "category": "nougat"
+				"author": "Taken from PIXIV",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/cardcaptor/56736520_p0.png",
+				"name": "CardCaptor Sakura 2",
+                "category": "Anime"
 			},
 			{
 				"author": "Taken from gadgetraid",
