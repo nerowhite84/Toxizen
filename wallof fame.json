@@ -28,6 +28,13 @@
         [
 		        {
 				"author": "Taken from Wall of Fame",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Circle/1.png",
+				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Circle%20thumb/1.png",
+				"name": "1",
+                "category": "Circle"
+			},
+		        {
+				"author": "Taken from Wall of Fame",
 				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Nougat/1.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Nougat%20thumb/1.jpg",
 				"name": "1",
