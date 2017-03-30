@@ -33,6 +33,34 @@
 				"name": "1",
                 "category": "Circle"
 			},
+		         {
+				"author": "Taken from Wall of Fame",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Circle/2.png",
+				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Circle%20thumb/2.png",
+				"name": "2",
+                "category": "Circle"
+			},
+		        {
+				"author": "Taken from Wall of Fame",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Circle/3.png",
+				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Circle%20thumb/3.png",
+				"name": "3",
+                "category": "Circle"
+			},
+		        {
+				"author": "Taken from Wall of Fame",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Circle/4.png",
+				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Circle%20thumb/4.png",
+				"name": "4",
+                "category": "Circle"
+			},
+		        {
+				"author": "Taken from Wall of Fame",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Circle/5.png",
+				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Circle%20thumb/5.png",
+				"name": "5",
+                "category": "Circle"
+			},
 		        {
 				"author": "Taken from Wall of Fame",
 				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Nougat/1.jpg",
