@@ -1,6 +1,9 @@
 {
     "Categories": 
         [
+	    {
+                "name": "Circle"
+            },
             {
                 "name": "KitKat"
             },
@@ -49,6 +52,27 @@
 				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Nougat/4.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Nougat%20thumb/4.jpg",
 				"name": "4",
+                "category": "nougat,anothercategory"
+			},
+		        {
+				"author": "Taken from Wall of Fame",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Nougat/5.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Nougat%20thumb/5.jpg",
+				"name": "5",
+                "category": "nougat,anothercategory"
+			},
+		        {
+				"author": "Taken from Wall of Fame",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Nougat/6.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Nougat%20thumb/6.jpg",
+				"name": "6",
+                "category": "nougat,anothercategory"
+			},
+		        {
+				"author": "Taken from Wall of Fame",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Nougat/7.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Nougat%20thumb/7.jpg",
+				"name": "6",
                 "category": "nougat,anothercategory"
 			},
 			{
