@@ -23,6 +23,34 @@
     
 	"Wallpapers":
         [
+		        {
+				"author": "Taken from Wall of Fame",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Nougat/1.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Nougat%20thumb/1.jpg",
+				"name": "1",
+                "category": "nougat,anothercategory"
+			},
+		        {
+				"author": "Taken from Wall of Fame",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Nougat/2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Nougat%20thumb/2.jpg",
+				"name": "2",
+                "category": "nougat,anothercategory"
+			},
+		        {
+				"author": "Taken from Wall of Fame",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Nougat/3.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Nougat%20thumb/3.jpg",
+				"name": "3",
+                "category": "nougat,anothercategory"
+			},
+		        {
+				"author": "Taken from Wall of Fame",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Nougat/4.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wall%20of%20fame%20res/Nougat%20thumb/4.jpg",
+				"name": "4",
+                "category": "nougat,anothercategory"
+			},
 			{
 				"author": "Taken from gadgetraid",
 				"url": "http://www.gadgetraid.com/wp-content/uploads/2016/07/android-n-nougat-wallpaper-1.png",
