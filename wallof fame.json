@@ -5,6 +5,9 @@
             {
                 "name": "childhood memories"
             },
+		{
+                "name": "weather"
+            },
 	    {
                 "name": "Neon Lights"
             },
@@ -16,6 +19,41 @@
 	"Wallpapers":
         [
 			{
+				"author": "From Shuvro",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/weather/1.png",
+				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20weather/1.png",
+				"name": "Weather 1",
+                "category": "weather"
+			},
+		{
+				"author": "From Shuvro",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/weather/2.png",
+				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20weather/2.png",
+				"name": "Weather 2",
+                "category": "weather"
+			},
+		{
+				"author": "From Shuvro",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/weather/3.png",
+				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20weather/3.png",
+				"name": "Weather 3",
+                "category": "weather"
+			},
+		{
+				"author": "From Shuvro",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/weather/4.png",
+				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20weather/4.png",
+				"name": "Weather 4",
+                "category": "weather"
+			},
+		{
+				"author": "From Shuvro",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/weather/5.png",
+				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20weather/5.png",
+				"name": "Weather 5",
+                "category": "weather"
+			},
+		{
 				"author": "Taken from unsplash",
 				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/1.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/1.jpg",
