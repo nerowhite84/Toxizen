@@ -10,11 +10,42 @@
 		}, {
 			"name": "xperia"
 		}, {
+			"name": "bmw"
+		},
+		{
 			"name": "AnotherCategory"
 		}
 	],
 
 	"Wallpapers": [{
+			"author": "From SHUVRO",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BMW/1.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20bmw/1.jpg",
+			"name": "bmw 1",
+			"category": "bmw"
+		},
+		       {
+			"author": "From SHUVRO",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BMW/2.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20bmw/2.jpg",
+			"name": "bmw 2",
+			"category": "bmw"
+		},
+		       {
+			"author": "From SHUVRO",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BMW/3.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20bmw/3.jpg",
+			"name": "bmw 3",
+			"category": "bmw"
+		},
+		       {
+			"author": "From SHUVRO",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BMW/4.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20bmw/4.jpg",
+			"name": "bmw 4",
+			"category": "bmw"
+		},
+		{
 			"author": "From SONY",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/xperia/1.png",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20xperia/1.png",
