@@ -1,19 +1,44 @@
 {
     "Categories": 
         [
+        
             {
                 "name": "childhood memories"
             },
+            {
+                "name": "AnotherCategory"
+            }
         ],
     
 	"Wallpapers":
         [
 			{
-				"author": "Taken from unspalsh",
+				"author": "Taken from unsplash",
 				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/childhood%20memories/1.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20childhood%20memories/1.jpg",
 				"name": "childhood memories 1",
+                "category": "childhood memories,anothercategory"
+			},
+			{
+				"author": "Taken from slashgear",
+				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_03.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5WDNHR3ZndEs3cnM",
+				"name": "M Wallpaper 3",
                 "category": "childhood memories"
 			},
+			{
+				"author": "Taken from slashgear",
+				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_04.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5WHVlbjA2UEZDUlk",
+				"name": "M Wallpaper 4",
+                "category": "childhood memories"
+			},
+			{
+				"author": "Taken from androidpolice",
+				"url": "http://www.androidpolice.com/wp-content/uploads/2013/11/nexusae0_wallpaper_51.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5Mmh0TGVDS2NNc2M",
+				"name": "Kitkat Wallpaper 2",
+                "category": "childhood memories"
+			}
 		]
 }
