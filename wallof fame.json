@@ -11,6 +11,9 @@
 	    {
                 "name": "Neon Lights"
             },
+		{
+                "name": "b\\\M"
+            },
 	    {
                 "name": "xperia"
             },
@@ -26,6 +29,34 @@
 				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20xperia/1.png",
 				"name": "xperia 1",
                 "category": "xperia"
+			},
+	 {
+				"author": "From SHUVRO",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BMW/1.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20bmw/1.jpg",
+				"name": "B\\\M 1",
+                "category": "b\\\M"
+			},
+	 {
+				"author": "From SHUVRO",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BMW/2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20bmw/2.jpg",
+				"name": "B\\\M 2",
+                "category": "b\\\M"
+			},
+	 {
+				"author": "From SHUVRO",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BMW/3.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20bmw/3.jpg",
+				"name": "B\\\M 3",
+                "category": "b\\\M"
+			},
+	 {
+				"author": "From SHUVRO",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BMW/4.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20bmw/4.jpg",
+				"name": "B\\\M 4",
+                "category": "b\\\M"
 			},
 	 {
 				"author": "From SONY",
