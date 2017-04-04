@@ -1,266 +1,201 @@
 {
-    "Categories": 
-        [
-        
-            {
-                "name": "childhood memories"
-            },
+	"Categories": [
+
 		{
-                "name": "weather"
-            },
-	    {
-                "name": "Neon Lights"
-            },
+			"name": "childhood memories"
+		}, {
+			"name": "weather"
+		}, {
+			"name": "Neon Lights"
+		}, {
+			"name": "xperia"
+		}, {
+			"name": "AnotherCategory"
+		}
+	],
+
+	"Wallpapers": [{
+			"author": "From SONY",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/xperia/1.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20xperia/1.png",
+			"name": "xperia 1",
+			"category": "xperia"
+		}, {
+			"author": "From SONY",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/xperia/2.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20xperia/2.png",
+			"name": "xperia 2",
+			"category": "xperia"
+		}, {
+			"author": "From SONY",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/xperia/3.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20xperia/3.png",
+			"name": "xperia 3",
+			"category": "xperia"
+		}, {
+			"author": "From SONY",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/xperia/4.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20xperia/4.png",
+			"name": "xperia 4",
+			"category": "xperia"
+		}, {
+			"author": "From Shuvro",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/weather/1.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20weather/1.png",
+			"name": "Weather 1",
+			"category": "weather"
+		}, {
+			"author": "From Shuvro",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/weather/2.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20weather/2.png",
+			"name": "Weather 2",
+			"category": "weather"
+		}, {
+			"author": "From Shuvro",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/weather/3.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20weather/3.png",
+			"name": "Weather 3",
+			"category": "weather"
+		}, {
+			"author": "From Shuvro",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/weather/4.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20weather/4.png",
+			"name": "Weather 4",
+			"category": "weather"
+		}, {
+			"author": "From Shuvro",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/weather/5.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20weather/5.png",
+			"name": "Weather 5",
+			"category": "weather"
+		}, {
+			"author": "Taken from unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/1.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/1.jpg",
+			"name": "AnotherCategory 1",
+			"category": "AnotherCategory"
+		}, {
+			"author": "Taken from unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/2.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/2.jpg",
+			"name": "AnotherCategory 2",
+			"category": "AnotherCategory"
+		}, {
+			"author": "Taken from unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/3.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/3.jpg",
+			"name": "AnotherCategory 3",
+			"category": "AnotherCategory"
+		}, {
+			"author": "FROM NICK NICE",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/4.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/4.jpg",
+			"name": "AnotherCategory 4",
+			"category": "AnotherCategory"
+		}, {
+			"author": "FROM NICK NICE",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/5.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/5.jpg",
+			"name": "AnotherCategory 5",
+			"category": "AnotherCategory"
+		}, {
+			"author": "FROM NICK NICE",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/6.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/6.jpg",
+			"name": "AnotherCategory 6",
+			"category": "AnotherCategory"
+		}, {
+			"author": "FROM NICK NICE",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/7.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/7.jpg",
+			"name": "AnotherCategory 7",
+			"category": "AnotherCategory"
+		}, {
+			"author": "FROM NICK NICE",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/8.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/8.jpg",
+			"name": "AnotherCategory 8",
+			"category": "AnotherCategory"
+		}, {
+			"author": "FROM NICK NICE",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/9.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/9.jpg",
+			"name": "AnotherCategory 9",
+			"category": "AnotherCategory"
+		}, {
+			"author": "FROM NICK NICE",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/10.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/10.jpg",
+			"name": "AnotherCategory 10",
+			"category": "AnotherCategory"
+		}, {
+			"author": "FROM NICK NICE",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/11.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/11.jpg",
+			"name": "AnotherCategory 11",
+			"category": "AnotherCategory"
+		}, {
+			"author": "Taken from unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Neon%20Light/1.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Neon%20Light/1.jpg",
+			"name": "Neon Lights 1",
+			"category": "Neon Lights"
+		}, {
+			"author": "Taken from unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Neon%20Light/2.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Neon%20Light/2.jpg",
+			"name": "Neon Lights 2",
+			"category": "Neon Lights"
+		}, {
+			"author": "Taken from unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Neon%20Light/3.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Neon%20Light/3.jpg",
+			"name": "Neon Lights 3",
+			"category": "Neon Lights"
+		}, {
+			"author": "Taken from unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Neon%20Light/4.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Neon%20Light/4.jpg",
+			"name": "Neon Lights 4",
+			"category": "Neon Lights"
+		}, {
+			"author": "Taken from unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Neon%20Light/5.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Neon%20Light/5.jpg",
+			"name": "Neon Lights 5",
+			"category": "Neon Lights"
+		}, {
+			"author": "Taken from unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Neon%20Light/6.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Neon%20Light/6.jpg",
+			"name": "Neon Lights 6",
+			"category": "Neon Lights"
+		},
+
 		{
-                "name": "b\\\M"
-            },
-	    {
-                "name": "xperia"
-            },
-            {
-                "name": "AnotherCategory"
-            }
-        ],
-    
-	"Wallpapers":
-        [          {
-				"author": "From SONY",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/xperia/1.png",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20xperia/1.png",
-				"name": "xperia 1",
-                "category": "xperia"
-			},
-	 {
-				"author": "From SHUVRO",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BMW/1.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20bmw/1.jpg",
-				"name": "B\\\M 1",
-                "category": "b\\\M"
-			},
-	 {
-				"author": "From SHUVRO",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BMW/2.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20bmw/2.jpg",
-				"name": "B\\\M 2",
-                "category": "b\\\M"
-			},
-	 {
-				"author": "From SHUVRO",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BMW/3.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20bmw/3.jpg",
-				"name": "B\\\M 3",
-                "category": "b\\\M"
-			},
-	 {
-				"author": "From SHUVRO",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BMW/4.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20bmw/4.jpg",
-				"name": "B\\\M 4",
-                "category": "b\\\M"
-			},
-	 {
-				"author": "From SONY",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/xperia/2.png",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20xperia/2.png",
-				"name": "xperia 2",
-                "category": "xperia"
-			},
-			{
-				"author": "From SONY",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/xperia/3.png",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20xperia/3.png",
-				"name": "xperia 3",
-                "category": "xperia"
-			},
-	 {
-				"author": "From SONY",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/xperia/4.png",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20xperia/4.png",
-				"name": "xperia 4",
-                "category": "xperia"
-			},
-		{
-				"author": "From Shuvro",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/weather/1.png",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20weather/1.png",
-				"name": "Weather 1",
-                "category": "weather"
-			},
-		{
-				"author": "From Shuvro",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/weather/2.png",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20weather/2.png",
-				"name": "Weather 2",
-                "category": "weather"
-			},
-		{
-				"author": "From Shuvro",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/weather/3.png",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20weather/3.png",
-				"name": "Weather 3",
-                "category": "weather"
-			},
-		{
-				"author": "From Shuvro",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/weather/4.png",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20weather/4.png",
-				"name": "Weather 4",
-                "category": "weather"
-			},
-		{
-				"author": "From Shuvro",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/weather/5.png",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20weather/5.png",
-				"name": "Weather 5",
-                "category": "weather"
-			},
-		{
-				"author": "Taken from unsplash",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/1.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/1.jpg",
-				"name": "AnotherCategory 1",
-                "category": "AnotherCategory"
-			},
-		{
-				"author": "Taken from unsplash",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/2.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/2.jpg",
-				"name": "AnotherCategory 2",
-                "category": "AnotherCategory"
-			},
-		{
-				"author": "Taken from unsplash",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/3.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/3.jpg",
-				"name": "AnotherCategory 3",
-                "category": "AnotherCategory"
-			},
-		{
-				"author": "FROM NICK NICE",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/4.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/4.jpg",
-				"name": "AnotherCategory 4",
-                "category": "AnotherCategory"
-			},
-		{
-				"author": "FROM NICK NICE",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/5.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/5.jpg",
-				"name": "AnotherCategory 5",
-                "category": "AnotherCategory"
-			},
-		{
-				"author": "FROM NICK NICE",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/6.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/6.jpg",
-				"name": "AnotherCategory 6",
-                "category": "AnotherCategory"
-			},
-		{
-				"author": "FROM NICK NICE",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/7.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/7.jpg",
-				"name": "AnotherCategory 7",
-                "category": "AnotherCategory"
-			},
-		{
-				"author": "FROM NICK NICE",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/8.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/8.jpg",
-				"name": "AnotherCategory 8",
-                "category": "AnotherCategory"
-			},
-		{
-				"author": "FROM NICK NICE",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/9.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/9.jpg",
-				"name": "AnotherCategory 9",
-                "category": "AnotherCategory"
-			},
-		{
-				"author": "FROM NICK NICE",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/10.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/10.jpg",
-				"name": "AnotherCategory 10",
-                "category": "AnotherCategory"
-			},
-		{
-				"author": "FROM NICK NICE",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/11.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/11.jpg",
-				"name": "AnotherCategory 11",
-                "category": "AnotherCategory"
-			},
-		{
-				"author": "Taken from unsplash",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Neon%20Light/1.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Neon%20Light/1.jpg",
-				"name": "Neon Lights 1",
-                "category": "Neon Lights"
-			},
-		{
-				"author": "Taken from unsplash",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Neon%20Light/2.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Neon%20Light/2.jpg",
-				"name": "Neon Lights 2",
-                "category": "Neon Lights"
-			},
-		{
-				"author": "Taken from unsplash",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Neon%20Light/3.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Neon%20Light/3.jpg",
-				"name": "Neon Lights 3",
-                "category": "Neon Lights"
-			},
-		{
-				"author": "Taken from unsplash",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Neon%20Light/4.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Neon%20Light/4.jpg",
-				"name": "Neon Lights 4",
-                "category": "Neon Lights"
-			},
-		{
-				"author": "Taken from unsplash",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Neon%20Light/5.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Neon%20Light/5.jpg",
-				"name": "Neon Lights 5",
-                "category": "Neon Lights"
-			},
-		{
-				"author": "Taken from unsplash",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Neon%20Light/6.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Neon%20Light/6.jpg",
-				"name": "Neon Lights 6",
-                "category": "Neon Lights"
-			},
-		
-		{
-				"author": "Taken from unsplash",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/childhood%20memories/1.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20childhood%20memories/1.jpg",
-				"name": "childhood memories 1",
-                "category": "childhood memories,anothercategory"
-			},
-			{
-				"author": "Taken from unsplash",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/childhood%20memories/2.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20childhood%20memories/2.jpg",
-				"name": "childhood memories 2",
-                "category": "childhood memories"
-			},
-			{
-				"author": "Taken from unsplash",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/childhood%20memories/3.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20childhood%20memories/3.jpg",
-				"name": "childhood memories 3",
-                "category": "childhood memories"
-			},
-			{
-				"author": "Taken from unsplash",
-				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/childhood%20memories/4.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20childhood%20memories/4.jpg",
-				"name": "childhood memories 4",
-                "category": "childhood memories"
-			}
-		]
+			"author": "Taken from unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/childhood%20memories/1.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20childhood%20memories/1.jpg",
+			"name": "childhood memories 1",
+			"category": "childhood memories,anothercategory"
+		}, {
+			"author": "Taken from unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/childhood%20memories/2.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20childhood%20memories/2.jpg",
+			"name": "childhood memories 2",
+			"category": "childhood memories"
+		}, {
+			"author": "Taken from unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/childhood%20memories/3.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20childhood%20memories/3.jpg",
+			"name": "childhood memories 3",
+			"category": "childhood memories"
+		}, {
+			"author": "Taken from unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/childhood%20memories/4.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20childhood%20memories/4.jpg",
+			"name": "childhood memories 4",
+			"category": "childhood memories"
+		}
+	]
 }
