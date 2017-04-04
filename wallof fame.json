@@ -17,6 +17,27 @@
         [
 			{
 				"author": "Taken from unsplash",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/1.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/1.jpg",
+				"name": "AnotherCategory 1",
+                "category": "AnotherCategory"
+			},
+		{
+				"author": "Taken from unsplash",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/2.jpg",
+				"name": "AnotherCategory 2",
+                "category": "AnotherCategory"
+			},
+		{
+				"author": "Taken from unsplash",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/3.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/3.jpg",
+				"name": "AnotherCategory 3",
+                "category": "AnotherCategory"
+			},
+		{
+				"author": "Taken from unsplash",
 				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Neon%20Light/1.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Neon%20Light/1.jpg",
 				"name": "Neon Lights 1",
