@@ -10,42 +10,69 @@
 		}, {
 			"name": "xperia"
 		}, {
+			"name": "Material Minimal"
+		}, {
 			"name": "bmw"
-		},
-		{
+		}, {
 			"name": "AnotherCategory"
 		}
 	],
 
 	"Wallpapers": [{
+			"author": "From G+",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/1.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/1.png",
+			"name": "Material Minimal 1",
+			"category": "Material Minimal"
+		}, {
+			"author": "From G+",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/2.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/2.png",
+			"name": "Material Minimal 2",
+			"category": "Material Minimal"
+		}, {
+			"author": "From G+",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/3.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/3.png",
+			"name": "Material Minimal 3",
+			"category": "Material Minimal"
+		}, {
+			"author": "From G+",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/4.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/4.png",
+			"name": "Material Minimal 4",
+			"category": "Material Minimal"
+		}, {
+			"author": "From G+",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/5.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/5.png",
+			"name": "Material Minimal 5",
+			"category": "Material Minimal"
+		}, {
 			"author": "From SHUVRO",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BMW/1.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20bmw/1.jpg",
 			"name": "bmw 1",
 			"category": "bmw"
-		},
-		       {
+		}, {
 			"author": "From SHUVRO",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BMW/2.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20bmw/2.jpg",
 			"name": "bmw 2",
 			"category": "bmw"
-		},
-		       {
+		}, {
 			"author": "From SHUVRO",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BMW/3.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20bmw/3.jpg",
 			"name": "bmw 3",
 			"category": "bmw"
-		},
-		       {
+		}, {
 			"author": "From SHUVRO",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BMW/4.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20bmw/4.jpg",
 			"name": "bmw 4",
 			"category": "bmw"
-		},
-		{
+		}, {
 			"author": "From SONY",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/xperia/1.png",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20xperia/1.png",
