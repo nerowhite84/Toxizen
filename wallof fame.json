@@ -8,6 +8,9 @@
 		}, {
 			"name": "Neon Lights"
 		}, {
+			"name": "Earth"
+		},
+		{
 			"name": "Nero White Theme Walls"
 		}, {
 			"name": "xperia"
@@ -21,6 +24,13 @@
 	],
 
 	"Wallpapers": [{
+			"author": "FROM G+",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/1.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/1.jpg",
+			"name": "Earth 1",
+			"category": "Earth"
+		},
+		{
 			"author": "Nero Xperia Theme",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Nero%20White/1.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Nero%20White/1.jpg",
