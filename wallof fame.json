@@ -1,6 +1,7 @@
 {
-	"Categories": [
-
+	"Categories": [ {
+			"name": "iOS"
+		},
 		{
 			"name": "childhood memories"
 		}, {
@@ -24,6 +25,37 @@
 	],
 
 	"Wallpapers": [{
+			"author": "FROM iOS",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/iOS/1.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/iOS%20thumb/1.png",
+			"name": "iOS 1",
+			"category": "iOS"
+		}, {
+			"author": "FROM iOS",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/iOS/2.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/iOS%20thumb/2.jpg",
+			"name": "iOS 2",
+			"category": "iOS"
+		}, {
+			"author": "FROM iOS",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/iOS/3.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/iOS%20thumb/3.jpg",
+			"name": "iOS 3",
+			"category": "iOS"
+		}, {
+			"author": "FROM iOS",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/iOS/4.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/iOS%20thumb/4.jpg",
+			"name": "iOS 4",
+			"category": "iOS"
+		}, {
+			"author": "FROM iOS",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/iOS/5.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/iOS%20thumb/5.jpg",
+			"name": "iOS 5",
+			"category": "iOS"
+		},
+		{
 			"author": "FROM G+",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/1.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/1.jpg",
