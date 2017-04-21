@@ -1,5 +1,8 @@
 {
 	"Categories": [ {
+			"name": "tofuvi"
+		},
+		{
 			"name": "iOS"
 		},
 		{
@@ -25,6 +28,91 @@
 	],
 
 	"Wallpapers": [{
+			"author": "By Tofuvi",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi/1.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi%20thumb/1.png",
+			"name": "tofuvi 1",
+			"category": "tofuvi"
+		}, {
+			"author": "By Tofuvi",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi/2.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi%20thumb/2.png",
+			"name": "tofuvi 2",
+			"category": "tofuvi"
+		}, {
+			"author": "By Tofuvi",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi/3.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi%20thumb/3.png",
+			"name": "tofuvi 3",
+			"category": "tofuvi"
+		}, {
+			"author": "By Tofuvi",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi/4.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi%20thumb/4.png",
+			"name": "tofuvi 4",
+			"category": "tofuvi"
+		}, {
+			"author": "By Tofuvi",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi/5.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi%20thumb/5.png",
+			"name": "tofuvi 5",
+			"category": "tofuvi"
+		}, {
+			"author": "By Tofuvi",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi/6.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi%20thumb/6.png",
+			"name": "tofuvi 6",
+			"category": "tofuvi"
+		}, {
+			"author": "By Tofuvi",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi/7.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi%20thumb/7.png",
+			"name": "tofuvi 7",
+			"category": "tofuvi"
+		}, {
+			"author": "By Tofuvi",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi/8.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi%20thumb/8.png",
+			"name": "tofuvi 8",
+			"category": "tofuvi"
+		}, {
+			"author": "By Tofuvi",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi/9.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi%20thumb/9.png",
+			"name": "tofuvi 9",
+			"category": "tofuvi"
+		}, {
+			"author": "By Tofuvi",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi/10.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi%20thumb/10.png",
+			"name": "tofuvi 10",
+			"category": "tofuvi"
+		}, {
+			"author": "By Tofuvi",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi/11.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi%20thumb/11.png",
+			"name": "tofuvi 11",
+			"category": "tofuvi"
+		}, {
+			"author": "By Tofuvi",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi/12.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi%20thumb/12.png",
+			"name": "tofuvi 12",
+			"category": "tofuvi"
+		}, {
+			"author": "By Tofuvi",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi/13.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi%20thumb/13.png",
+			"name": "tofuvi 13",
+			"category": "tofuvi"
+		}, {
+			"author": "By Tofuvi",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi/14.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi%20thumb/14.png",
+			"name": "tofuvi 14",
+			"category": "tofuvi"
+		},
+		{
 			"author": "FROM iOS",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/iOS/1.png",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/iOS%20thumb/1.png",
