@@ -4,6 +4,8 @@
 		},
 		{
 			"name": "iOS"
+		}, {
+			"name": "science"
 		},
 		{
 			"name": "childhood memories"
@@ -28,6 +30,25 @@
 	],
 
 	"Wallpapers": [{
+			"author": "By NASA",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science/1.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science%20thumb/1.jpg",
+			"name": "science 1",
+			"category": "science"
+		}, {
+			"author": "By NASA",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science/2.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science%20thumb/2.jpg",
+			"name": "science 2",
+			"category": "science"
+		}, {
+			"author": "By NASA",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science/3.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science%20thumb/3.jpg",
+			"name": "science 3",
+			"category": "science"
+		},
+		{
 			"author": "By Tofuvi",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi/1.png",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi%20thumb/1.png",
