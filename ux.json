@@ -1,261 +1,36 @@
 {
 	"wallpapers": [
 		{
-			"name": "CARDCAPTOR",
+			"name": "UX 1",
 			"author": "Toxizen",
-			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/thum/16%20-%201%20(1).jpg",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wallpaperspro/16%20-%201%20(1).jpg",
-			"dimensions": "5261 x 3354",
-			"copyright": "@2017 Shuvro Mojumder"
-		},
-		{
-			"name": "16 - 1 (2)",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/ux%20wall%20thumb/1.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/ux%20wall/1.jpg",
+			"copyright": "@2017 Shuvro "
+		}, {
+			"name": "UX 2",
 			"author": "Toxizen",
-			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/thum/16%20-%202%20(1).jpg",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wallpaperspro/16%20-%201%20(2).jpg",
-			"dimensions": "862 x 1219",
-			"copyright": "@2017 Shuvro Mojumder"
-		},
-		{
-			"name": "CardCaptor Sakura",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/ux%20wall%20thumb/2.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/ux%20wall/2.jpg",
+			"copyright": "@2017 Shuvro "
+		}, {
+			"name": "UX 3",
 			"author": "Toxizen",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Wallpapers/4.jpg",
-			"dimensions": "849 x 1200",
-			"copyright": "@2017 Free do whatever you want"
-		},
-		{
-			"name": "CardCaptor Sakura",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/ux%20wall%20thumb/3.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/ux%20wall/3.jpg",
+			"copyright": "@2017 Shuvro "
+		}, {
+			"name": "UX 4",
 			"author": "Toxizen",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/cardcaptor/49633810_p0.jpg",
-			"copyright": "@2017 PIXIV ARTIST ART"
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/ux%20wall%20thumb/4.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/ux%20wall/4.jpg",
+			"copyright": "@2017 Shuvro "
 		},
 		{
-			"name": "CardCaptor Sakura",
+			"name": "UX 5",
 			"author": "Toxizen",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/cardcaptor/56116914_p0.jpg",
-			"copyright": "@2017 PIXIV ARTIST ART"
-		},
-		{
-			"name": "CardCaptor Sakura",
-			"author": "Toxizen",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/cardcaptor/56520474_p1_master1200.jpg",
-			"copyright": "@2017 PIXIV ARTIST ART"
-		},
-		{
-			"name": "CardCaptor Sakura",
-			"author": "Toxizen",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/cardcaptor/56736520_p0.png",
-			"copyright": "@2017 PIXIV ARTIST ART"
-		},
-		{
-			"name": "CardCaptor Sakura",
-			"author": "Toxizen",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Wallpapers/6.jpg",
-			"dimensions": "782 x 933",
-			"copyright": "@2017 Shuvro Mojumder"
-		},
-		{
-			"name": "Old Time",
-			"author": "Toxizen",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Wallpapers/8.jpg",
-			"dimensions": "810 x 1200",
-			"copyright": "@2017 Shuvro Mojumder"
-		},
-		{
-			"name": "LILIPUT",
-			"author": "Toxizen",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Wallpapers/1.jpg",
-			"dimensions": "808 x 1200",
-			"copyright": "@2017 Free do whatever you want"
-		},
-		{
-			"name": "Dawn",
-			"author": "Toxizen",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Wallpapers/Dawn.png",
-			"dimensions": "1080 x 1920",
-			"copyright": "@2017 Free do whatever you want"
-		},
-		{
-			"name": "Space",
-			"author": "Toxizen",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Wallpapers/013.png",
-			"dimensions": "1080 x 1920",
-			"copyright": "@2017 Free do whatever you want"
-		},
-		{
-			"name": "B///M",
-			"author": "Toxizen",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Wallpapers/BM%20Wall.png",
-			"copyright": "@2017 PIXIV ARTIST ART"
-		},
-		{
-			"name": "Green",
-			"author": "Toxizen",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Wallpapers/2017%20-%206.jpg",
-			"dimensions": "1080 x 1920",
-			"copyright": "@2017 Free do whatever you want"
-		},
-		{
-			"name": "Car",
-			"author": "Toxizen",
-			"url": "http://afok.weebly.com/uploads/9/1/6/9/91692972/8sgqbn.jpg",
-			"dimensions": "400 x 749",
-			"copyright": "@2017 Shuvro Mojumder"
-		},
-		{
-			"name": "Sunrise",
-			"author": "Toxizen",
-			"url": "http://afok.weebly.com/uploads/9/1/6/9/91692972/703659_orig.jpg",
-			"dimensions": "400 x 749",
-			"copyright": "@2017 Shuvro Mojumder"
-		},
-		{
-			"name": "Space",
-			"author": "Toxizen",
-			"url": "http://afok.weebly.com/uploads/9/1/6/9/91692972/planetscopycornie_orig.jpg",
-			"dimensions": "500 x 800",
-			"copyright": "@2017 Shuvro Mojumder"
-		},
-		{
-			"name": "Earth",
-			"author": "Toxizen",
-			"url": "http://afok.weebly.com/uploads/9/1/6/9/91692972/random-wallpaper-6_orig.jpg",
-			"dimensions": "450 x 800",
-			"copyright": "@2017 Shuvro Mojumder"
-		},
-		{
-			"name": "Random Girl",
-			"author": "Toxizen",
-			"url": "http://afok.weebly.com/uploads/9/1/6/9/91692972/ipbucvc_orig.jpg",
-			"dimensions": "1100 x 702",
-			"copyright": "@2017 Shuvro Mojumder"
-		},
-		{
-			"name": "NEVER SETTLE",
-			"author": "ONE PLUS",
-			"url": "http://afok.weebly.com/uploads/9/1/6/9/91692972/one-plus-one-bw_orig.png",
-			"dimensions": "1000 x 800",
-			"copyright": "@2017 ONE PLUS"
-		},
-		{
-			"name": "NIGHT SKY",
-			"author": "SHUVRO MOJUMDER",
-			"url": "http://afok.weebly.com/uploads/9/1/6/9/91692972/img-20150731-203356_orig.png",
-			"dimensions": "533 x 800",
-			"copyright": "@2017 ONE PLUS"
-		},
-		{
-			"name": "BMW2",
-			"author": "SHUVRO MOJUMDER",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wallpaperspro/bmw2.jpg",
-			"dimensions": "1080 x 1920",
-			"copyright": "@2017 SHUVRO MOJUMDER"
-		},
-		{
-			"name": "BMW1",
-			"author": "SHUVRO MOJUMDER",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wallpaperspro/bmw_1.jpg",
-			"dimensions": "1080 x 1920",
-			"copyright": "@2017 SHUVRO MOJUMDER"
-		},
-		{
-			"name": "BOY",
-			"author": "Toxizen",
-			"url": "http://afok.weebly.com/uploads/9/1/6/9/91692972/59401691-p0-master1200_orig.jpg",
-			"dimensions": "700 x 700",
-			"copyright": "@2017 TOFUVI"
-		},
-		{
-			"name": "16 - 1",
-			"author": "Toxizen",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wallpaperspro/16%20-%201.jpg",
-			"dimensions": "1094 x 800",
-			"copyright": "@2017 Shuvro Mojumder"
-		},
-		{
-			"name": "16 - 1",
-			"author": "Toxizen",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wallpaperspro/16%20-%201.png",
-			"dimensions": "1440 x 2560",
-			"copyright": "@2017 Shuvro Mojumder"
-		},
-		{
-			"name": "16 - 2 (1)",
-			"author": "Toxizen",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wallpaperspro/16%20-%202%20(1).jpg",
-			"dimensions": "2560 x 1760",
-			"copyright": "@2017 Shuvro Mojumder"
-		},
-		{
-			"name": "16 - 2",
-			"author": "Toxizen",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wallpaperspro/16%20-%202.jpg",
-			"dimensions": "1080 x 1920",
-			"copyright": "@2017 Shuvro Mojumder"
-		},
-		{
-			"name": "16 - 2",
-			"author": "Toxizen",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wallpaperspro/16%20-%202.png",
-			"dimensions": "800 x 1098",
-			"copyright": "@2017 Shuvro Mojumder"
-		},
-		{
-			"name": "16 - 3",
-			"author": "Toxizen",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wallpaperspro/16%20-%203.jpg",
-			"dimensions": "566 x 800",
-			"copyright": "@2017 Shuvro Mojumder"
-		},
-		{
-			"name": "16 - 4",
-			"author": "Toxizen",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wallpaperspro/16%20-%204.png",
-			"dimensions": "577 x 1024",
-			"copyright": "@2017 Shuvro Mojumder"
-		},
-		{
-			"name": "17 - 1",
-			"author": "Toxizen",
-			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/thum/17%20-%201.jpg",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wallpaperspro/17%20-%201.jpg",
-			"dimensions": "3120 x 4160",
-			"copyright": "@2017 Shuvro Mojumder"
-		},
-		{
-			"name": "2016 - 1",
-			"author": "Toxizen",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wallpaperspro/2016%20-%201.png",
-			"dimensions": "1080 x 1920",
-			"copyright": "@2017 Shuvro Mojumder"
-		},
-		{
-			"name": "chahua",
-			"author": "Toxizen",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wallpaperspro/chahua.png",
-			"dimensions": "760 x 1335",
-			"copyright": "@2017 Shuvro Mojumder"
-		},
-		{
-			"name": "night_rain",
-			"author": "Toxizen",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wallpaperspro/night_rain.png",
-			"dimensions": "1440 x 2560",
-			"copyright": "@2017 Shuvro Mojumder"
-		},
-		{
-			"name": "Train Alone",
-			"author": "Toxizen",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wallpaperspro/pixiv60283897.jpg",
-			"dimensions": "900 x 1273",
-			"copyright": "@2017 PIXIV"
-		},
-		{
-			"name": "MATERIAL NIGHT",
-			"author": "Toxizen",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/wallpaperspro/semc_theme_lockscreen_wallpaper.png",
-			"dimensions": "760 x 1335",
-			"copyright": "@2017 Shuvro Mojumder"
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/ux%20wall%20thumb/5.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/ux%20wall/5.jpg",
+			"copyright": "@2017 Shuvro "
 		}
 	]
 }
