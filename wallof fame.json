@@ -21,6 +21,9 @@
 		}, {
 			"name": "xperia"
 		}, {
+			"name": "Mountain"
+		}, 
+		   {
 			"name": "Material Minimal"
 		}, {
 			"name": "bmw"
@@ -30,6 +33,43 @@
 	],
 
 	"Wallpapers": [{
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/mountain/1.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/mountain%20thumb/1.jpg",
+			"name": "Mountain 1",
+			"category": "Mountain"
+		}, {
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/mountain/2.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/mountain%20thumb/2.jpg",
+			"name": "Mountain 2",
+			"category": "Mountain"
+		}, {
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/mountain/3.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/mountain%20thumb/3.jpg",
+			"name": "Mountain 3",
+			"category": "Mountain"
+		}, {
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/mountain/4.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/mountain%20thumb/4.jpg",
+			"name": "Mountain 4",
+			"category": "Mountain"
+		}, {
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/mountain/5.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/mountain%20thumb/5.jpg",
+			"name": "Mountain 5",
+			"category": "Mountain"
+		}, {
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/mountain/6.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/mountain%20thumb/6.jpg",
+			"name": "Mountain 6",
+			"category": "Mountain"
+		},
+		{
 			"author": "By NASA",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science/1.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science%20thumb/1.jpg",
