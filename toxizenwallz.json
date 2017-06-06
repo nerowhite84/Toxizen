@@ -13,27 +13,31 @@
     ],
     "Wallpapers":[
         {
-            "name":"Wallsplash 1",
-            "author":"wallsplash",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-            "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
-            "collections":"featured,superhero,people,city"
+            "name":"Superhero 1",
+            "author":"Shudipto Mondal",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Superhero%20Wall/1.png",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Thumb%20Superhero/1.png",
+            "collections":"featured,superhero"
         },
         {
-            "name":"Wallsplash 2",
-            "author":"wallsplash",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-            "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"featured,superhero,people,food"
-        },
-        {
-            "name":"Wallsplash 3",
-            "author":"wallsplash",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-            "copyright":"Free (do whatever you want)",
-            "collections":"featured,food,people"
+            "name":"Superhero 2",
+            "author":"Shudipto Mondal",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Superhero%20Wall/2.png",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Thumb%20Superhero/2.png",
+            "collections":"featured,superhero,"
+        }, {
+            "name":"Superhero 3",
+            "author":"Shudipto Mondal",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Superhero%20Wall/3.png",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Thumb%20Superhero/3.png",
+            "collections":"featured,superhero,"
+        }, {
+            "name":"Superhero 4",
+            "author":"Shudipto Mondal",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Superhero%20Wall/4.png",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Thumb%20Superhero/4.png",
+            "collections":"featured,superhero,"
         }
+        
     ]
 }
