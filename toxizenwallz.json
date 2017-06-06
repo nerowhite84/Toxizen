@@ -1,9 +1,9 @@
 {
     "Collections":[
         {
-            "name":"Landscapes",
-            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+            "name":"superhero",
+            "preview_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Superhero%20Wall/1.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Thumb%20Superhero/1.png"
         },
         {
             "name":"City",
@@ -17,7 +17,7 @@
             "author":"wallsplash",
             "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
             "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
-            "collections":"featured,landscapes,people,city"
+            "collections":"featured,superhero,people,city"
         },
         {
             "name":"Wallsplash 2",
@@ -26,7 +26,7 @@
             "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
             "dimensions":"3200x2560",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,landscapes,people,food"
+            "collections":"featured,superhero,people,food"
         },
         {
             "name":"Wallsplash 3",
