@@ -6,12 +6,45 @@
             "preview_thumbnail_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Thumb%20Superhero/1.png"
         },
         {
+            "name":"Material Minimal",
+            "preview_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/13.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/13.jpg"
+        },
+        {
             "name":"City",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
         }
     ],
     "Wallpapers":[
+        {
+            "name":"Material Minimal 1",
+            "author":"From G+",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/2.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/2.jpg",
+            "collections":"featured,Material Minimal,"
+        },
+        {
+            "name":"Material Minimal 2",
+            "author":"From G+",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/3.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/3.jpg",
+            "collections":"featured,Material Minimal,"
+        },
+        {
+            "name":"Material Minimal 3",
+            "author":"From G+",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/3.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/3.jpg",
+            "collections":"featured,Material Minimal,"
+        },
+        {
+            "name":"Material Minimal 4",
+            "author":"From G+",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/4.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/4.jpg",
+            "collections":"featured,Material Minimal,"
+        },
         {
             "name":"Superhero 1",
             "author":"Shudipto Mondal",
