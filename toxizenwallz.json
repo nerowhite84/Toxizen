@@ -18,6 +18,41 @@
     ],
     "Wallpapers":[
         {
+            "name":"City 1",
+            "author":"Taken from unsplash",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Neon%20Light/1.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Neon%20Light/1.jpg",
+            "collections":"featured,City,"
+        },
+        {
+            "name":"City 2",
+            "author":"Taken from unsplash",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Neon%20Light/2.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Neon%20Light/2.jpg",
+            "collections":"featured,City,"
+        },
+        {
+            "name":"City 3",
+            "author":"Taken from unsplash",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Neon%20Light/3.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Neon%20Light/3.jpg",
+            "collections":"featured,City,"
+        },
+        {
+            "name":"City 4",
+            "author":"Taken from unsplash",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Neon%20Light/4.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Neon%20Light/4.jpg",
+            "collections":"featured,City,"
+        },
+        {
+            "name":"City 5",
+            "author":"Taken from unsplash",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Neon%20Light/5.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Neon%20Light/5.jpg",
+            "collections":"featured,City,"
+        },
+        {
             "name":"Material Minimal 1",
             "author":"From G+",
             "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/2.jpg",
@@ -34,15 +69,36 @@
         {
             "name":"Material Minimal 3",
             "author":"From G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/3.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/3.jpg",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/4.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/4.jpg",
             "collections":"featured,Material Minimal,"
         },
         {
             "name":"Material Minimal 4",
             "author":"From G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/4.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/4.jpg",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/5.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/5.jpg",
+            "collections":"featured,Material Minimal,"
+        },
+        {
+            "name":"Material Minimal 5",
+            "author":"From G+",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/6.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/6.jpg",
+            "collections":"featured,Material Minimal,"
+        },
+        {
+            "name":"Material Minimal 6",
+            "author":"From G+",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/7.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/7.jpg",
+            "collections":"featured,Material Minimal,"
+        },
+        {
+            "name":"Material Minimal 7",
+            "author":"From G+",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/8.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/8.jpg",
             "collections":"featured,Material Minimal,"
         },
         {
@@ -50,14 +106,14 @@
             "author":"Shudipto Mondal",
             "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Superhero%20Wall/1.png",
             "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Thumb%20Superhero/1.png",
-            "collections":"featured,superhero,City"
+            "collections":"featured,superhero,"
         },
         {
             "name":"Superhero 2",
             "author":"Shudipto Mondal",
             "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Superhero%20Wall/2.png",
             "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Thumb%20Superhero/2.png",
-            "collections":"featured,superhero,City"
+            "collections":"featured,superhero,"
         }, {
             "name":"Superhero 3",
             "author":"Shudipto Mondal",
