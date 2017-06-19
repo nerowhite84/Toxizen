@@ -11,12 +11,87 @@
             "preview_thumbnail_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/13.jpg"
         },
         {
+            "name":"Cardcaptor Sakura",
+            "preview_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor%20thumb/9.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor%20thumb/9.jpg"
+        },
+        {
             "name":"City",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
         }
     ],
     "Wallpapers":[
+        {
+            "name":"Cardcaptor Sakura 1",
+            "author":"Taken from Pixiv",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor/1.png",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor%20thumb/1.png",
+            "collections":"featured,Cardcaptor Sakura,"
+        },
+        {
+            "name":"Cardcaptor Sakura 2",
+            "author":"Taken from Pixiv",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor/2.png",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor%20thumb/2.png",
+            "collections":"featured,Cardcaptor Sakura,"
+        },
+        {
+            "name":"Cardcaptor Sakura 3",
+            "author":"Taken from Pixiv",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor/3.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor%20thumb/3.jpg",
+            "collections":"featured,Cardcaptor Sakura,"
+        },
+        {
+            "name":"Cardcaptor Sakura 4",
+            "author":"Taken from Pixiv",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor/4.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor%20thumb/4.jpg",
+            "collections":"featured,Cardcaptor Sakura,"
+        },
+        {
+            "name":"Cardcaptor Sakura 5",
+            "author":"Taken from Pixiv",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor/5.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor%20thumb/5.jpg",
+            "collections":"featured,Cardcaptor Sakura,"
+        },
+        {
+            "name":"Cardcaptor Sakura 6",
+            "author":"Taken from Pixiv",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor/6.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor%20thumb/6.jpg",
+            "collections":"featured,Cardcaptor Sakura,"
+        },
+        {
+            "name":"Cardcaptor Sakura 7",
+            "author":"Taken from Pixiv",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor/7.png",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor%20thumb/7.png",
+            "collections":"featured,Cardcaptor Sakura,"
+        },
+        {
+            "name":"Cardcaptor Sakura 8",
+            "author":"Taken from Pixiv",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor/8.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor%20thumb/8.jpg",
+            "collections":"featured,Cardcaptor Sakura,"
+        },
+        {
+            "name":"Cardcaptor Sakura 9",
+            "author":"Taken from Pixiv",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor/9.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor%20thumb/9.jpg",
+            "collections":"featured,Cardcaptor Sakura,"
+        },
+        {
+            "name":"Cardcaptor Sakura 10",
+            "author":"Taken from Pixiv",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor/10.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor%20thumb/10.jpg",
+            "collections":"featured,Cardcaptor Sakura,"
+        },
         {
             "name":"City 1",
             "author":"Taken from unsplash",
