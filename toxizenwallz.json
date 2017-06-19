@@ -53,6 +53,48 @@
             "collections":"featured,City,"
         },
         {
+            "name":"City 6",
+            "author":"Taken from unsplash",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/city/1.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/city%20thumb/1.jpg",
+            "collections":"featured,City,"
+        },
+        {
+            "name":"City 7",
+            "author":"Taken from unsplash",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/city/2.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/city%20thumb/2.jpg",
+            "collections":"featured,City,"
+        },
+        {
+            "name":"City 8",
+            "author":"Taken from unsplash",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/city/3.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/city%20thumb/3.jpg",
+            "collections":"featured,City,"
+        },
+        {
+            "name":"City 9",
+            "author":"Taken from unsplash",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/city/4.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/city%20thumb/4.jpg",
+            "collections":"featured,City,"
+        },
+        {
+            "name":"City 10",
+            "author":"Taken from unsplash",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/city/5.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/city%20thumb/5.jpg",
+            "collections":"featured,City,"
+        },
+       {
+            "name":"City 11",
+            "author":"Taken from unsplash",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/city/6.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/city%20thumb/6.jpg",
+            "collections":"featured,City,"
+        },
+        {
             "name":"Material Minimal 1",
             "author":"From G+",
             "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/2.jpg",
@@ -62,8 +104,8 @@
         {
             "name":"Material Minimal 2",
             "author":"From G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/3.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/3.jpg",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/3.png",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/3.png",
             "collections":"featured,Material Minimal,"
         },
         {
