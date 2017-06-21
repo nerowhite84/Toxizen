@@ -6,6 +6,11 @@
             "preview_thumbnail_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Thumb%20Superhero/1.png"
         },
         {
+            "name":"Amoled Wallz",
+            "preview_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled/1.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled%20Thumb/1.jpg"
+        },
+        {
             "name":"Material Minimal",
             "preview_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/13.jpg",
             "preview_thumbnail_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/13.jpg"
@@ -32,6 +37,41 @@
         }
     ],
     "Wallpapers":[
+        {
+            "name":"Amoled 1",
+            "author":"From Google/G+",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled/1.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled%20Thumb/1.jpg",
+            "collections":"featured,Amoled Wallz,"
+        },
+         {
+            "name":"Amoled 2",
+            "author":"From Google/G+",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled/2.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled%20Thumb/2.jpg",
+            "collections":"featured,Amoled Wallz,"
+        },
+        {
+            "name":"Amoled 3",
+            "author":"From Google/G+",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled/3.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled%20Thumb/3.jpg",
+            "collections":"featured,Amoled Wallz,"
+        },
+        {
+            "name":"Amoled 4",
+            "author":"From Google/G+",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled/4.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled%20Thumb/4.jpg",
+            "collections":"featured,Amoled Wallz,"
+        },
+        {
+            "name":"Amoled 5",
+            "author":"From Google/G+",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled/5.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled%20Thumb/5.jpg",
+            "collections":"featured,Amoled Wallz,"
+        },
         {
             "name":"OnePlus 1",
             "author":"OnePlus",
