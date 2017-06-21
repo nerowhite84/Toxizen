@@ -11,6 +11,11 @@
             "preview_thumbnail_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/13.jpg"
         },
         {
+            "name":"OnePlus",
+            "preview_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/2.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/2.jpg"
+        },
+        {
             "name":"Hangmoon",
             "preview_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon/3.jpg",
             "preview_thumbnail_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon%20thumb/3.jpg"
@@ -27,6 +32,48 @@
         }
     ],
     "Wallpapers":[
+        {
+            "name":"OnePlus 1",
+            "author":"OnePlus",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/1.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/1.jpg",
+            "collections":"featured,OnePlus,"
+        },
+        {
+            "name":"OnePlus 2",
+            "author":"OnePlus",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/2.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/2.jpg",
+            "collections":"featured,OnePlus,"
+        },
+        {
+            "name":"OnePlus 3",
+            "author":"OnePlus",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/3.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/3.jpg",
+            "collections":"featured,OnePlus,"
+        },
+        {
+            "name":"OnePlus 4",
+            "author":"OnePlus",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/4.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/4.jpg",
+            "collections":"featured,OnePlus,"
+        },
+        {
+            "name":"OnePlus 5",
+            "author":"OnePlus",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/5.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/5.jpg",
+            "collections":"featured,OnePlus,"
+        },
+        {
+            "name":"OnePlus 6",
+            "author":"OnePlus",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/6.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/6.jpg",
+            "collections":"featured,OnePlus,"
+        },
         {
             "name":"Hangmoon 1",
             "author":"Hang",
