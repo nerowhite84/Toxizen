@@ -11,6 +11,11 @@
             "preview_thumbnail_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled%20Thumb/1.jpg"
         },
         {
+            "name":"Stock Android",
+            "preview_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Stock%20Android/6.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Stock%20Android%20Thumb/6.jpg"
+        },
+        {
             "name":"Material Minimal",
             "preview_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/13.jpg",
             "preview_thumbnail_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/13.jpg"
@@ -37,6 +42,48 @@
         }
     ],
     "Wallpapers":[
+        {
+            "name":"Stock 1",
+            "author":"From Google/G+/Android",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Stock%20Android/1.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Stock%20Android%20Thumb/1.jpg",
+            "collections":"featured,Stock Android,"
+        },
+        {
+            "name":"Stock 2",
+            "author":"From Google/G+/Android",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Stock%20Android/2.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Stock%20Android%20Thumb/2.jpg",
+            "collections":"featured,Stock Android,"
+        },
+        {
+            "name":"Stock 3",
+            "author":"From Google/G+/Android",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Stock%20Android/3.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Stock%20Android%20Thumb/3.jpg",
+            "collections":"featured,Stock Android,"
+        },
+        {
+            "name":"Stock 4",
+            "author":"From Google/G+/Android",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Stock%20Android/4.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Stock%20Android%20Thumb/4.jpg",
+            "collections":"featured,Stock Android,"
+        },
+        {
+            "name":"Stock 5",
+            "author":"From Google/G+/Android",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Stock%20Android/5.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Stock%20Android%20Thumb/5.jpg",
+            "collections":"featured,Stock Android,"
+        },
+        {
+            "name":"Stock 6",
+            "author":"From Google/G+/Android",
+            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Stock%20Android/6.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Stock%20Android%20Thumb/6.jpg",
+            "collections":"featured,Stock Android,"
+        },
         {
             "name":"Amoled 1",
             "author":"From Google/G+",
