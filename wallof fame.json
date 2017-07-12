@@ -1224,12 +1224,6 @@
 			"category": "AnotherCategory"
 		}, {
 			"author": "Taken from unsplash",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/21.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/21.jpg",
-			"name": "AnotherCategory 21",
-			"category": "AnotherCategory"
-		}, {
-			"author": "Taken from unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/24.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/24.jpg",
 			"name": "AnotherCategory 24",
@@ -1337,6 +1331,49 @@
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20childhood%20memories/4.jpg",
 			"name": "childhood memories 4",
 			"category": "childhood memories"
+		}, {
+			"author": "By Alex Iby",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/26.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/26.jpg",
+			"name": "Coffee Shop",
+			"category": "AnotherCategory"
+		}, {
+			"author": "By Perfect Hue",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/27.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/27.jpg",
+			"name": "Dots",
+			"category": "AnotherCategory"
+		}, {
+			"author": "By Perfect Hue",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/28.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/28.jpg",
+			"name": "Edge",
+			"category": "AnotherCategory"
+		}, {
+			"author": "By Alex Iby",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/29.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/29.jpg",
+			"name": "Expose",
+			"category": "AnotherCategory"
+		}, {
+			"author": "By Paper Crane",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/30.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/30.jpg",
+			"name": "Inner Space",
+			"category": "AnotherCategory"
+		}, {
+			"author": "By Paper Crane",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/31.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/31.jpg",
+			"name": "Many Lands under one sun",
+			"category": "AnotherCategory"
+		},
+		       {
+			"author": "By Perfect Hue",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/32.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/32.jpg",
+			"name": "Silhouette",
+			"category": "AnotherCategory"
 		}
 	]
 }
