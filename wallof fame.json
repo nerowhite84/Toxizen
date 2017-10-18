@@ -29,12 +29,69 @@
 			"name": "Material Minimal"
 		}, {
 			"name": "bmw"
+		},{
+			"name": "Amoled Walls"
 		}, {
 			"name": "AnotherCategory"
 		}
 	],
 
 	"Wallpapers": [{
+			"author": "Google+",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/1.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/1.jpg",
+			"name": "Amoled 1",
+			"category": "Amoled Walls"
+		}, {
+			"author": "Google+",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/2.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/2.jpg",
+			"name": "Amoled 2",
+			"category": "Amoled Walls"
+		}, {
+			"author": "Google+",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/3.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/3.jpg",
+			"name": "Amoled 3",
+			"category": "Amoled Walls"
+		}, {
+			"author": "Google+",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/4.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/4.png",
+			"name": "Amoled 4",
+			"category": "Amoled Walls"
+		}, {
+			"author": "Google+",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/5.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/5.png",
+			"name": "Amoled 5",
+			"category": "Amoled Walls"
+		}, {
+			"author": "Google+",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/6.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/6.jpg",
+			"name": "Amoled 6",
+			"category": "Amoled Walls"
+		}, {
+			"author": "Google+",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/7.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/7.jpg",
+			"name": "Amoled 7",
+			"category": "Amoled Walls"
+		}, {
+			"author": "Google+",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/8.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/8.jpg",
+			"name": "Amoled 8",
+			"category": "Amoled Walls"
+		}, {
+			"author": "Google+",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/9.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/9.jpg",
+			"name": "Amoled 9",
+			"category": "Amoled Walls"
+		},
+		{
 			"author": "Unknown",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/weather/6.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20weather/6.jpg",
