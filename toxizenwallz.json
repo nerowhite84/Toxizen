@@ -41,6 +41,37 @@
         }
     ],
     "Wallpapers":[{
+            "name":"Asuna Yuuki",
+            "author":"NcollArt",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/NcollArt/Asuna%20Yuuki.jpg",
+            "collections":"ANIME,"
+        }, {
+            "name":"Forest Mountain",
+            "author":"NcollArt",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/NcollArt/Forest%20mountain.jpg",
+            "collections":"ANIME,ART,featured"
+        },  {
+            "name":"Yamada",
+            "author":"NcollArt",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/NcollArt/Elf%20Yamada.jpg",
+            "collections":"ANIME,"
+        }, {
+            "name":"Balbasaur Ivysaur",
+            "author":"NcollArt",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/NcollArt/Bulbasaur%20Ivysaur%20Venusaur.jpg",
+            "collections":"ANIME,"
+        }, {
+            "name":"Itachi Uchiha",
+            "author":"NcollArt",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/NcollArt/Itachi%20Uchiha.jpg",
+            "collections":"ANIME,"
+        }, {
+            "name":"Japanese Pagoda",
+            "author":"NcollArt",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/NcollArt/Japanese%20pagoda.jpg",
+            "collections":"ANIME,ART,featured"
+        }, 
+        {
             "name":"Anggrek Bulan",
             "author":"Aletta Carissa",
             "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Aletta%20Carissa/Anggrek%20Bulan.jpg",
