@@ -1,9 +1,13 @@
 {
-    "Collections":[
-        {
-            "name":"superhero",
-            "preview_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Superhero%20Wall/1.png",
-            "preview_thumbnail_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Thumb%20Superhero/1.png"
+    "Collections":[{
+            "name":"ART",
+            "preview_url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Sandi%20Rahmani/Whalake.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Sandi%20Rahmani/Whalake.jpg"
+        },
+         {
+            "name":"REAL LIFE PHOTO",
+            "preview_url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/REAL%20LIFE%20PHOTO/Alex%20Blajan/San%20Giovanni%20morning.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/REAL%20LIFE%20PHOTO/Alex%20Blajan/San%20Giovanni%20morning.jpg"
         },
         {
             "name":"Dope",
@@ -16,19 +20,9 @@
             "preview_thumbnail_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/shuvro%20thumb/7.png"
         },
         {
-            "name":"Amoled Wallz",
-            "preview_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled/1.jpg",
-            "preview_thumbnail_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled%20Thumb/1.jpg"
-        },
-        {
             "name":"Stock Android",
             "preview_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Stock%20Android/6.jpg",
             "preview_thumbnail_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Stock%20Android%20Thumb/6.jpg"
-        },
-        {
-            "name":"Material Minimal",
-            "preview_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/13.jpg",
-            "preview_thumbnail_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/13.jpg"
         },
         {
             "name":"けーしん",
@@ -41,22 +35,49 @@
             "preview_thumbnail_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/2.jpg"
         },
         {
-            "name":"Hangmoon",
-            "preview_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon/3.jpg",
-            "preview_thumbnail_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon%20thumb/3.jpg"
+            "name":"ANIME",
+            "preview_url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/NcollArt/Wolf%20mountain.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/NcollArt/Wolf%20mountain.jpg"
         },
-        {
-            "name":"Naruto",
-            "preview_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/naruto%20thumb/cover.jpg",
-            "preview_thumbnail_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/naruto%20thumb/cover.jpg"
-        },
-        {
-            "name":"Cardcaptor Sakura",
-            "preview_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor%20thumb/9.jpg",
-            "preview_thumbnail_url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor%20thumb/9.jpg"
-        }
     ],
-    "Wallpapers":[
+    "Wallpapers":[{
+            "name":"Anggrek Bulan",
+            "author":"Aletta Carissa",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Aletta%20Carissa/Anggrek%20Bulan.jpg"
+            "collections":"ANIME,"
+        },
+         {
+            "name":"Catti the cat",
+            "author":"Aletta Carissa",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Aletta%20Carissa/Catti%20the%20cat.jpg"
+            "collections":"ANIME,"
+        },
+        {
+            "name":"Luffy",
+            "author":"Aletta Carissa",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Aletta%20Carissa/Luffy.jpg"
+            "collections":"ANIME,"
+        }, {
+            "name":"Pingu Pinguin",
+            "author":"Aletta Carissa",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Aletta%20Carissa/Pingu%20Pinguin.jpg"
+            "collections":"ANIME,"
+        }, {
+            "name":"Pingu Pinguin",
+            "author":"Aletta Carissa",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Aletta%20Carissa/Pingu%20Pinguin.jpg"
+            "collections":"ANIME,"
+        }, {
+            "name":"Sanji",
+            "author":"Aletta Carissa",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Aletta%20Carissa/Sanji.jpg"
+            "collections":"ANIME,"
+        }, {
+            "name":"Tabby Fox",
+            "author":"Aletta Carissa",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Aletta%20Carissa/Tabby%20fox.jpg"
+            "collections":"ANIME,"
+        },                     
         {
             "name":"Dope 1",
             "author":"Unsplash",
@@ -104,21 +125,21 @@
             "author":"Unsplash",
             "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/7.jpg",
             "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/7.jpg",
-            "collections":"Dope,"
+            "collections":"Dope,REAL LIFE PHOTO"
         },
         {
             "name":"Dope 8",
             "author":"Unsplash",
             "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/8.jpg",
             "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/8.jpg",
-            "collections":"featured,Dope,"
+            "collections":"featured,Dope,REAL LIFE PHOTO"
         },
         {
             "name":"Dope 9",
             "author":"Unsplash",
             "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/9.jpg",
             "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/9.jpg",
-            "collections":"Dope,"
+            "collections":"Dope,REAL LIFE PHOTO"
         },
         {
             "name":"Dope 10",
@@ -209,126 +230,63 @@
             "author":"けーしん",
             "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/けーしん/1.jpg",
             "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/けーしん%20thumb/1.jpg",
-            "collections":"featured,けーしん,"
+            "collections":"featured,けーしん,ART"
         },
         {
             "name":"けーしん 2",
             "author":"けーしん",
             "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/けーしん/2.jpg",
             "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/けーしん%20thumb/2.jpg",
-            "collections":"けーしん,"
+            "collections":"けーしん,ART"
         },
         {
             "name":"けーしん 3",
             "author":"けーしん",
             "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/けーしん/3.jpg",
             "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/けーしん%20thumb/3.jpg",
-            "collections":"けーしん,"
+            "collections":"けーしん,ART"
         },
         {
             "name":"けーしん 4",
             "author":"けーしん",
             "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/けーしん/4.jpg",
             "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/けーしん%20thumb/4.jpg",
-            "collections":"けーしん,"
+            "collections":"けーしん,ART"
         },
         {
             "name":"けーしん 5",
             "author":"けーしん",
             "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/けーしん/5.png",
             "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/けーしん%20thumb/5.png",
-            "collections":"けーしん,"
+            "collections":"けーしん,ART"
         },
         {
             "name":"けーしん 6",
             "author":"けーしん",
             "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/けーしん/6.jpg",
             "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/けーしん%20thumb/6.jpg",
-            "collections":"featured,けーしん,"
+            "collections":"featured,けーしん,ART"
         },
         {
             "name":"けーしん 7",
             "author":"けーしん",
             "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/けーしん/7.jpg",
             "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/けーしん%20thumb/7.jpg",
-            "collections":"けーしん,"
+            "collections":"けーしん,ART"
         },
         {
             "name":"けーしん 8",
             "author":"けーしん",
             "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/けーしん/8.jpg",
             "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/けーしん%20thumb/8.png",
-            "collections":"featured,けーしん,"
+            "collections":"featured,けーしん,ART"
         },
         {
             "name":"けーしん 9",
             "author":"けーしん",
             "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/けーしん/9.jpg",
             "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/けーしん%20thumb/9.png",
-            "collections":"featured,けーしん,"
-        },
-        {
-            "name":"Naruto 1",
-            "author":"SL4eva",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Naruto/1.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/naruto%20thumb/1.jpg",
-            "collections":"featured,Naruto,"
-        },
-        {
-            "name":"Naruto 2",
-            "author":"SL4eva",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Naruto/2.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/naruto%20thumb/2.jpg",
-            "collections":"featured,Naruto,"
-        },
-        {
-            "name":"Naruto 3",
-            "author":"SL4eva",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Naruto/3.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/naruto%20thumb/3.jpg",
-            "collections":"Naruto,"
-        },
-        {
-            "name":"Naruto 4",
-            "author":"SL4eva",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Naruto/4.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/naruto%20thumb/4.jpg",
-            "collections":"Naruto,"
-        },
-        {
-            "name":"Naruto 5",
-            "author":"SL4eva",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Naruto/5.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/naruto%20thumb/5.jpg",
-            "collections":"Naruto,"
-        },
-        {
-            "name":"Naruto 6",
-            "author":"SL4eva",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Naruto/6.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/naruto%20thumb/6.jpg",
-            "collections":"Naruto,"
-        },
-        {
-            "name":"Naruto 7",
-            "author":"SL4eva",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Naruto/7.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/naruto%20thumb/7.jpg",
-            "collections":"Naruto,"
-        },
-        {
-            "name":"Naruto 8",
-            "author":"SL4eva",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Naruto/8.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/naruto%20thumb/8.jpg",
-            "collections":"Naruto,"
-        },
-        {
-            "name":"Naruto 9",
-            "author":"From Google Author Unknown",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Naruto/9.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/naruto%20thumb/9.jpg",
-            "collections":"Naruto,"
+            "collections":"featured,けーしん,ART"
         },
         {
             "name":"Stock 1",
@@ -373,125 +331,6 @@
             "collections":"featured,Stock Android,"
         },
         {
-            "name":"Amoled 1",
-            "author":"From Google/G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled/1.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled%20Thumb/1.jpg",
-            "collections":"featured,Amoled Wallz,"
-        },
-         {
-            "name":"Amoled 2",
-            "author":"From Google/G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled/2.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled%20Thumb/2.jpg",
-            "collections":"featured,Amoled Wallz,"
-        },
-        {
-            "name":"Amoled 3",
-            "author":"From Google/G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled/3.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled%20Thumb/3.jpg",
-            "collections":"featured,Amoled Wallz,"
-        },
-        {
-            "name":"Amoled 4",
-            "author":"From Google/G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled/4.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled%20Thumb/4.jpg",
-            "collections":"featured,Amoled Wallz,"
-        },
-        {
-            "name":"Amoled 5",
-            "author":"From Google/G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled/5.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled%20Thumb/5.jpg",
-            "collections":"Amoled Wallz,"
-        },
-        {
-            "name":"Amoled 6",
-            "author":"From Google/G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled/6.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled%20Thumb/6.jpg",
-            "collections":"Amoled Wallz,"
-        },
-        {
-            "name":"Amoled 7",
-            "author":"From Google/G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled/7.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled%20Thumb/7.jpg",
-            "collections":"featured,Amoled Wallz,"
-        },
-        {
-            "name":"Amoled 8",
-            "author":"From Google/G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled/8.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled%20Thumb/8.jpg",
-            "collections":"Amoled Wallz,"
-        },
-        {
-            "name":"Amoled 9",
-            "author":"From Google/G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled/9.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled%20Thumb/9.jpg",
-            "collections":"Amoled Wallz,"
-        },
-        {
-            "name":"Amoled 10",
-            "author":"From Google/G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled/10.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled%20Thumb/10.jpg",
-            "collections":"Amoled Wallz,"
-        },
-        {
-            "name":"Amoled 11",
-            "author":"From Google/G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled/11.png",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled%20Thumb/11.png",
-            "collections":"Amoled Wallz,"
-        },
-        {
-            "name":"Amoled 12",
-            "author":"From Google/G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled/12.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled%20Thumb/12.jpg",
-            "collections":"Amoled Wallz,"
-        },
-        {
-            "name":"Amoled 13",
-            "author":"From Google/G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled/13.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled%20Thumb/13.jpg",
-            "collections":"Amoled Wallz,"
-        },
-        {
-            "name":"Amoled 14",
-            "author":"From Google/G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled/14.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled%20Thumb/14.jpg",
-            "collections":"Amoled Wallz,"
-        },
-        {
-            "name":"Amoled 15",
-            "author":"From Google/G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled/15.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled%20Thumb/15.jpg",
-            "collections":"Amoled Wallz,"
-        },
-        {
-            "name":"Amoled 16",
-            "author":"From Google/G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled/16.png",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled%20Thumb/16.png",
-            "collections":"Amoled Wallz,"
-        },
-        {
-            "name":"Amoled 17",
-            "author":"From Google/G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled/17.png",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled%20Thumb/17.png",
-            "collections":"Amoled Wallz,"
-        },
-        {
             "name":"OnePlus 1",
             "author":"OnePlus",
             "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/1.jpg",
@@ -532,194 +371,8 @@
             "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/6.jpg",
             "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/6.jpg",
             "collections":"featured,OnePlus,"
-        },
-        {
-            "name":"Hangmoon 1",
-            "author":"Hang",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon/1.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon%20thumb/1.jpg",
-            "collections":"Hangmoon,"
-        },
-        {
-            "name":"Hangmoon 2",
-            "author":"Hang",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon/2.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon%20thumb/2.jpg",
-            "collections":"Hangmoon,"
-        },
-        {
-            "name":"Hangmoon 3",
-            "author":"Hang",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon/3.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon%20thumb/3.jpg",
-            "collections":"Hangmoon,"
-        },
-        {
-            "name":"Hangmoon 4",
-            "author":"Hang",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon/4.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon%20thumb/4.jpg",
-            "collections":"Hangmoon,"
-        },
-        {
-            "name":"Hangmoon 5",
-            "author":"Hang",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon/5.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon%20thumb/5.jpg",
-            "collections":"Hangmoon,"
-        },
-        {
-            "name":"Hangmoon 6",
-            "author":"Hang",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon/6.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon%20thumb/6.jpg",
-            "collections":"Hangmoon,"
-        },
-        {
-            "name":"Cardcaptor Sakura 1",
-            "author":"Taken from Pixiv",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor/1.png",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor%20thumb/1.png",
-            "collections":"Cardcaptor Sakura,"
-        },
-        {
-            "name":"Cardcaptor Sakura 2",
-            "author":"Taken from Pixiv",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor/2.png",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor%20thumb/2.png",
-            "collections":"Cardcaptor Sakura,"
-        },
-        {
-            "name":"Cardcaptor Sakura 3",
-            "author":"Taken from Pixiv",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor/3.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor%20thumb/3.jpg",
-            "collections":"Cardcaptor Sakura,"
-        },
-        {
-            "name":"Cardcaptor Sakura 4",
-            "author":"Taken from Pixiv",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor/4.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor%20thumb/4.jpg",
-            "collections":"Cardcaptor Sakura,"
-        },
-        {
-            "name":"Cardcaptor Sakura 5",
-            "author":"Taken from Pixiv",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor/5.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor%20thumb/5.jpg",
-            "collections":"featured,Cardcaptor Sakura,"
-        },
-        {
-            "name":"Cardcaptor Sakura 6",
-            "author":"Taken from Pixiv",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor/6.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor%20thumb/6.jpg",
-            "collections":"featured,Cardcaptor Sakura,"
-        },
-        {
-            "name":"Cardcaptor Sakura 7",
-            "author":"Taken from Pixiv",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor/7.png",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor%20thumb/7.png",
-            "collections":"Cardcaptor Sakura,"
-        },
-        {
-            "name":"Cardcaptor Sakura 8",
-            "author":"Taken from Pixiv",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor/8.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor%20thumb/8.jpg",
-            "collections":"Cardcaptor Sakura,"
-        },
-        {
-            "name":"Cardcaptor Sakura 9",
-            "author":"Taken from Pixiv",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor/9.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor%20thumb/9.jpg",
-            "collections":"Cardcaptor Sakura,"
-        },
-        {
-            "name":"Cardcaptor Sakura 10",
-            "author":"Taken from Pixiv",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor/10.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Cardcaptor%20thumb/10.jpg",
-            "collections":"Cardcaptor Sakura,"
-        },
-        {
-            "name":"Material Minimal 1",
-            "author":"From G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/2.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/2.jpg",
-            "collections":"featured,Material Minimal,"
-        },
-        {
-            "name":"Material Minimal 2",
-            "author":"From G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/3.png",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/3.png",
-            "collections":"featured,Material Minimal,"
-        },
-        {
-            "name":"Material Minimal 3",
-            "author":"From G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/4.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/4.jpg",
-            "collections":"featured,Material Minimal,"
-        },
-        {
-            "name":"Material Minimal 4",
-            "author":"From G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/5.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/5.jpg",
-            "collections":"featured,Material Minimal,"
-        },
-        {
-            "name":"Material Minimal 5",
-            "author":"From G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/6.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/6.jpg",
-            "collections":"featured,Material Minimal,"
-        },
-        {
-            "name":"Material Minimal 6",
-            "author":"From G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/7.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/7.jpg",
-            "collections":"featured,Material Minimal,"
-        },
-        {
-            "name":"Material Minimal 7",
-            "author":"From G+",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/8.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/8.jpg",
-            "collections":"featured,Material Minimal,"
-        },
-        {
-            "name":"Superhero 1",
-            "author":"Shudipto Mondal",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Superhero%20Wall/1.png",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Thumb%20Superhero/1.png",
-            "collections":"featured,superhero,"
-        },
-        {
-            "name":"Superhero 2",
-            "author":"Shudipto Mondal",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Superhero%20Wall/2.png",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Thumb%20Superhero/2.png",
-            "collections":"featured,superhero,"
-        }, {
-            "name":"Superhero 3",
-            "author":"Shudipto Mondal",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Superhero%20Wall/3.png",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Thumb%20Superhero/3.png",
-            "collections":"featured,superhero,"
-        }, {
-            "name":"Superhero 4",
-            "author":"Shudipto Mondal",
-            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Superhero%20Wall/4.png",
-            "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Thumb%20Superhero/4.png",
-            "collections":"featured,superhero,"
         }
+        
         
     ]
 }
