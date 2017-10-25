@@ -44,7 +44,7 @@
             "name":"Asuna Yuuki",
             "author":"NcollArt",
             "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/NcollArt/Asuna%20Yuuki.jpg",
-            "collections":"ANIME,"
+            "collections":"ANIME"
         }, {
             "name":"Forest Mountain",
             "author":"NcollArt",
@@ -54,7 +54,7 @@
             "name":"Yamada",
             "author":"NcollArt",
             "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/NcollArt/Elf%20Yamada.jpg",
-            "collections":"ANIME,"
+            "collections":"ANIME"
         }, {
             "name":"Balbasaur Ivysaur",
             "author":"NcollArt",
@@ -70,86 +70,106 @@
             "author":"NcollArt",
             "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/NcollArt/Japanese%20pagoda.jpg",
             "collections":"ANIME,ART,featured"
+        }, {
+            "name":"Kakashi Hatake",
+            "author":"NcollArt",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/NcollArt/Kakashi%20Hatake.jpg",
+            "collections":"ANIME,featured"
+        },  {
+            "name":"Kuroyukihime and Haru",
+            "author":"NcollArt",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/NcollArt/Kuroyukihime%20and%20Haru.jpg",
+            "collections":"ANIME"
+        },  {
+            "name":"Naruto Uzumaki",
+            "author":"NcollArt",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/NcollArt/Naruto%20Uzumaki.jpg",
+            "collections":"ANIME"
+        }, {
+            "name":"Wolf Mountain",
+            "author":"NcollArt",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/NcollArt/Wolf%20mountain.jpg",
+            "collections":"ANIME,ART"
         }, 
         {
             "name":"Anggrek Bulan",
             "author":"Aletta Carissa",
             "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Aletta%20Carissa/Anggrek%20Bulan.jpg",
-            "collections":"ANIME,"
+            "collections":"ANIME"
         },
          {
             "name":"Catti the cat",
             "author":"Aletta Carissa",
             "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Aletta%20Carissa/Catti%20the%20cat.jpg",
-            "collections":"ANIME,"
+            "collections":"ANIME"
         },
         {
             "name":"Luffy",
             "author":"Aletta Carissa",
             "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Aletta%20Carissa/Luffy.jpg",
-            "collections":"ANIME,"
+            "collections":"ANIME"
         }, {
             "name":"Pingu Pinguin",
             "author":"Aletta Carissa",
             "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Aletta%20Carissa/Pingu%20Pinguin.jpg",
-            "collections":"ANIME,"
+            "collections":"ANIME"
         }, {
             "name":"Pingu Pinguin",
             "author":"Aletta Carissa",
             "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Aletta%20Carissa/Pingu%20Pinguin.jpg",
-            "collections":"ANIME,"
+            "collections":"ANIME"
         }, {
             "name":"Sanji",
             "author":"Aletta Carissa",
             "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Aletta%20Carissa/Sanji.jpg",
-            "collections":"ANIME,"
+            "collections":"ANIME"
         }, {
             "name":"Tabby Fox",
             "author":"Aletta Carissa",
             "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Aletta%20Carissa/Tabby%20fox.jpg",
-            "collections":"ANIME,"
+            "collections":"ANIME"
         },                     
         {
             "name":"Dope 1",
             "author":"Unsplash",
             "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/1.jpg",
             "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/1.jpg",
-            "collections":"Dope,"
+            "collections":"Dope"
         },
         {
             "name":"Dope 2",
             "author":"Unsplash",
             "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/2.jpg",
             "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/2.jpg",
-            "collections":"Dope,"
+            "collections":"Dope"
         },
         {
             "name":"Dope 3",
             "author":"Unsplash",
             "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/3.jpg",
             "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/3.jpg",
-            "collections":"Dope,"
+            "collections":"Dope"
         },
         {
             "name":"Dope 4",
             "author":"Unsplash",
             "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/4.jpg",
             "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/4.jpg",
-            "collections":"featured,Dope,"
+            "collections":"featured,Dope"
         },
         {
             "name":"Dope 5",
             "author":"Unsplash",
             "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/5.jpg",
             "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/5.jpg",
-            "collections":"featured,Dope,"
+            "collections":"featured,Dope"
         },
         {
             "name":"Dope 6",
             "author":"Unsplash",
             "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/6.jpg",
             "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/6.jpg",
-            "collections":"Dope,"
+            "collections":"Dope"
         },
         {
             "name":"Dope 7",
