@@ -41,6 +41,22 @@
         }
     ],
     "Wallpapers":[{
+            "name":"Kickflip in Space",
+            "author":"Robert Farkas",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Robert%20Farkas/Kickflip%20in%20space.jpg",
+            "collections":"ART"
+        }, {
+            "name":"Last laser unicorn",
+            "author":"Robert Farkas",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Robert%20Farkas/Last%20laser%20unicorn.jpg",
+            "collections":"ART"
+        }, {
+            "name":"Let's have fun",
+            "author":"Robert Farkas",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Robert%20Farkas/Let's%20have%20fun.jpg",
+            "collections":"ART"
+        }, 
+        {
             "name":"Asuna Yuuki",
             "author":"NcollArt",
             "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/NcollArt/Asuna%20Yuuki.jpg",
