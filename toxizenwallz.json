@@ -75,12 +75,12 @@
             "name":"Balbasaur Ivysaur",
             "author":"NcollArt",
             "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/NcollArt/Bulbasaur%20Ivysaur%20Venusaur.jpg",
-            "collections":"ANIME,"
+            "collections":"ANIME"
         }, {
             "name":"Itachi Uchiha",
             "author":"NcollArt",
             "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/NcollArt/Itachi%20Uchiha.jpg",
-            "collections":"ANIME,"
+            "collections":"ANIME"
         }, {
             "name":"Japanese Pagoda",
             "author":"NcollArt",
@@ -144,7 +144,17 @@
             "author":"Aletta Carissa",
             "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Aletta%20Carissa/Tabby%20fox.jpg",
             "collections":"ANIME"
-        },                     
+        }, {
+            "name":"San Giovanni morning",
+            "author":"Alex Blajan",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/REAL%20LIFE%20PHOTO/Alex%20Blajan/San%20Giovanni%20morning.jpg",
+            "collections":"REAL LIFE PHOTO"
+        }, {
+            "name":"The Key",
+            "author":"Alex Blajan",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/REAL%20LIFE%20PHOTO/Alex%20Blajan/The%20key.jpg",
+            "collections":"REAL LIFE PHOTO"
+        },                               
         {
             "name":"Dope 1",
             "author":"Unsplash",
