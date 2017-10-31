@@ -41,6 +41,54 @@
         }
     ],
     "Wallpapers":[{
+            "name":"Folks And  Nature",
+            "author":"Tatak Washkitho",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Tatak%20Washkitho/Folks%20%26%20Nature.jpg",
+            "collections":"ART,featured"
+        }, {
+            "name":"High",
+            "author":"Tatak Washkitho",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Tatak%20Washkitho/High.jpg",
+            "collections":"ART,featured"
+        }, {
+            "name":"Home",
+            "author":"Tatak Washkitho",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Tatak%20Washkitho/Home.jpg",
+            "collections":"ART,featured"
+        }, {
+            "name":"Mistake",
+            "author":"Tatak Washkitho",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Tatak%20Washkitho/Mistake.jpg",
+            "collections":"ART,featured"
+        }, {
+            "name":"Too much",
+            "author":"Tatak Washkitho",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Tatak%20Washkitho/Too%20much.jpg",
+            "collections":"ART,featured"
+        }, {
+            "name":"West",
+            "author":"Tatak Washkitho",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Tatak%20Washkitho/West.jpg",
+            "collections":"ART,featured"
+        },
+        {
+            "name":"Serpente",
+            "author":"Leo Decade",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Leo%20Decade/Serpente.jpg",
+            "collections":"ART,featured"
+        }, {
+            "name":"Turn On",
+            "author":"Leo Decade",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Leo%20Decade/Turn%20on.jpg",
+            "collections":"ART"
+        },
+        {
+            "name":"Black Mirror",
+            "author":"Leo Decade",
+            "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Leo%20Decade/Black%20Mirror.jpg",
+            "collections":"ART,featured"
+        },         
+        {
             "name":"Kickflip in Space",
             "author":"Robert Farkas",
             "url":"https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Robert%20Farkas/Kickflip%20in%20space.jpg",
@@ -447,7 +495,7 @@
             "author":"OnePlus",
             "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/6.jpg",
             "thumbnail":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/6.jpg",
-            "collections":"featured,OnePlus,"
+            "collections":"featured,OnePlus"
         }
         
         
