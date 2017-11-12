@@ -37,6 +37,27 @@
 	],
 
 	"Wallpapers": [{
+			"author": "Google Plus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/Dark%20Abstract%20Pattern.jpg",
+			"name": "Dark Abstract Pattern",
+			"category": "AnotherCategory"
+		}, {
+			"author": "Google Plus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/Green%20Nature.jpg",
+			"name": "Green Nature",
+			"category": "AnotherCategory"
+		}, {
+			"author": "Google Plus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/Romantic%20Candle%20Light.jpg",
+			"name": "Romantic Candle Light",
+			"category": "AnotherCategory"
+		}, {
+			"author": "Google Plus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/All%20red%20leaf.jpg",
+			"name": "All Red Leaf",
+			"category": "AnotherCategory"
+		}, 
+		{
 			"author": "Unknown",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/rain/Shy%20Girl.jpg",
 			"name": "Shy Girl",
