@@ -38,6 +38,12 @@
 
 	"Wallpapers": [{
 			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/rain/Shy%20Girl.jpg",
+			"name": "Shy Girl",
+			"category": "Rain"
+		},
+		{
+			"author": "Unknown",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/Lambo%20in%20Dark.jpg",
 			"name": "Lambo in Dark",
 			"category": "Amoled Walls"
