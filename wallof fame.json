@@ -37,6 +37,22 @@
 	],
 
 	"Wallpapers": [{
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/Lambo%20in%20Dark.jpg",
+			"name": "Lambo in Dark",
+			"category": "Amoled Walls"
+		}, {
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/Night%20Lake.jpg",
+			"name": "Night Lake",
+			"category": "Amoled Walls"
+		}, {
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/Apple%20Logo.jpg",
+			"name": "X Logo Dark",
+			"category": "Amoled Walls"
+		},
+		{
 			"author": "Found on G+",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/34.png",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/34.png",
