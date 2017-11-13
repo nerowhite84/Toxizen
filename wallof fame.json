@@ -37,6 +37,43 @@
 	],
 
 	"Wallpapers": [{
+			"author": "Found on G+",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/Beach%20side.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/Beach%20side.jpg",
+			"name": "Beach Side",
+			"category": "Earth"
+		}, {
+			"author": "Found on G+",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/Beautiful%20Sky.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/Beautiful%20Sky.jpg",
+			"name": "Beautiful Sky",
+			"category": "Earth"
+		}, {
+			"author": "Found on G+",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/Blue%20Ocean.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/Blue%20Ocean.jpg",
+			"name": "Blue Ocean",
+			"category": "Earth"
+		}, {
+			"author": "Found on G+",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/Blue%20Sideline.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/Blue%20Sideline.jpg",
+			"name": "Blue Sideline",
+			"category": "Earth"
+		},  {
+			"author": "Found on G+",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/Blue%20Sideline.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/Blue%20Sideline.jpg",
+			"name": "Blue Sideline",
+			"category": "Earth"
+		}, {
+			"author": "Found on G+",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/Into%20the%20deep.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/Into%20the%20deep.jpg",
+			"name": "Into the deep",
+			"category": "Earth"
+		}, 
+		{
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/Bokeh%20Lights.jpg",
 			"name": "Bokeh Lights",
