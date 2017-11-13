@@ -38,6 +38,17 @@
 
 	"Wallpapers": [{
 			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/Bokeh%20Lights.jpg",
+			"name": "Bokeh Lights",
+			"category": "AnotherCategory"
+		}, {
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/Raindrops%20Nature.jpg",
+			"name": "Rain Drops",
+			"category": "AnotherCategory,Rain"
+		},
+		{
+			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/Dreamer.jpg",
 			"name": "Dreamer",
 			"category": "Amoled Walls,Neon Lights"
