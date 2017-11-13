@@ -37,6 +37,12 @@
 	],
 
 	"Wallpapers": [{
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/Dreamer.jpg",
+			"name": "Dreamer",
+			"category": "Amoled Walls,Neon Lights"
+		},
+		{
 			"author": "Google Plus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/Dark%20Abstract%20Pattern.jpg",
 			"name": "Dark Abstract Pattern",
