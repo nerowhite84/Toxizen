@@ -26,6 +26,8 @@
 			"name": "Rain"
 		}, {
 			"name": "ANIME"
+		}, {
+			"name": "OnePlus"
 		},
 		{
 			"name": "Material Minimal"
@@ -39,6 +41,49 @@
 	],
 
 	"Wallpapers": [{
+			"name": "OnePlus 1",
+			"author": "OnePlus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/1.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/1.jpg",
+			"category": "OnePlus"
+		},
+		{
+			"name": "OnePlus 2",
+			"author": "OnePlus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/2.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/2.jpg",
+			"category": "OnePlus"
+		},
+		{
+			"name": "OnePlus 3",
+			"author": "OnePlus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/3.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/3.jpg",
+			"category": "OnePlus"
+		},
+		{
+			"name": "OnePlus 4",
+			"author": "OnePlus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/4.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/4.jpg",
+			"category": "OnePlus"
+		},
+		{
+			"name": "OnePlus 5",
+			"author": "OnePlus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/5.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/5.jpg",
+			"category": "OnePlus"
+		},
+		{
+			"name": "OnePlus 6",
+			"author": "OnePlus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/6.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/6.jpg",
+			"category": "OnePlus"
+		},
+
+		{
 			"name": "Asuna Yuuki",
 			"author": "NcollArt",
 			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/NcollArt/Asuna%20Yuuki.jpg",
