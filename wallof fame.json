@@ -41,6 +41,31 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Book Store",
+			"author": "From Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/BOOK%20STORE.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/BOOK%20STORE.jpg",
+			"category": "Amoled Walls,Neon Lights"
+		}, {
+			"name": "Fireworks",
+			"author": "From Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/Fireworks.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/Fireworks.jpeg",
+			"category": "Amoled Walls"
+		}, {
+			"name": "High",
+			"author": "From Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/High.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/High.jpg",
+			"category": "Amoled Walls"
+		}, {
+			"name": "High",
+			"author": "From Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/YAMAHA.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/YAMAHA.jpg",
+			"category": "Amoled Walls,Neon Lights"
+		},
+		{
 			"name": "OnePlus 1",
 			"author": "OnePlus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/1.jpg",
