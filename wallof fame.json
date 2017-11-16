@@ -44,6 +44,19 @@
 	],
 
 	"Wallpapers": [{
+			"name": "The Yellow Umbrella",
+			"author": "Bea Mello(Brazil)",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/The%20yellow%20umbrella.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/The%20yellow%20umbrella.jpg",
+			"category": "ART"
+		}, {
+			"name": "Windmill",
+			"author": "Bea Mello(Brazil)",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Windmill.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Windmill.jpg",
+			"category": "ART"
+		},
+		{
 			"name": "Harry Potter",
 			"author": "Bea Mello(Brazil)",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Harry%20Potter.jpg",
