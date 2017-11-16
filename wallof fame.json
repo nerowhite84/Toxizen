@@ -26,9 +26,7 @@
 			"name": "Rain"
 		}, {
 			"name": "ANIME"
-		}, {
-			"name": "ART"
-		},
+		}, 
 		{
 			"name": "OnePlus"
 		},
@@ -43,60 +41,7 @@
 		}
 	],
 
-	"Wallpapers": [{
-			"name": "Home",
-			"author": "Tatak Washkitho",
-			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Tatak%20Washkitho/Home.jpg",
-			"collections": "ART"
-		}, {
-			"name": "Mistake",
-			"author": "Tatak Washkitho",
-			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Tatak%20Washkitho/Mistake.jpg",
-			"category": "ART"
-		}, {
-			"name": "Too much",
-			"author": "Tatak Washkitho",
-			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Tatak%20Washkitho/Too%20much.jpg",
-			"category": "ART"
-		}, {
-			"name": "West",
-			"author": "Tatak Washkitho",
-			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Tatak%20Washkitho/West.jpg",
-			"category": "ART"
-		},
-		{
-			"name": "Serpente",
-			"author": "Leo Decade",
-			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Leo%20Decade/Serpente.jpg",
-			"category": "ART"
-		}, {
-			"name": "Turn On",
-			"author": "Leo Decade",
-			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Leo%20Decade/Turn%20on.jpg",
-			"category": "ART"
-		},
-		{
-			"name": "Black Mirror",
-			"author": "Leo Decade",
-			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Leo%20Decade/Black%20Mirror.jpg",
-			"category": "ART"
-		},
-		{
-			"name": "Kickflip in Space",
-			"author": "Robert Farkas",
-			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Robert%20Farkas/Kickflip%20in%20space.jpg",
-			"category": "ART"
-		}, {
-			"name": "Last laser unicorn",
-			"author": "Robert Farkas",
-			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Robert%20Farkas/Last%20laser%20unicorn.jpg",
-			"category": "ART"
-		}, {
-			"name": "Let's have fun",
-			"author": "Robert Farkas",
-			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Robert%20Farkas/Let's%20have%20fun.jpg",
-			"category": "ART"
-		},
+	"Wallpapers": [
 		{
 			"name": "Book Store",
 			"author": "From Unsplash",
