@@ -29,6 +29,8 @@
 		}, 
 		{
 			"name": "OnePlus"
+		}, {
+			"name": "ART"
 		},
 		{
 			"name": "Material Minimal"
@@ -41,7 +43,19 @@
 		}
 	],
 
-	"Wallpapers": [
+	"Wallpapers": [{
+			"name": "Harry Potter",
+			"author": "Bea Mello(Brazil)",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Harry%20Potter.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Harry%20Potter.jpg",
+			"category": "ART"
+		}, {
+			"name": "Harry Potter",
+			"author": "Bea Mello(Brazil)",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Runaway.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Runaway.jpg",
+			"category": "ART"
+		}, 
 		{
 			"name": "Book Store",
 			"author": "From Unsplash",
