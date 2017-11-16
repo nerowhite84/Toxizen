@@ -44,11 +44,18 @@
 	],
 
 	"Wallpapers": [{
-			"name": "The Yellow Umbrella",
-			"author": "Bea Mello(Brazil)",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/The%20yellow%20umbrella.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/The%20yellow%20umbrella.jpg",
-			"category": "ART"
+			"name": "Golfo Sperlonga",
+			"author": "Giacomo Cardea(Italy)",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/Golfo%20sperlonga.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/Golfo%20sperlonga.jpg",
+			"category": "Earth"
+		},
+		{
+			"name": "Canto dei Cigni",
+			"author": "Giacomo Cardea(Italy)",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/Canto%20dei%20Cigni.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/Canto%20dei%20Cigni.jpg",
+			"category": "Earth"
 		}, {
 			"name": "Windmill",
 			"author": "Bea Mello(Brazil)",
