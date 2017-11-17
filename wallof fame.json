@@ -46,6 +46,19 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Killing",
+			"author": "Loundraw",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Killing.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Killing.png",
+			"category": "ARTWORKS"
+		}, {
+			"name": "Urban Life",
+			"author": "Snatti",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Urban%20Life%20by%20Snatti.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Urban%20Life%20by%20Snatti.png",
+			"category": "ARTWORKS"
+		},
+		{
 			"name": "1",
 			"author": "OnePlus.Edited:Osum Walls",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Never%20Settle/%40OsumWalls%20OnePlus%205T%20Stock%20Walls%20Never%20Settle%204K/1.png",
