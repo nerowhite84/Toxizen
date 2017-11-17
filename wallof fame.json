@@ -23,6 +23,8 @@
 		}, {
 			"name": "Mountain"
 		}, {
+			"name": "Never Settle"
+		}, {
 			"name": "Rain"
 		}, {
 			"name": "ANIME"
@@ -44,6 +46,37 @@
 	],
 
 	"Wallpapers": [{
+			"name": "1",
+			"author": "OnePlus.Edited:Osum Walls",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Never%20Settle/%40OsumWalls%20OnePlus%205T%20Stock%20Walls%20Never%20Settle%204K/1.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Never%20Settle%20Thumb/1.png",
+			"category": "Never Settle"
+		}, {
+			"name": "2",
+			"author": "OnePlus.Edited:Osum Walls",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Never%20Settle/%40OsumWalls%20OnePlus%205T%20Stock%20Walls%20Never%20Settle%204K/2.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Never%20Settle%20Thumb/2.png",
+			"category": "Never Settle"
+		}, {
+			"name": "3",
+			"author": "OnePlus.Edited:Osum Walls",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Never%20Settle/%40OsumWalls%20OnePlus%205T%20Stock%20Walls%20Never%20Settle%204K/3.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Never%20Settle%20Thumb/3.png",
+			"category": "Never Settle"
+		}, {
+			"name": "4",
+			"author": "OnePlus.Edited:Osum Walls",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Never%20Settle/%40OsumWalls%20OnePlus%205T%20Stock%20Walls%20Never%20Settle%204K/4.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Never%20Settle%20Thumb/4.png",
+			"category": "Never Settle"
+		}, {
+			"name": "5",
+			"author": "OnePlus.Edited:Osum Walls",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Never%20Settle/%40OsumWalls%20OnePlus%205T%20Stock%20Walls%20Never%20Settle%204K/5.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Never%20Settle%20Thumb/5.png",
+			"category": "Never Settle"
+		},
+		{
 			"name": "Golfo Sperlonga",
 			"author": "Giacomo Cardea(Italy)",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/Golfo%20sperlonga.jpg",
