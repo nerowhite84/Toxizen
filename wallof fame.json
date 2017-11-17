@@ -32,7 +32,7 @@
 		{
 			"name": "OnePlus"
 		}, {
-			"name": "ART"
+			"name": "ARTWORKS"
 		},
 		{
 			"name": "Material Minimal"
@@ -94,20 +94,20 @@
 			"author": "Bea Mello(Brazil)",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Windmill.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Windmill.jpg",
-			"category": "ART"
+			"category": "ARTWORKS"
 		},
 		{
 			"name": "Harry Potter",
 			"author": "Bea Mello(Brazil)",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Harry%20Potter.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Harry%20Potter.jpg",
-			"category": "ART"
+			"category": "ARTWORKS"
 		}, {
 			"name": "Harry Potter",
 			"author": "Bea Mello(Brazil)",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Runaway.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Runaway.jpg",
-			"category": "ART"
+			"category": "ARTWORKS"
 		}, 
 		{
 			"name": "Book Store",
@@ -226,7 +226,7 @@
 			"name": "Wolf Mountain",
 			"author": "NcollArt",
 			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/NcollArt/Wolf%20mountain.jpg",
-			"category": "ANIME"
+			"category": "ANIME,ARTWORKS"
 		},
 		{
 			"name": "Anggrek Bulan",
@@ -264,7 +264,7 @@
 			"name": "Tabby Fox",
 			"author": "Aletta Carissa",
 			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Aletta%20Carissa/Tabby%20fox.jpg",
-			"category": "ANIME"
+			"category": "ANIME,ARTWORKS"
 		},
 
 
