@@ -26,7 +26,7 @@
 			"name": "Rain"
 		}, {
 			"name": "ANIME"
-		}, 
+		},
 		{
 			"name": "OnePlus"
 		}, {
@@ -47,7 +47,7 @@
 			"name": "９月１１日９時５９分",
 			"author": "瀬尾@冬コミ1日目東ル３１a",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/%EF%BC%99%E6%9C%88%EF%BC%91%EF%BC%91%E6%97%A5%EF%BC%99%E6%99%82%EF%BC%95%EF%BC%99%E5%88%86.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/%EF%BC%99%E6%9C%88%EF%BC%91%EF%BC%91%E6%97%A5%EF%BC%99%E6%99%82%EF%BC%95%EF%BC%99%E5%88%86.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/%EF%BC%99%E6%9C%88%EF%BC%91%EF%BC%91%E6%97%A5%EF%BC%99%E6%99%82%EF%BC%95%EF%BC%99%E5%88%86.jpg",
 			"category": "ARTWORKS"
 		},
 		{
@@ -66,113 +66,113 @@
 			"name": "Killing",
 			"author": "Loundraw",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Killing.png",
-			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Killing.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Killing.png",
 			"category": "ARTWORKS"
 		}, {
 			"name": "Urban Life",
 			"author": "Snatti",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Urban%20Life%20by%20Snatti.png",
-			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Urban%20Life%20by%20Snatti.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Urban%20Life%20by%20Snatti.png",
 			"category": "ARTWORKS"
 		},
 		{
 			"name": "Golfo Sperlonga",
 			"author": "Giacomo Cardea(Italy)",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/Golfo%20sperlonga.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/Golfo%20sperlonga.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/Golfo%20sperlonga.jpg",
 			"category": "Earth"
 		},
 		{
 			"name": "Canto dei Cigni",
 			"author": "Giacomo Cardea(Italy)",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/Canto%20dei%20Cigni.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/Canto%20dei%20Cigni.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/Canto%20dei%20Cigni.jpg",
 			"category": "Earth"
 		}, {
 			"name": "Windmill",
 			"author": "Bea Mello(Brazil)",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Windmill.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Windmill.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Windmill.jpg",
 			"category": "ARTWORKS"
 		},
 		{
 			"name": "Harry Potter",
 			"author": "Bea Mello(Brazil)",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Harry%20Potter.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Harry%20Potter.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Harry%20Potter.jpg",
 			"category": "ARTWORKS"
 		}, {
 			"name": "Harry Potter",
 			"author": "Bea Mello(Brazil)",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Runaway.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Runaway.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Runaway.jpg",
 			"category": "ARTWORKS"
-		}, 
+		},
 		{
 			"name": "Book Store",
 			"author": "From Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/BOOK%20STORE.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/BOOK%20STORE.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/BOOK%20STORE.jpg",
 			"category": "Amoled Walls,Neon Lights"
 		}, {
 			"name": "Fireworks",
 			"author": "From Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/Fireworks.jpeg",
-			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/Fireworks.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/Fireworks.jpeg",
 			"category": "Amoled Walls"
 		}, {
 			"name": "High",
 			"author": "From Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/High.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/High.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/High.jpg",
 			"category": "Amoled Walls"
 		}, {
 			"name": "High",
 			"author": "From Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/YAMAHA.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/YAMAHA.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/YAMAHA.jpg",
 			"category": "Amoled Walls,Neon Lights"
 		},
 		{
 			"name": "OnePlus 1",
 			"author": "OnePlus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/1.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/1.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/1.jpg",
 			"category": "OnePlus"
 		},
 		{
 			"name": "OnePlus 2",
 			"author": "OnePlus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/2.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/2.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/2.jpg",
 			"category": "OnePlus"
 		},
 		{
 			"name": "OnePlus 3",
 			"author": "OnePlus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/3.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/3.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/3.jpg",
 			"category": "OnePlus"
 		},
 		{
 			"name": "OnePlus 4",
 			"author": "OnePlus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/4.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/4.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/4.jpg",
 			"category": "OnePlus"
 		},
 		{
 			"name": "OnePlus 5",
 			"author": "OnePlus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/5.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/5.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/5.jpg",
 			"category": "OnePlus"
 		},
 		{
 			"name": "OnePlus 6",
 			"author": "OnePlus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/6.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/6.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/6.jpg",
 			"category": "OnePlus"
 		},
 
