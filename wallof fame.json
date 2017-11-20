@@ -44,6 +44,31 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Blind",
+			"author": "Jerick Van Ortiz",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/Blind.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/Blind.jpg",
+			"category": "Earth"
+		}, {
+			"name": "Cold Drip",
+			"author": "Jerick Van Ortiz",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/Cold%20Drip.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/Cold%20Drip.jpg",
+			"category": "Earth"
+		}, {
+			"name": "Directions",
+			"author": "Jerick Van Ortiz",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/Directions.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/Directions.jpg",
+			"category": "Earth"
+		}, {
+			"name": "Let's Ride",
+			"author": "Jerick Van Ortiz",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/Held.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/Held.jpg",
+			"category": "Earth"
+		},
+		{
 			"name": "I am sure that you will be by your side at any time",
 			"author": "Seo @ Winter Comic Day 1 Toele 31",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/I%20am%20sure%20that%20you%20will%20be%20by%20your%20side%20at%20any%20time.jpg",
