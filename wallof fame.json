@@ -44,6 +44,13 @@
 	],
 
 	"Wallpapers": [{
+			"name": "13",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/rain/13.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/rain%20thumb/13.png",
+			"category": "Rain"
+		},
+		{
 			"name": "Blind",
 			"author": "Jerick Van Ortiz",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/Blind.jpg",
