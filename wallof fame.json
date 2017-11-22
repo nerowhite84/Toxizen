@@ -44,6 +44,27 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Watery",
+			"author": "Atriic",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/Watery.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/Watery.jpg",
+			"category": "Material Minimal"
+		},
+		{
+			"name": "Cubish",
+			"author": "Atriic",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/Cubish.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/Cubish.jpg",
+			"category": "Material Minimal"
+		},
+		{
+			"name": "Bokeh",
+			"author": "Atriic",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/Bokeh.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/Bokeh.jpg",
+			"category": "Material Minimal"
+		},
+		{
 			"name": "13",
 			"author": "Unknown",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/rain/13.png",
