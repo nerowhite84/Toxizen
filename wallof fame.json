@@ -44,6 +44,27 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Trust no one",
+			"author": "Patrick de Nobrega",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/Trust%20no%20one.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/Trust%20no%20one.jpg",
+			"category": "Amoled Walls"
+		},
+		{
+			"name": "Black Mountains",
+			"author": "Patrick de Nobrega",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/Black%20Mountains.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/Black%20Mountains.jpg",
+			"category": "Amoled Walls"
+		},
+		{
+			"name": "Alive",
+			"author": "Patrick de Nobrega",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/Alive.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/Alive.jpg",
+			"category": "Amoled Walls"
+		},
+		{
 			"name": "Watery",
 			"author": "Atriic",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/Watery.jpg",
