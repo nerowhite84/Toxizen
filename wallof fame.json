@@ -44,6 +44,27 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Lights",
+			"author": "Wall Of Fame",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BMW/Lights.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20bmw/Lights.jpg",
+			"category": "bmw"
+		},
+		{
+			"name": "Power Inside You",
+			"author": "Wall Of Fame",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BMW/Power%20Inside%20you.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20bmw/Power%20Inside%20you.jpg",
+			"category": "bmw"
+		},
+		{
+			"name": "B///M Power",
+			"author": "Wall Of Fame",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BMW/BM%20POWER.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20bmw/BM%20POWER.jpg",
+			"category": "bmw"
+		},
+		{
 			"name": "Trust no one",
 			"author": "Patrick de Nobrega",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/Trust%20no%20one.jpg",
