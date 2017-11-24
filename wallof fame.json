@@ -30,6 +30,8 @@
 		{
 			"name": "OnePlus"
 		}, {
+			"name": "Best For Stock Android"
+		}, {
 			"name": "ARTWORKS"
 		},
 		{
@@ -44,6 +46,43 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Abstract",
+			"author": "Google Plus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Best%20For%20Stock%20Android/Abstract.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BEstandroid%20thumb/Abstract.jpg",
+			"category": "Best For Stock Android"
+		}, {
+			"name": "Galaxy",
+			"author": "Google Plus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Best%20For%20Stock%20Android/Galaxy.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BEstandroid%20thumb/Galaxy.png",
+			"category": "Best For Stock Android"
+		}, {
+			"name": "Greensea",
+			"author": "Google Plus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Best%20For%20Stock%20Android/Greensea.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BEstandroid%20thumb/Greensea.png",
+			"category": "Best For Stock Android,Earth"
+		}, {
+			"name": "Neak",
+			"author": "Google Plus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Best%20For%20Stock%20Android/Neak.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BEstandroid%20thumb/Neak.png",
+			"category": "Best For Stock Android"
+		}, {
+			"name": "Boat and Sea",
+			"author": "Google Plus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Best%20For%20Stock%20Android/Boat%20and%20sea.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BEstandroid%20thumb/boat%20and%20sea.png",
+			"category": "Best For Stock Android,Earth"
+		}, {
+			"name": "Milky Way",
+			"author": "Google Plus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Best%20For%20Stock%20Android/Milky%20Way.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BEstandroid%20thumb/Milky%20Way.jpg",
+			"category": "Best For Stock Android"
+		},
+		{
 			"name": "Lights",
 			"author": "Wall Of Fame",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BMW/Lights.jpg",
