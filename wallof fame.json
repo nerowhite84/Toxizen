@@ -48,6 +48,13 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Redline Ray",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/Redline%20Ray.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/Redline%20Ray.jpg",
+			"category": "Amoled Walls"
+		},
+		{
 			"name": "1",
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Christmas%20original/1.jpg",
