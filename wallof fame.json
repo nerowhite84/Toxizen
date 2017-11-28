@@ -50,6 +50,41 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Red Zone",
+			"author": "NanoMorti",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Red%20Zone.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Red%20Zone.png",
+			"category": "ARTWORKS"
+		},
+		{
+			"name": "Silenced by the night",
+			"author": "NanoMorti",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Silence%20by%20the%20night.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Silence%20by%20the%20night.png",
+			"category": "ARTWORKS"
+		},
+		{
+			"name": "Feed your head",
+			"author": "NanoMorti",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Feed%20your%20head.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Feed%20your%20head.png",
+			"category": "ARTWORKS"
+		},
+		{
+			"name": "Devil's drop",
+			"author": "NanoMorti",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Devil's%20drop.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Devil's%20drop.png",
+			"category": "ARTWORKS"
+		},
+		{
+			"name": "Curse of the black Sun",
+			"author": "NanoMorti",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Curse%20of%20the%20black%20sun.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Curse%20of%20the%20black%20sun.png",
+			"category": "ARTWORKS"
+		},
+		{
 			"name": "Forest",
 			"author": "Firefox",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/Forest.jpg",
