@@ -28,6 +28,8 @@
 			"name": "Rain"
 		}, {
 			"name": "ANIME"
+		}, {
+			"name": "Abstract"
 		},
 		{
 			"name": "OnePlus"
@@ -48,6 +50,61 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Forest",
+			"author": "Firefox",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/Forest.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/Forest.jpg",
+			"category": "Abstract"
+		}, {
+			"name": "Geometrix",
+			"author": "Michael Dolejs",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/Geometrix.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/Geometrix.jpg",
+			"category": "Abstract"
+		}, {
+			"name": "Stripes n Skies",
+			"author": "Kash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/Stripes%20n%20skies.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/Stripes%20n%20skies.jpg",
+			"category": "Abstract"
+		},  {
+			"name": "Stroke of Genius",
+			"author": "Hampus Olsson",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/Stroke%20of%20Genius.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/Stroke%20of%20Genius.jpg",
+			"category": "Abstract"
+		}, {
+			"name": "Your Ghost",
+			"author": "VessDSign",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/Your%20ghost.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/Your%20ghost.jpg",
+			"category": "Abstract"
+		}, {
+			"name": "abyss",
+			"author": "Hampus Olsson",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/abyss.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/abyss.jpg",
+			"category": "Abstract"
+		}, {
+			"name": "plain",
+			"author": "Hampus Olsson",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/plain.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/plain.jpg",
+			"category": "Abstract"
+		}, {
+			"name": "polygons",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/polygons.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/polygons.jpg",
+			"category": "Abstract"
+		}, {
+			"name": "terraform",
+			"author": "Hampus Olsson",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/terraform.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/terraform.jpg",
+			"category": "Abstract"
+		}, 
+		{
 			"name": "14",
 			"author": "Google Pixel",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/rain/14.jpg",
