@@ -52,22 +52,22 @@
 	"Wallpapers": [{
 			"name": "10",
 			"author": "Google Plus",
-			"url": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Amoled%20Walls/10.jpg",
-			"thumbUrl": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Amoled%20Walls%20thumb/10.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/10.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/10.jpg",
 			"category": "Amoled Walls"
 		}, {
 			"name": "11",
 			"author": "Google Plus",
-			"url": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Amoled%20Walls/11.jpg",
-			"thumbUrl": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Amoled%20Walls%20thumb/11.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/11.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/11.jpg",
 			"category": "Amoled Walls"
 		}, {
 			"name": "12",
 			"author": "Google Plus",
-			"url": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Amoled%20Walls/12.jpg",
-			"thumbUrl": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Amoled%20Walls%20thumb/12.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/12.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/12.jpg",
 			"category": "Amoled Walls"
-		},
+		}, 
 		{
 			"name": "Red Zone",
 			"author": "NanoMorti",
