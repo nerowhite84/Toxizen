@@ -30,6 +30,8 @@
 			"name": "ANIME"
 		}, {
 			"name": "Abstract"
+		}, {
+			"name": "Dope"
 		},
 		{
 			"name": "OnePlus"
@@ -50,6 +52,76 @@
 	],
 
 	"Wallpapers": [{
+	            "name":"Dope 1",
+	            "author":"Unsplash",
+	            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/1.jpg",
+	            "thumbUrl":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/1.jpg",
+	            "category":"Dope"
+	        },
+	        {
+	            "name":"Dope 2",
+	            "author":"Unsplash",
+	            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/2.jpg",
+	            "thumbUrl":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/2.jpg",
+	            "category":"Dope"
+	        },
+	        {
+	            "name":"Dope 3",
+	            "author":"Unsplash",
+	            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/3.jpg",
+	            "thumbUrl":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/3.jpg",
+	            "category":"Dope"
+	        },
+	        {
+	            "name":"Dope 4",
+	            "author":"Unsplash",
+	            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/4.jpg",
+	            "thumbUrl":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/4.jpg",
+	            "category":"Dope"
+	        },
+	        {
+	            "name":"Dope 5",
+	            "author":"Unsplash",
+	            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/5.jpg",
+	            "thumbUrl":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/5.jpg",
+	            "category":"Dope"
+	        },
+	        {
+	            "name":"Dope 6",
+	            "author":"Unsplash",
+	            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/6.jpg",
+	            "thumbUrl":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/6.jpg",
+	            "category":"Dope"
+	        },
+	        {
+	            "name":"Dope 7",
+	            "author":"Unsplash",
+	            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/7.jpg",
+	            "thumbUrl":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/7.jpg",
+	            "category":"Dope"
+	        },
+	        {
+	            "name":"Dope 8",
+	            "author":"Unsplash",
+	            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/8.jpg",
+	            "thumbUrl":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/8.jpg",
+	            "category":"featured,Dope"
+	        },
+	        {
+	            "name":"Dope 9",
+	            "author":"Unsplash",
+	            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/9.jpg",
+	            "thumbUrl":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/9.jpg",
+	            "category":"Dope"
+	        },
+	        {
+	            "name":"Dope 10",
+	            "author":"Unsplash",
+	            "url":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/10.jpg",
+	            "thumbUrl":"https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/10.jpg",
+	            "category":"Dope"
+	        },
+		{
 			"name": "12",
 			"author": "Google Plus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Neon%20Light/12.jpg",
