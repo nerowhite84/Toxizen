@@ -52,6 +52,17 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Naruto",
+			"author": "Sl4eva",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/sl4eva/Naruto.jpg",
+			"category": "ANIME"
+		}, {
+			"name": "Sasuke",
+			"author": "Sl4eva",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/sl4eva/Sasuke.jpg",
+			"category": "ANIME"
+		},
+		{
 			"name": "Autumn Feel",
 			"author": " lluluchwan",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/autumn%20feel.jpg",
