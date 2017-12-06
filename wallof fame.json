@@ -52,6 +52,31 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Autumn Feel",
+			"author": " lluluchwan",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/autumn%20feel.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/autumn%20feel.jpg",
+			"category": "ARTWORKS"
+		}, {
+			"name": "Fall",
+			"author": " lluluchwan",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/fall.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/fall.png",
+			"category": "ARTWORKS"
+		}, {
+			"name": "Leaf",
+			"author": " lluluchwan",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/leaf.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/leaf.png",
+			"category": "ARTWORKS"
+		}, {
+			"name": "Red Spider",
+			"author": " lluluchwan",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/red%20spider.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/red%20spider.png",
+			"category": "ARTWORKS"
+		}, 
+		{
 			"name": "13",
 			"author": "Justin Maller",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/13.jpeg",
