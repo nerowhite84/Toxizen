@@ -44,6 +44,8 @@
 			"name": "Material Minimal"
 		}, {
 			"name": "bmw"
+		},{
+			"name": "Anime Girl Walls"
 		}, {
 			"name": "Amoled Walls"
 		}, {
@@ -52,6 +54,55 @@
 	],
 
 	"Wallpapers": [{
+			"name": "1",
+			"author": "粒粒みかん",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls/1.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls%20thumb/1.png",
+			"category": "Anime Girl Walls"
+		}, {
+			"name": "2",
+			"author": "粒粒みかん",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls/2.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls%20thumb/2.png",
+			"category": "Anime Girl Walls"
+		}, {
+			"name": "3",
+			"author": "粒粒みかん",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls/3.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls%20thumb/3.png",
+			"category": "Anime Girl Walls"
+		}, {
+			"name": "4",
+			"author": "粒粒みかん",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls/4.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls%20thumb/4.png",
+			"category": "Anime Girl Walls"
+		}, {
+			"name": "5",
+			"author": "粒粒みかん",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls/5.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls%20thumb/5.png",
+			"category": "Anime Girl Walls"
+		}, {
+			"name": "6",
+			"author": "粒粒みかん",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls/6.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls%20thumb/6.png",
+			"category": "Anime Girl Walls"
+		}, {
+			"name": "7",
+			"author": "粒粒みかん",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls/7.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls%20thumb/7.png",
+			"category": "Anime Girl Walls"
+		}, {
+			"name": "8",
+			"author": "粒粒みかん",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls/8.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls%20thumb/8.png",
+			"category": "Anime Girl Walls"
+		},
+		{
 			"name": "Naruto",
 			"author": "Sl4eva",
 			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/sl4eva/Naruto.jpg",
