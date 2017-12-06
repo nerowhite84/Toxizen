@@ -54,6 +54,43 @@
 	],
 
 	"Wallpapers": [{
+			"name": "All 5",
+			"author": "Sl4eva",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/sl4eva/All%205.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Thumb%20anime/All%205.jpg",
+			"category": "ANIME"
+		}, {
+			"name": "Father & Son Naruto & Boruto",
+			"author": "Sl4eva",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/sl4eva/Father%20%26%20Son%20Naruto%20%26%20Boruto.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Thumb%20anime/Father%20%26%20Son%20Naruto%20%26%20Boruto.jpg",
+			"category": "ANIME"
+		}, {
+			"name": "Kazekage Gaara",
+			"author": "Sl4eva",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/sl4eva/Kazekage%20Gaara.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Thumb%20anime/Kazekage%20Gaara.jpg",
+			"category": "ANIME"
+		}, {
+			"name": "Kurama and Naruto",
+			"author": "Sl4eva",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/sl4eva/Kurama%20and%20Naruto.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Thumb%20anime/Kurama%20and%20Naruto.jpg",
+			"category": "ANIME"
+		}, {
+			"name": "Naruto & Sasuke (Christmas Edition)",
+			"author": "Sl4eva",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/sl4eva/Naruto%20%26%20Sasuke%20(Christmas%20Edition).jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Thumb%20anime/Naruto%20%26%20Sasuke%20(Christmas%20Edition).jpg",
+			"category": "ANIME"
+		}, {
+			"name": "Naruto and the Beasts",
+			"author": "Sl4eva",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/sl4eva/Naruto%20and%20the%20Beasts.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Thumb%20anime/Naruto%20and%20the%20Beasts.jpg",
+			"category": "ANIME"
+		},
+		{
 			"name": "1",
 			"author": "粒粒みかん",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls/1.png",
