@@ -54,6 +54,31 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Accidrabbits",
+			"author": "Hang",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Accidrabbits%20by%20Hang.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Accidrabbits%20by%20Hang.jpg",
+			"category": "ARTWORKS"
+		}, {
+			"name": "内なる君の晴れ舞台",
+			"author": "Mドロ",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/%E5%86%85%E3%81%AA%E3%82%8B%E5%90%9B%E3%81%AE%E6%99%B4%E3%82%8C%E8%88%9E%E5%8F%B0%20by%20M%E3%83%89%E3%83%AD.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/%E5%86%85%E3%81%AA%E3%82%8B%E5%90%9B%E3%81%AE%E6%99%B4%E3%82%8C%E8%88%9E%E5%8F%B0%20by%20M%E3%83%89%E3%83%AD.jpg",
+			"category": "ARTWORKS"
+		}, {
+			"name": "夕日と荒廃",
+			"author": "てんぬる",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/%E5%A4%95%E6%97%A5%E3%81%A8%E8%8D%92%E5%BB%83%20by%20%E3%81%A6%E3%82%93%E3%81%AC%E3%82%8B.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/%E5%A4%95%E6%97%A5%E3%81%A8%E8%8D%92%E5%BB%83%20by%20%E3%81%A6%E3%82%93%E3%81%AC%E3%82%8B.jpg",
+			"category": "ARTWORKS"
+		}, {
+			"name": "薄暮 ",
+			"author": "カオミン",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/%E8%96%84%E6%9A%AE%20by%20%E3%82%AB%E3%82%AA%E3%83%9F%E3%83%B3.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/%E8%96%84%E6%9A%AE%20by%20%E3%82%AB%E3%82%AA%E3%83%9F%E3%83%B3.jpg",
+			"category": "ARTWORKS,Anime Girl Walls"
+		},
+		{
 			"name": "All 5",
 			"author": "Sl4eva",
 			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/sl4eva/All%205.jpg",
