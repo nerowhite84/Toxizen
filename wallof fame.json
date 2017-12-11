@@ -37,7 +37,9 @@
 			"name": "OnePlus"
 		}, {
 			"name": "Best For Stock Android"
-		}, {
+		},{
+			"name": "Horror Vibe"
+		},  {
 			"name": "ARTWORKS"
 		},
 		{
@@ -54,6 +56,55 @@
 	],
 
 	"Wallpapers": [{
+			"name": "1",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Horror%20Vibe/1.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Horror%20Vibe%20thumb/1.jpg",
+			"category": "Horror Vibe"
+		}, {
+			"name": "2",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Horror%20Vibe/2.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Horror%20Vibe%20thumb/2.jpg",
+			"category": "Horror Vibe"
+		}, {
+			"name": "3",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Horror%20Vibe/3.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Horror%20Vibe%20thumb/3.jpg",
+			"category": "Horror Vibe"
+		}, {
+			"name": "4",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Horror%20Vibe/4.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Horror%20Vibe%20thumb/4.jpg",
+			"category": "Horror Vibe"
+		}, {
+			"name": "5",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Horror%20Vibe/5.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Horror%20Vibe%20thumb/5.jpg",
+			"category": "Horror Vibe"
+		}, {
+			"name": "6",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Horror%20Vibe/6.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Horror%20Vibe%20thumb/6.jpg",
+			"category": "Horror Vibe"
+		}, {
+			"name": "7",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Horror%20Vibe/7.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Horror%20Vibe%20thumb/7.jpg",
+			"category": "Horror Vibe"
+		}, {
+			"name": "8",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Horror%20Vibe/8.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Horror%20Vibe%20thumb/8.jpg",
+			"category": "Horror Vibe"
+		},
+		{
 			"name": "8",
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Christmas%20original/8.jpg",
