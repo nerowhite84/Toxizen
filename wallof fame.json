@@ -56,6 +56,26 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Goku 2",
+			"author": "Google Plus ",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Goku%202.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Thumb%20anime/Goku%202.jpeg",
+			"category": "ANIME"
+		},
+		{
+			"name": "Jiraya",
+			"author": "Google Plus ",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Jiraya.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Thumb%20anime/Jiraya.jpeg",
+			"category": "ANIME"
+		}, {
+			"name": "Kushina",
+			"author": "Google Plus ",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Kushina.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Thumb%20anime/Kushina.jpeg",
+			"category": "ANIME"
+		},
+		{
 			"name": "1",
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Horror%20Vibe/1.jpg",
