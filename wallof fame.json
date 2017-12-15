@@ -55,7 +55,14 @@
 		}
 	],
 
-	"Wallpapers": [ {
+	"Wallpapers": [{
+			"name": "Fire Heart",
+			"author": "Axis",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Fire%20Heart.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Fire%20Heart.jpg",
+			"category": "ARTWORKS,ANIME"
+		},
+		{
 			"name": "My Neighbor Totoro",
 			"author": "sammymartins",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/totoro.png",
