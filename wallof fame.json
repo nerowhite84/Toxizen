@@ -51,40 +51,40 @@
 		}, {
 			"name": "Amoled Walls"
 		}, {
-			"name": "Random"
+			"name": "AnotherCategory"
 		}
 	],
 
 	"Wallpapers": [{
 			"author": "Taken from unsplash",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/50.jpeg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/50.jpeg",
-			"name": "Random 50",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/50.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/50.jpeg",
+			"name": "AnotherCategory 50",
+			"category": "AnotherCategory"
 		}, {
 			"author": "Taken from unsplash",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/51.jpeg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/51.jpeg",
-			"name": "Random 51",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/51.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/51.jpeg",
+			"name": "AnotherCategory 51",
+			"category": "AnotherCategory"
 		}, {
 			"author": "Taken from unsplash",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/52.jpeg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/52.jpeg",
-			"name": "Random 52",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/52.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/52.jpeg",
+			"name": "AnotherCategory 52",
+			"category": "AnotherCategory"
 		}, {
 			"author": "Taken from unsplash",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/53.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/53.jpg",
-			"name": "Random 53",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/53.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/53.jpg",
+			"name": "AnotherCategory 53",
+			"category": "AnotherCategory"
 		}, {
 			"author": "Taken from unsplash",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/54.jpeg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/54.jpeg",
-			"name": "Random 54",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/54.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/54.jpeg",
+			"name": "AnotherCategory 54",
+			"category": "AnotherCategory"
 		},
 		{
 			"name": "13",
@@ -1247,14 +1247,14 @@
 		},
 		{
 			"author": "Unsplash",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/Bokeh%20Lights.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/Bokeh%20Lights.jpg",
 			"name": "Bokeh Lights",
-			"category": "Random"
+			"category": "AnotherCategory"
 		}, {
 			"author": "Unknown",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/Raindrops%20Nature.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/Raindrops%20Nature.jpg",
 			"name": "Rain Drops",
-			"category": "Random,Rain"
+			"category": "AnotherCategory,Rain"
 		},
 		{
 			"author": "Unsplash",
@@ -1264,24 +1264,24 @@
 		},
 		{
 			"author": "Google Plus",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/Dark%20Abstract%20Pattern.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/Dark%20Abstract%20Pattern.jpg",
 			"name": "Dark Abstract Pattern",
-			"category": "Random"
+			"category": "AnotherCategory"
 		}, {
 			"author": "Google Plus",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/Green%20Nature.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/Green%20Nature.jpg",
 			"name": "Green Nature",
-			"category": "Random"
+			"category": "AnotherCategory"
 		}, {
 			"author": "Google Plus",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/Romantic%20Candle%20Light.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/Romantic%20Candle%20Light.jpg",
 			"name": "Romantic Candle Light",
-			"category": "Random"
+			"category": "AnotherCategory"
 		}, {
 			"author": "Google Plus",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/All%20red%20leaf.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/All%20red%20leaf.jpg",
 			"name": "All Red Leaf",
-			"category": "Random"
+			"category": "AnotherCategory"
 		},
 		{
 			"author": "Unknown",
@@ -2781,154 +2781,154 @@
 			"category": "weather"
 		}, {
 			"author": "Taken from unsplash",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/1.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/1.jpg",
-			"name": "Random 1",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/1.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/1.jpg",
+			"name": "AnotherCategory 1",
+			"category": "AnotherCategory"
 		}, {
 			"author": "Taken from unsplash",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/2.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/2.jpg",
-			"name": "Random 2",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/2.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/2.jpg",
+			"name": "AnotherCategory 2",
+			"category": "AnotherCategory"
 		}, {
 			"author": "Taken from unsplash",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/3.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/3.jpg",
-			"name": "Random 3",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/3.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/3.jpg",
+			"name": "AnotherCategory 3",
+			"category": "AnotherCategory"
 		}, {
 			"author": "FROM NICK NICE",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/4.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/4.jpg",
-			"name": "Random 4",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/4.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/4.jpg",
+			"name": "AnotherCategory 4",
+			"category": "AnotherCategory"
 		}, {
 			"author": "FROM NICK NICE",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/5.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/5.jpg",
-			"name": "Random 5",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/5.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/5.jpg",
+			"name": "AnotherCategory 5",
+			"category": "AnotherCategory"
 		}, {
 			"author": "FROM NICK NICE",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/6.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/6.jpg",
-			"name": "Random 6",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/6.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/6.jpg",
+			"name": "AnotherCategory 6",
+			"category": "AnotherCategory"
 		}, {
 			"author": "FROM NICK NICE",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/7.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/7.jpg",
-			"name": "Random 7",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/7.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/7.jpg",
+			"name": "AnotherCategory 7",
+			"category": "AnotherCategory"
 		}, {
 			"author": "FROM NICK NICE",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/8.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/8.jpg",
-			"name": "Random 8",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/8.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/8.jpg",
+			"name": "AnotherCategory 8",
+			"category": "AnotherCategory"
 		}, {
 			"author": "FROM NICK NICE",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/9.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/9.jpg",
-			"name": "Random 9",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/9.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/9.jpg",
+			"name": "AnotherCategory 9",
+			"category": "AnotherCategory"
 		}, {
 			"author": "FROM NICK NICE",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/10.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/10.jpg",
-			"name": "Random 10",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/10.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/10.jpg",
+			"name": "AnotherCategory 10",
+			"category": "AnotherCategory"
 		}, {
 			"author": "FROM NICK NICE",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/11.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/11.jpg",
-			"name": "Random 11",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/11.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/11.jpg",
+			"name": "AnotherCategory 11",
+			"category": "AnotherCategory"
 		}, {
 			"author": "Taken from unsplash",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/12.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/12.jpg",
-			"name": "Random 12",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/12.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/12.jpg",
+			"name": "AnotherCategory 12",
+			"category": "AnotherCategory"
 		}, {
 			"author": "Taken from unsplash",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/13.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/13.jpg",
-			"name": "Random 13",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/13.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/13.jpg",
+			"name": "AnotherCategory 13",
+			"category": "AnotherCategory"
 		}, {
 			"author": "Taken from unsplash",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/14.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/14.jpg",
-			"name": "Random 14",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/14.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/14.jpg",
+			"name": "AnotherCategory 14",
+			"category": "AnotherCategory"
 		}, {
 			"author": "Taken from unsplash",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/15.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/15.jpg",
-			"name": "Random 15",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/15.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/15.jpg",
+			"name": "AnotherCategory 15",
+			"category": "AnotherCategory"
 		}, {
 			"author": "Taken from unsplash",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/16.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/16.jpg",
-			"name": "Random 16",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/16.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/16.jpg",
+			"name": "AnotherCategory 16",
+			"category": "AnotherCategory"
 		}, {
 			"author": "Taken from unsplash",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/17.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/17.jpg",
-			"name": "Random 17",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/17.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/17.jpg",
+			"name": "AnotherCategory 17",
+			"category": "AnotherCategory"
 		}, {
 			"author": "Taken from unsplash",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/18.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/18.jpg",
-			"name": "Random 18",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/18.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/18.jpg",
+			"name": "AnotherCategory 18",
+			"category": "AnotherCategory"
 		}, {
 			"author": "Taken from unsplash",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/19.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/19.jpg",
-			"name": "Random 19",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/19.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/19.jpg",
+			"name": "AnotherCategory 19",
+			"category": "AnotherCategory"
 		}, {
 			"author": "Taken from unsplash",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/20.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/20.jpg",
-			"name": "Random 20",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/20.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/20.jpg",
+			"name": "AnotherCategory 20",
+			"category": "AnotherCategory"
 		}, {
 			"author": "Taken from unsplash",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/21.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/21.jpg",
-			"name": "Random 21",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/21.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/21.jpg",
+			"name": "AnotherCategory 21",
+			"category": "AnotherCategory"
 		}, {
 			"author": "Taken from unsplash",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/22.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/22.jpg",
-			"name": "Random 22",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/22.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/22.jpg",
+			"name": "AnotherCategory 22",
+			"category": "AnotherCategory"
 		}, {
 			"author": "Taken from unsplash",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/23.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/23.jpg",
-			"name": "Random 23",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/23.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/23.jpg",
+			"name": "AnotherCategory 23",
+			"category": "AnotherCategory"
 		}, {
 			"author": "Taken from unsplash",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/24.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/24.jpg",
-			"name": "Random 24",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/24.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/24.jpg",
+			"name": "AnotherCategory 24",
+			"category": "AnotherCategory"
 		}, {
 			"author": "Taken from unsplash",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/25.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/25.jpg",
-			"name": "Random 25",
-			"category": "Random"
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/25.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/25.jpg",
+			"name": "AnotherCategory 25",
+			"category": "AnotherCategory"
 		},
 		{
 			"author": "Taken from unsplash",
@@ -3007,7 +3007,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/childhood%20memories/1.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20childhood%20memories/1.jpg",
 			"name": "childhood memories 1",
-			"category": "childhood memories,Random"
+			"category": "childhood memories,AnotherCategory"
 		}, {
 			"author": "Taken from unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/childhood%20memories/2.jpg",
@@ -3028,152 +3028,152 @@
 			"category": "childhood memories"
 		}, {
 			"author": "By Alex Iby",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/26.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/26.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/26.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/26.jpg",
 			"name": "Coffee Shop",
-			"category": "Random"
+			"category": "AnotherCategory"
 		}, {
 			"author": "By Perfect Hue",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/27.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/27.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/27.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/27.jpg",
 			"name": "Dots",
-			"category": "Random"
+			"category": "AnotherCategory"
 		}, {
 			"author": "By Perfect Hue",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/28.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/28.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/28.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/28.jpg",
 			"name": "Edge",
-			"category": "Random"
+			"category": "AnotherCategory"
 		}, {
 			"author": "By Alex Iby",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/29.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/29.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/29.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/29.jpg",
 			"name": "Expose",
-			"category": "Random"
+			"category": "AnotherCategory"
 		}, {
 			"author": "By Paper Crane",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/30.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/30.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/30.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/30.jpg",
 			"name": "Inner Space",
-			"category": "Random"
+			"category": "AnotherCategory"
 		}, {
 			"author": "By Paper Crane",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/31.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/31.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/31.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/31.jpg",
 			"name": "Many Lands under one sun",
-			"category": "Random"
+			"category": "AnotherCategory"
 		},
 		{
 			"author": "By Perfect Hue",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/32.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/32.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/32.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/32.jpg",
 			"name": "Silhouette",
-			"category": "Random"
+			"category": "AnotherCategory"
 		}, {
 			"author": "By Perfect Hue",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/33.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/33.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/33.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/33.jpg",
 			"name": "Spirals",
-			"category": "Random"
+			"category": "AnotherCategory"
 		},
 		{
 			"author": "By deigoph",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/34.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/34.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/34.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/34.jpg",
 			"name": "Swing",
-			"category": "Random"
+			"category": "AnotherCategory"
 		},
 		{
 			"author": "From Google+",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/35.jpeg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/35.jpeg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/35.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/35.jpeg",
 			"name": "Another Category 35",
-			"category": "Random"
+			"category": "AnotherCategory"
 		},
 		{
 			"author": "From Google+",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/36.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/36.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/36.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/36.jpg",
 			"name": "Another Category 36",
-			"category": "Random"
+			"category": "AnotherCategory"
 		},
 		{
 			"author": "From Google+",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/37.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/37.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/37.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/37.jpg",
 			"name": "Another Category 37",
-			"category": "Random"
+			"category": "AnotherCategory"
 		},
 		{
 			"author": "From Google+",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/38.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/38.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/38.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/38.jpg",
 			"name": "Another Category 38",
-			"category": "Random"
+			"category": "AnotherCategory"
 		},
 		{
 			"author": "From Google+",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/39.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/39.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/39.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/39.jpg",
 			"name": "Another Category 39",
-			"category": "Random"
+			"category": "AnotherCategory"
 		},
 		{
 			"author": "From Google+",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/40.png",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/40.png",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/40.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/40.png",
 			"name": "Another Category 40",
-			"category": "Random"
+			"category": "AnotherCategory"
 		},
 		{
 			"author": "From Google+",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/41.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/41.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/41.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/41.jpg",
 			"name": "Another Category 41",
-			"category": "Random"
+			"category": "AnotherCategory"
 		}, {
 			"author": "From Google+",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/42.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/42.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/42.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/42.jpg",
 			"name": "Another Category 42",
-			"category": "Random"
+			"category": "AnotherCategory"
 		}, {
 			"author": "From Google+",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/43.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/43.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/43.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/43.jpg",
 			"name": "Another Category 43",
-			"category": "Random"
+			"category": "AnotherCategory"
 		},
 		{
 			"author": "From Google+",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/44.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/44.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/44.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/44.jpg",
 			"name": "Another Category 44",
-			"category": "Random"
+			"category": "AnotherCategory"
 		}, {
 			"author": "From Google+",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/45.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/45.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/45.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/45.jpg",
 			"name": "Another Category 45",
-			"category": "Random"
+			"category": "AnotherCategory"
 		}, {
 			"author": "From Google+",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/46.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/46.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/46.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/46.jpg",
 			"name": "Another Category 46",
-			"category": "Random"
+			"category": "AnotherCategory"
 		}, {
 			"author": "From Google+",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/48.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/48.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/48.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/48.jpg",
 			"name": "Another Category 48",
-			"category": "Random"
+			"category": "AnotherCategory"
 		}, {
 			"author": "From Google+",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Random/49.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Random/49.jpg",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/49.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/49.jpg",
 			"name": "Another Category 49",
-			"category": "Random"
+			"category": "AnotherCategory"
 		}
 	]
 }
