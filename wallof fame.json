@@ -56,6 +56,37 @@
 	],
 
 	"Wallpapers": [{
+			"author": "Taken from unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/50.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/50.jpeg",
+			"name": "AnotherCategory 50",
+			"category": "AnotherCategory"
+		}, {
+			"author": "Taken from unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/51.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/51.jpeg",
+			"name": "AnotherCategory 51",
+			"category": "AnotherCategory"
+		}, {
+			"author": "Taken from unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/52.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/52.jpeg",
+			"name": "AnotherCategory 52",
+			"category": "AnotherCategory"
+		}, {
+			"author": "Taken from unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/53.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/53.jpg",
+			"name": "AnotherCategory 53",
+			"category": "AnotherCategory"
+		}, {
+			"author": "Taken from unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/54.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/54.jpeg",
+			"name": "AnotherCategory 54",
+			"category": "AnotherCategory"
+		},
+		{
 			"name": "13",
 			"author": "MyRockyS",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls/13.jpg",
