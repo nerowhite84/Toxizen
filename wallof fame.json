@@ -55,7 +55,13 @@
 		}
 	],
 
-	"Wallpapers": [
+	"Wallpapers": [ {
+			"name": "My Neighbor Totoro",
+			"author": "sammymartins",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/totoro.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/totoro.png",
+			"category": "ARTWORKS,ANIME"
+		},
 		{
 			"name": "OnePlus 16",
 			"author": "OnePlus",
