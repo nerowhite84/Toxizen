@@ -56,6 +56,25 @@
 	],
 
 	"Wallpapers": [{
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/mountain/7.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/mountain%20thumb/7.jpg",
+			"name": "Mountain 7",
+			"category": "Mountain"
+		}, {
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/mountain/8.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/mountain%20thumb/8.jpg",
+			"name": "Mountain 8",
+			"category": "Mountain"
+		}, {
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/mountain/9.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/mountain%20thumb/9.jpg",
+			"name": "Mountain 9",
+			"category": "Mountain"
+		},
+		{
 			"name": "Fire Heart",
 			"author": "Axis",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Fire%20Heart.jpg",
