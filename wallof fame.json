@@ -56,6 +56,37 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Christmas mess",
+			"author": "Silmen",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Silmen/Christmas%20mess.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Silmen/Christmas%20mess.jpg",
+			"category": "ARTWORKS"
+		}, {
+			"name": "Love petals",
+			"author": "Silmen",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Silmen/Love%20petals.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Silmen/Love%20petals.jpg",
+			"category": "ARTWORKS"
+		}, {
+			"name": "Night dreams",
+			"author": "Silmen",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Silmen/Night%20dreams.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Silmen/Night%20dreams.jpg",
+			"category": "ARTWORKS"
+		}, {
+			"name": "My love",
+			"author": "Silmen",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Silmen/My%20love.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Silmen/My%20love.jpg",
+			"category": "ARTWORKS"
+		}, {
+			"name": "Om",
+			"author": "Silmen",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Silmen/Om.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Silmen/Om.jpg",
+			"category": "ARTWORKS"
+		}, 
+		{
 			"name": "Canyon River",
 			"author": "The Paper Crane",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/The%20Paper%20Crane/Canyon%20river.jpg",
