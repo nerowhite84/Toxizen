@@ -56,6 +56,55 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Canyon River",
+			"author": "The Paper Crane",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/The%20Paper%20Crane/Canyon%20river.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/The%20Paper%20Crane/Canyon%20river.jpg",
+			"category": "ARTWORKS"
+		}, {
+			"name": "Day and Night",
+			"author": "The Paper Crane",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/The%20Paper%20Crane/Day%20%26%20night.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/The%20Paper%20Crane/Day%20%26%20night.jpg",
+			"category": "ARTWORKS"
+		}, {
+			"name": "Larus Sinus",
+			"author": "The Paper Crane",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/The%20Paper%20Crane/Larus%20Sinus.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/The%20Paper%20Crane/Larus%20Sinus.jpg",
+			"category": "ARTWORKS"
+		}, {
+			"name": "Love cycling",
+			"author": "The Paper Crane",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/The%20Paper%20Crane/Love%20cycling.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/The%20Paper%20Crane/Love%20cycling.jpg",
+			"category": "ARTWORKS"
+		}, {
+			"name": "Moonlight companion",
+			"author": "The Paper Crane",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/The%20Paper%20Crane/Moonlight%20companion.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/The%20Paper%20Crane/Moonlight%20companion.jpg",
+			"category": "ARTWORKS"
+		}, {
+			"name": "Reconnect",
+			"author": "The Paper Crane",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/The%20Paper%20Crane/Reconnect.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/The%20Paper%20Crane/Reconnect.jpg",
+			"category": "ARTWORKS"
+		}, {
+			"name": "Solitude",
+			"author": "The Paper Crane",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/The%20Paper%20Crane/Solitude.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/The%20Paper%20Crane/Solitude.jpg",
+			"category": "ARTWORKS"
+		}, {
+			"name": "There is someone out there",
+			"author": "The Paper Crane",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/The%20Paper%20Crane/There%20is%20someone%20out%20there.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/The%20Paper%20Crane/There%20is%20someone%20out%20there.jpg",
+			"category": "ARTWORKS"
+		},
+		{
 			"name": "Rock Lee",
 			"author": "NcollArt",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Rock%20Lee.jpg",
