@@ -56,6 +56,43 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Hangmoon 1",
+			"author": "Hang",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon/1.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon%20thumb/1.jpg",
+			"category": "ARTWORKS"
+		}, {
+			"name": "Hangmoon 2",
+			"author": "Hang",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon/2.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon%20thumb/2.jpg",
+			"category": "ARTWORKS"
+		}, {
+			"name": "Hangmoon 3",
+			"author": "Hang",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon/3.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon%20thumb/3.jpg",
+			"category": "ARTWORKS"
+		}, {
+			"name": "Hangmoon 4",
+			"author": "Hang",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon/4.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon%20thumb/4.jpg",
+			"category": "ARTWORKS"
+		}, {
+			"name": "Hangmoon 5",
+			"author": "Hang",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon/5.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon%20thumb/5.jpg",
+			"category": "ARTWORKS"
+		}, {
+			"name": "Hangmoon 6",
+			"author": "Hang",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon/6.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/hangmoon%20thumb/6.jpg",
+			"category": "ARTWORKS"
+		},
+		{
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science/10.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science%20thumb/10.jpg",
