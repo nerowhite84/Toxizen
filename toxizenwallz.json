@@ -41,6 +41,25 @@
 		}
 	],
 	"Wallpapers": [{
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/REAL LIFE PHOTO/7.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/REAL LIFE PHOTO%20thumb/7.jpg",
+			"name": "REAL LIFE PHOTO 7",
+			"collections": "REAL LIFE PHOTO"
+		}, {
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/REAL LIFE PHOTO/8.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/REAL LIFE PHOTO%20thumb/8.jpg",
+			"name": "REAL LIFE PHOTO 8",
+			"collections": "REAL LIFE PHOTO"
+		}, {
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/REAL LIFE PHOTO/9.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/REAL LIFE PHOTO%20thumb/9.jpg",
+			"name": "REAL LIFE PHOTO 9",
+			"collections": "REAL LIFE PHOTO"
+		},
+		{
 			"name": "Love petals",
 			"author": "Silmen",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Silmen/Love%20petals.jpg",
