@@ -56,6 +56,67 @@
 	],
 
 	"Wallpapers": [{
+			"author": "NFN Design",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/Balloon.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/Balloon.jpg",
+			"name": "Balloon",
+			"category": "Material Minimal"
+		}, {
+			"author": "NFN Design",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/Be%20bold.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/Be%20bold.jpg",
+			"name": "Be bold",
+			"category": "Material Minimal"
+		}, {
+			"author": "NFN Design",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/Break%20out.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/Break%20out.jpg",
+			"name": "Break out",
+			"category": "Material Minimal"
+		}, {
+			"author": "NFN Design",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/Bugs.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/Bugs.jpg",
+			"name": "Bugs",
+			"category": "Material Minimal"
+		}, {
+			"author": "NFN Design",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/Howling.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/Howling.jpg",
+			"name": "Howling",
+			"category": "Material Minimal"
+		}, {
+			"author": "NFN Design",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/Night%20sky.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/Night%20sky.jpg",
+			"name": "Night SKy",
+			"category": "Material Minimal"
+		}, {
+			"author": "NFN Design",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/Salute.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/Salute.jpg",
+			"name": "Salute",
+			"category": "Material Minimal"
+		}, {
+			"author": "NFN Design",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/Snowman.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/Snowman.jpg",
+			"name": "Snowman",
+			"category": "Material Minimal"
+		}, {
+			"author": "NFN Design",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/Snowman.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/Snowman.jpg",
+			"name": "Snowman",
+			"category": "Material Minimal"
+		}, {
+			"author": "NFN Design",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/Wonderland.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/Wonderland.jpg",
+			"name": "Wonderland",
+			"category": "Material Minimal"
+		}, 
+		{ 
 			"name": "1",
 			"author": "Coolpad",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/1.jpg",
