@@ -56,6 +56,31 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Dope 11",
+			"author": "Google Image/Unknown",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/11.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/11.jpg",
+			"category": "Dope"
+		}, {
+			"name": "Dope 12",
+			"author": "Google Image/Unknown",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/12.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/12.jpg",
+			"category": "Dope"
+		}, {
+			"name": "Dope 13",
+			"author": "Google Image/Unknown",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/13.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/13.jpg",
+			"category": "Dope"
+		}, {
+			"name": "Dope 14",
+			"author": "Google Image/Unknown",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/14.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/14.jpg",
+			"category": "Dope"
+		},
+		{
 			"name": "Amoled 60",
 			"author": "Google Plus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/60.jpg",
