@@ -56,6 +56,19 @@
 	],
 
 	"Wallpapers": [{
+			"author": "Wall of Fame",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/rain/20.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/rain%20thumb/20.jpg",
+			"name": "Rain 20",
+			"category": "Rain"
+		}, {
+			"author": "Wall of Fame",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/rain/21.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/rain%20thumb/21.jpg",
+			"name": "Rain 21",
+			"category": "Rain"
+		}, 
+		{
 			"name": "20",
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Christmas%20original/20.jpeg",
