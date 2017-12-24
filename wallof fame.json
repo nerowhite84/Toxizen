@@ -56,6 +56,25 @@
 	],
 
 	"Wallpapers": [{
+			"name": "20",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Christmas%20original/20.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Christmas/20.jpeg",
+			"category": "Christmas"
+		}, {
+			"name": "21",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Christmas%20original/21.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Christmas/21.jpeg",
+			"category": "Christmas"
+		}, {
+			"name": "22",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Christmas%20original/22.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Christmas/22.jpeg",
+			"category": "Christmas"
+		},
+		{
 			"name": "1",
 			"author": "Google Plus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Best%20For%20Stock%20Android/1.jpg",
