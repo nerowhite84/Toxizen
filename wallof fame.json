@@ -14,7 +14,7 @@
 		}, {
 			"name": "weather"
 		}, {
-			"name": "City"
+			"name": "Lettering"
 		},
 		   {
 			"name": "Neon Lights"
@@ -59,42 +59,42 @@
 	],
 
 	"Wallpapers": [{
-			"name": "City 1",
-			"author": "Google Image/Unknown",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/city/1.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/city%20thumb/1.jpg",
-			"category": "City"
+			"name": "Lettering 1",
+			"author": "http://skitchism.com/",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Lettering/1.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Lettering%20Thumb/1.jpg",
+			"category": "Lettering"
 		}, {
-			"name": "City 2",
-			"author": "Google Image/Unknown",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/city/2.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/city%20thumb/2.jpg",
-			"category": "City"
+			"name": "Lettering 2",
+			"author": "http://skitchism.com/",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Lettering/2.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Lettering%20Thumb/2.jpg",
+			"category": "Lettering"
 		}, {
-			"name": "City 3",
-			"author": "Google Image/Unknown",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/city/3.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/city%20thumb/3.jpg",
-			"category": "City"
+			"name": "Lettering 3",
+			"author": "http://skitchism.com/",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Lettering/3.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Lettering%20Thumb/3.jpg",
+			"category": "Lettering"
 		}, {
-			"name": "City 4",
-			"author": "Google Image/Unknown",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/city/4.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/city%20thumb/4.jpg",
-			"category": "City"
+			"name": "Lettering 4",
+			"author": "http://skitchism.com/",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Lettering/4.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Lettering%20Thumb/4.jpg",
+			"category": "Lettering"
 		}, {
-			"name": "City 5",
-			"author": "Google Image/Unknown",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/city/5.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/city%20thumb/5.jpg",
-			"category": "City"
+			"name": "Lettering 5",
+			"author": "http://skitchism.com/",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Lettering/5.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Lettering%20Thumb/5.jpg",
+			"category": "Lettering"
 		}, {
-			"name": "City 6",
-			"author": "Google Image/Unknown",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/city/6.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/city%20thumb/6.jpg",
-			"category": "City"
-		},
+			"name": "Lettering 6",
+			"author": "http://skitchism.com/",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Lettering/6.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Lettering%20Thumb/6.jpg",
+			"category": "Lettering"
+		}, 
 		{
 			"name": "Dope 11",
 			"author": "Google Image/Unknown",
