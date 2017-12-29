@@ -52,6 +52,8 @@
 		}, {
 			"name": "Anime Girl Walls"
 		}, {
+			"name": "Happy New Year"
+		}, {
 			"name": "Amoled Walls"
 		}, {
 			"name": "AnotherCategory"
@@ -59,6 +61,49 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Happy New Year 1",
+			"author": "unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/HAPPY%20NEW%20YEAR/1.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/HAPPY%20NEW%20YEAR%20thumb/1.jpg",
+			"category": "Happy New Year"
+		}, {
+			"name": "Happy New Year 2",
+			"author": "unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/HAPPY%20NEW%20YEAR/2.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/HAPPY%20NEW%20YEAR%20thumb/2.jpg",
+			"category": "Happy New Year"
+		}, {
+			"name": "Happy New Year 3",
+			"author": "unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/HAPPY%20NEW%20YEAR/3.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/HAPPY%20NEW%20YEAR%20thumb/3.jpg",
+			"category": "Happy New Year"
+		}, {
+			"name": "Happy New Year 4",
+			"author": "unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/HAPPY%20NEW%20YEAR/4.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/HAPPY%20NEW%20YEAR%20thumb/4.jpg",
+			"category": "Happy New Year"
+		}, {
+			"name": "Happy New Year 5",
+			"author": "unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/HAPPY%20NEW%20YEAR/5.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/HAPPY%20NEW%20YEAR%20thumb/5.jpg",
+			"category": "Happy New Year"
+		}, {
+			"name": "Happy New Year 6",
+			"author": "unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/HAPPY%20NEW%20YEAR/6.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/HAPPY%20NEW%20YEAR%20thumb/6.jpg",
+			"category": "Happy New Year"
+		}, {
+			"name": "Happy New Year 7",
+			"author": "unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/HAPPY%20NEW%20YEAR/7.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/HAPPY%20NEW%20YEAR%20thumb/7.jpg",
+			"category": "Happy New Year"
+		},
+		{
 			"name": "Lettering 1",
 			"author": "http://skitchism.com/",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Lettering/1.jpg",
