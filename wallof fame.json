@@ -63,7 +63,14 @@
 		}
 	],
 
-	"Wallpapers": [ {
+	"Wallpapers": [{
+			"name": "OnePlus 17",
+			"author": "OnePlus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/17.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/17.jpg",
+			"category": "OnePlus"
+		},
+		{
 			"name": "1",
 			"author": "Google Plus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Best%20for%20mi/1.jpg",
