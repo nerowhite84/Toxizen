@@ -64,6 +64,43 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Art 1",
+			"author": "k",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Art1.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Art1.png",
+			"category": "ARTWORKS"
+		}, {
+			"name": "Art 2",
+			"author": "k",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Art2.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Art2.png",
+			"category": "ARTWORKS"
+		}, {
+			"name": "Art 3",
+			"author": "k",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Art3.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Art3.png",
+			"category": "ARTWORKS"
+		}, {
+			"name": "Art 4",
+			"author": "k",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Art4.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Art4.png",
+			"category": "ARTWORKS"
+		}, {
+			"name": "Art 5",
+			"author": "k",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Art5.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Art5.png",
+			"category": "ARTWORKS"
+		}, {
+			"name": "Art 6",
+			"author": "k",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Art6.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Art6.png",
+			"category": "ARTWORKS"
+		},
+		{
 			"name": "OnePlus 17",
 			"author": "OnePlus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/17.jpg",
