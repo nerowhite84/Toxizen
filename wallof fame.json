@@ -26,6 +26,9 @@
 		}, {
 			"name": "xperia"
 		}, {
+			"name": "Green"
+		},
+		   {
 			"name": "Mountain"
 		}, {
 			"name": "Rain"
@@ -64,6 +67,43 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Green 1",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green/1.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green%20thumb/1.jpg",
+			"category": "Green"
+		}, {
+			"name": "Green 2",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green/2.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green%20thumb/2.jpg",
+			"category": "Green"
+		}, {
+			"name": "Green 3",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green/3.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green%20thumb/3.jpg",
+			"category": "Green"
+		}, {
+			"name": "Green 4",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green/4.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green%20thumb/4.jpg",
+			"category": "Green"
+		}, {
+			"name": "Green 5",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green/5.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green%20thumb/5.jpg",
+			"category": "Green"
+		}, {
+			"name": "Green 6",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green/6.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green%20thumb/6.jpg",
+			"category": "Green"
+		}, 
+		{
 			"name": "Nyctagina",
 			"author": "Ezekuro",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Nyctagina.jpg",
