@@ -67,6 +67,13 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Best Material 8",
+			"author": "From Google Plus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/8.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/8.jpg",
+			"category": "Abstract"
+		},
+		{
 			"name": "Best Material 1",
 			"author": "From Google Plus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material/1.jpeg",
