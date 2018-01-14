@@ -67,6 +67,67 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Best Material 1",
+			"author": "From Google Plus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material/1.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material%20thumb/1.jpeg",
+			"category": "Material Minimal"
+		}, {
+			"name": "Best Material 2",
+			"author": "From Google Plus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material/2.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material%20thumb/2.jpg",
+			"category": "Material Minimal"
+		}, {
+			"name": "Best Material 3",
+			"author": "From Google Plus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material/3.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material%20thumb/3.jpg",
+			"category": "Material Minimal"
+		}, {
+			"name": "Best Material 4",
+			"author": "From Google Plus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material/4.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material%20thumb/4.png",
+			"category": "Material Minimal"
+		}, {
+			"name": "Best Material 5",
+			"author": "From Google Plus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material/5.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material%20thumb/5.jpg",
+			"category": "Material Minimal"
+		}, {
+			"name": "Best Material 6",
+			"author": "From Google Plus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material/6.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material%20thumb/6.jpg",
+			"category": "Material Minimal"
+		}, {
+			"name": "Best Material 7",
+			"author": "From Google Plus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material/7.png",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material%20thumb/7.png",
+			"category": "Material Minimal"
+		}, {
+			"name": "Best Material 8",
+			"author": "From Google Plus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material/8.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material%20thumb/8.jpg",
+			"category": "Material Minimal"
+		}, {
+			"name": "Best Material 9",
+			"author": "From Google Plus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material/9.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material%20thumb/9.jpeg",
+			"category": "Material Minimal"
+		}, {
+			"name": "Best Material 10",
+			"author": "From Google Plus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material/10.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material%20thumb/10.jpg",
+			"category": "Material Minimal"
+		},
+		{
 			"name": "Green 1",
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green/1.jpg",
