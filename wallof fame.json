@@ -67,6 +67,27 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Deercafe",
+			"author": "Jenny Yu",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Jenny%20Yu/deercafe.jpg",
+			"category": "ARTWORKS"
+		}, {
+			"name": "deerrain",
+			"author": "Jenny Yu",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Jenny%20Yu/deerrain.jpg",
+			"category": "ARTWORKS"
+		}, {
+			"name": "night",
+			"author": "Jenny Yu",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Jenny%20Yu/night.jpg",
+			"category": "ARTWORKS"
+		}, {
+			"name": "Rooftop",
+			"author": "Jenny Yu",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Jenny%20Yu/rooftop.jpg",
+			"category": "ARTWORKS"
+		}, 
+		{
 			"name": "Best Material 8",
 			"author": "From Google Plus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/8.jpg",
