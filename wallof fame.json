@@ -67,6 +67,19 @@
 	],
 
 	"Wallpapers": [{
+			"name": "1",
+			"author": "MyrockyS",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/MyrockyS/1.jpg",
+		        "thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/MyrockyS%20thumb/1.jpg",
+			"category": "Anime Girl Walls"
+		}, {
+			"name": "2",
+			"author": "MyrockyS",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/MyrockyS/2.jpg",
+		        "thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/MyrockyS%20thumb/2.jpg",
+			"category": "Anime Girl Walls"
+		},
+		{
 			"name": "Deercafe",
 			"author": "Jenny Yu",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Jenny%20Yu/deercafe.jpg",
