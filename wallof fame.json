@@ -156,8 +156,8 @@
 		}, {
 			"name": "15",
 			"author": "Google Plus/Unknown Source",
-			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/15.png",
-			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha%20thumb/15.png",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/15.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha%20thumb/15.jpg",
 			"category": "Alpha,Material Minimal"
 		}, {
 			"name": "16",
@@ -346,7 +346,7 @@
 			"name": "deerrain",
 			"author": "Jenny Yu",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Jenny%20Yu/deerrain.jpg",
-			"category": "ARTWORKS"
+			"category": "ARTWORKS,Alpha"
 		}, {
 			"name": "night",
 			"author": "Jenny Yu",
@@ -3255,7 +3255,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi/14.png",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi%20thumb/14.png",
 			"name": "tofuvi 14",
-			"category": "tofuvi"
+			"category": "tofuvi,Alpha"
 		},
 		{
 			"author": "FROM iOS",
@@ -3491,7 +3491,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/20.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/20.jpg",
 			"name": "Earth 20",
-			"category": "Earth"
+			"category": "Earth,Alpha"
 		}, {
 			"author": "FROM G+",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/21.jpg",
@@ -3632,7 +3632,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Nero%20White/10.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Nero%20White/10.jpg",
 			"name": "Nero White Theme Walls 10",
-			"category": "Nero White Theme Walls"
+			"category": "Nero White Theme Walls,Alpha"
 		},
 		{
 			"author": "Nero Xperia Theme",
@@ -3754,7 +3754,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/6.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/6.jpg",
 			"name": "Material Minimal 6",
-			"category": "Material Minimal"
+			"category": "Material Minimal,Alpha"
 		}, {
 			"author": "From G+",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/7.jpg",
