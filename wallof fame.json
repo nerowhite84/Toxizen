@@ -70,6 +70,19 @@
 	],
 
 	"Wallpapers": [{
+			"author": "G Plus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science/17.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science%20thumb/17.jpg",
+			"name": "science 17",
+			"category": "science"
+		}, {
+			"author": "G Plus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science/18.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science%20thumb/18.jpg",
+			"name": "science 18",
+			"category": "Alpha,science"
+		},
+		{
 			"name": "1",
 			"author": "Google Plus/Unknown Source",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/1.png",
@@ -110,13 +123,13 @@
 			"author": "Google Plus/Unknown Source",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/7.png",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha%20thumb/7.png",
-			"category": "Alpha,Material Minimal"
+			"category": "Material Minimal"
 		}, {
 			"name": "8",
 			"author": "Google Plus/Unknown Source",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/8.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha%20thumb/8.jpg",
-			"category": "Alpha,Material Minimal"
+			"category": "Material Minimal"
 		}, {
 			"name": "9",
 			"author": "Google Plus/Unknown Source",
@@ -128,13 +141,13 @@
 			"author": "Google Plus/Unknown Source",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/10.png",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha%20thumb/10.png",
-			"category": "Alpha,Material Minimal"
+			"category": "Material Minimal"
 		}, {
 			"name": "11",
 			"author": "Google Plus/Unknown Source",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/11.png",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha%20thumb/11.png",
-			"category": "Alpha,Material Minimal"
+			"category": "Material Minimal"
 		}, {
 			"name": "12",
 			"author": "Google Plus/Unknown Source",
@@ -158,7 +171,7 @@
 			"author": "Google Plus/Unknown Source",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/15.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha%20thumb/15.jpg",
-			"category": "Alpha,Material Minimal"
+			"category": "Material Minimal"
 		}, {
 			"name": "16",
 			"author": "Google Plus/Unknown Source",
@@ -292,7 +305,7 @@
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/17.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/17.jpg",
-			"category": "Dope,Rain"
+			"category": "Alpha,Dope,Rain"
 		}, {
 			"name": "Dope 18",
 			"author": "Unsplash",
@@ -430,7 +443,7 @@
 			"author": "From Google Plus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material/6.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material%20thumb/6.jpg",
-			"category": "Material Minimal"
+			"category": "Alpha,Material Minimal"
 		}, {
 			"name": "Best Material 7",
 			"author": "From Google Plus",
@@ -1535,7 +1548,7 @@
 			"author": "Google Plus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/39.png",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/39.png",
-			"category": "Amoled Walls"
+			"category": "Alpha,Amoled Walls"
 		},
 		{
 			"author": "Unsplash",
@@ -2560,14 +2573,14 @@
 			"author": "Jerick Van Ortiz",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/Held.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/Held.jpg",
-			"category": "Earth"
+			"category": "Alpha,Earth"
 		},
 		{
 			"name": "I am sure that you will be by your side at any time",
 			"author": "Seo @ Winter Comic Day 1 Toele 31",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/I%20am%20sure%20that%20you%20will%20be%20by%20your%20side%20at%20any%20time.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/I%20am%20sure%20that%20you%20will%20be%20by%20your%20side%20at%20any%20time.jpg",
-			"category": "ARTWORKS"
+			"category": "Alpha,ARTWORKS"
 		},
 		{
 			"name": "Michelangelo",
@@ -2579,7 +2592,7 @@
 			"name": "You are more than you think",
 			"author": "Leo Decade",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/You%20are%20more%20than%20you%20think.jpg",
-			"category": "Amoled Walls"
+			"category": "Alpha,Amoled Walls"
 		},
 		{
 			"name": "Killing",
@@ -2592,7 +2605,7 @@
 			"author": "Snatti",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Urban%20Life%20by%20Snatti.png",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Urban%20Life%20by%20Snatti.png",
-			"category": "ARTWORKS"
+			"category": "Alpha,ARTWORKS"
 		},
 		{
 			"name": "Golfo Sperlonga",
@@ -3183,7 +3196,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi/2.png",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi%20thumb/2.png",
 			"name": "tofuvi 2",
-			"category": "tofuvi"
+			"category": "Alpha,tofuvi"
 		}, {
 			"author": "By Tofuvi",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi/3.png",
@@ -4577,7 +4590,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Neon%20Light/10.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Neon%20Light/10.jpg",
 			"name": "Neon Lights 10",
-			"category": "Neon Lights"
+			"category": "Alpha,Neon Lights"
 		},
 		{
 			"author": "Taken from unsplash",
@@ -4751,7 +4764,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/48.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/48.jpg",
 			"name": "Another Category 48",
-			"category": "AnotherCategory"
+			"category": "Alpha,AnotherCategory"
 		}, {
 			"author": "From Google+",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/49.jpg",
