@@ -47,6 +47,8 @@
 			"name": "Horror Vibe"
 		}, {
 			"name": "ARTWORKS"
+		}, {
+			"name": "Flower"
 		},
 		{
 			"name": "Material Minimal"
@@ -70,6 +72,37 @@
 	],
 
 	"Wallpapers": [{
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/1.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/1.jpg",
+			"name": "Flower 1",
+			"category": "Flower"
+		}, {
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/2.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/2.jpg",
+			"name": "Flower 2",
+			"category": "Flower"
+		}, {
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/3.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/3.jpg",
+			"name": "Flower 3",
+			"category": "Flower"
+		}, {
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/4.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/4.jpg",
+			"name": "Flower 4",
+			"category": "Flower"
+		}, {
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/5.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/5.jpg",
+			"name": "Flower 5",
+			"category": "Flower"
+		},
+		{
 			"author": "G Plus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science/17.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science%20thumb/17.jpg",
@@ -117,7 +150,7 @@
 			"author": "Google Plus/Unknown Source",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/6.png",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha%20thumb/6.png",
-			"category": "Alpha,Material Minimal"
+			"category": "Material Minimal"
 		}, {
 			"name": "7",
 			"author": "Google Plus/Unknown Source",
@@ -293,7 +326,7 @@
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/15.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/15.jpg",
-			"category": "Dope"
+			"category": "Alpha,Dope"
 		}, {
 			"name": "Dope 16",
 			"author": "Unsplash",
@@ -335,7 +368,7 @@
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/22.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/22.jpg",
-			"category": "Dope,Alpha"
+			"category": "Dope"
 		}, 
 		{
 			"name": "1",
@@ -354,17 +387,17 @@
 			"name": "Deercafe",
 			"author": "Jenny Yu",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Jenny%20Yu/deercafe.jpg",
-			"category": "ARTWORKS"
+			"category": "ARTWORKSAlpha,"
 		}, {
 			"name": "deerrain",
 			"author": "Jenny Yu",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Jenny%20Yu/deerrain.jpg",
-			"category": "ARTWORKS,Alpha"
+			"category": "ARTWORKS"
 		}, {
 			"name": "night",
 			"author": "Jenny Yu",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Jenny%20Yu/night.jpg",
-			"category": "ARTWORKS,Best For Stock Android"
+			"category": "Alpha,ARTWORKS,Best For Stock Android"
 		}, {
 			"name": "Rooftop",
 			"author": "Jenny Yu",
@@ -425,13 +458,13 @@
 			"author": "From Google Plus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material/3.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material%20thumb/3.jpg",
-			"category": "Material Minimal"
+			"category": "Alpha,Material Minimal"
 		}, {
 			"name": "Best Material 4",
 			"author": "From Google Plus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material/4.png",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Best%20Material%20thumb/4.png",
-			"category": "Material Minimal"
+			"category": "Alpha,Material Minimal"
 		}, {
 			"name": "Best Material 5",
 			"author": "From Google Plus",
@@ -516,7 +549,7 @@
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green/2.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green%20thumb/2.jpg",
-			"category": "Green,Alpha"
+			"category": "Green"
 		}, {
 			"name": "Green 3",
 			"author": "Unsplash",
