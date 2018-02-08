@@ -66,12 +66,28 @@
 			"name": "Happy New Year"
 		}, {
 			"name": "Amoled Walls"
-		}, {
+		},{
+			"name": "Game Walls"
+		},
+		     {
 			"name": "AnotherCategory"
 		}
 	],
 
 	"Wallpapers": [{
+			"author": "Mushk Rizvi",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Games/Vainglory%201.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Games%20thumb/Vainglory%201.jpg",
+			"name": "Vainglory 1",
+			"category": "Game Walls"
+		}, {
+			"author": "Mushk Rizvi",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Games/Vainglory%202.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Games%20thumb/Vainglory%202.jpg",
+			"name": "Vainglory 2",
+			"category": "Game Walls"
+		},
+		{
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/1.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/1.jpg",
