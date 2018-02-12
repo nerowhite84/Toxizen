@@ -44,6 +44,9 @@
 		}, {
 			"name": "Best For Stock Android"
 		}, {
+			"name": "Valentine's Day"
+		},
+		   {
 			"name": "Horror Vibe"
 		}, {
 			"name": "ARTWORKS"
@@ -75,6 +78,31 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Valentine 1",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Valentine's%20Day/1.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Valentine's%20Day%20thumb/1.jpg",
+			"category": "Valentine's Day"
+		}, {
+			"name": "Valentine 2",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Valentine's%20Day/2.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Valentine's%20Day%20thumb/2.jpg",
+			"category": "Valentine's Day"
+		}, {
+			"name": "Valentine 3",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Valentine's%20Day/3.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Valentine's%20Day%20thumb/3.jpg",
+			"category": "Valentine's Day"
+		}, {
+			"name": "Valentine 4",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Valentine's%20Day/4.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Valentine's%20Day%20thumb/4.jpg",
+			"category": "Valentine's Day"
+		},
+		{
 			"name": "Abstract 14",
 			"author": "From Google Plus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/14.png",
