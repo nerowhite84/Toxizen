@@ -77,7 +77,14 @@
 		}
 	],
 
-	"Wallpapers": [{
+	"Wallpapers": [ {
+			"name": "3",
+			"author": "MyrockyS",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/MyrockyS/3.jpg",
+		        "thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/MyrockyS%20thumb/3.jpg",
+			"category": "Alpha,ARTWORKS"
+		},
+		{
 			"name": "Valentine 1",
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Valentine's%20Day/1.jpg",
