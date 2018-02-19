@@ -78,6 +78,25 @@
 	],
 
 	"Wallpapers": [ {
+			"name": "20",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Best%20For%20Stock%20Android/20.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BEstandroid%20thumb/20.jpg",
+			"category": "Best For Stock Android"
+		},  {
+			"name": "21",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Best%20For%20Stock%20Android/21.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BEstandroid%20thumb/21.jpg",
+			"category": "Best For Stock Android"
+		},  {
+			"name": "22",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Best%20For%20Stock%20Android/22.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BEstandroid%20thumb/22.jpg",
+			"category": "Best For Stock Android"
+		},
+		{
 			"name": "3",
 			"author": "MyrockyS",
 			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/MyrockyS/3.jpg",
