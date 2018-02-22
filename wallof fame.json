@@ -82,7 +82,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/55.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/55.jpg",
 			"name": "AnotherCategory 55",
-			"category": "AnotherCategory"
+			"category": "Alpha,AnotherCategory"
 		}, {
 			"author": "Nick Nice",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/56.jpg",
@@ -100,7 +100,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/58.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/58.jpg",
 			"name": "AnotherCategory 58",
-			"category": "AnotherCategory"
+			"category": "Alpha,AnotherCategory"
 		}, {
 			"author": "Nick Nice",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/59.jpg",
@@ -168,14 +168,14 @@
 			"author": "MyrockyS",
 			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/MyrockyS/3.jpg",
 		        "thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/MyrockyS%20thumb/3.jpg",
-			"category": "Alpha,ARTWORKS"
+			"category": "ARTWORKS"
 		},
 		{
 			"name": "Valentine 1",
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Valentine's%20Day/1.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Valentine's%20Day%20thumb/1.jpg",
-			"category": "Valentine's Day"
+			"category": "Alpha,Valentine's Day"
 		}, {
 			"name": "Valentine 2",
 			"author": "Unsplash",
@@ -255,7 +255,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Games/Dante.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Games%20thumb/Dante.jpg",
 			"name": "Dante",
-			"category": "Game Walls"
+			"category": "Alpha,Game Walls"
 		}, {
 			"author": "Bartlomiej Gawel",
 			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Games/The%20Witcher%203.jpg",
@@ -396,7 +396,7 @@
 			"author": "Google Plus/Unknown Source",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/15.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha%20thumb/15.jpg",
-			"category": "Alpha,Material Minimal"
+			"category": "Material Minimal"
 		}, {
 			"name": "16",
 			"author": "Google Plus/Unknown Source",
@@ -438,7 +438,7 @@
 			"author": "Google Plus/Unknown Source",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/22.png",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha%20thumb/22.png",
-			"category": "Alpha,Material Minimal,Best For Stock Android"
+			"category": "Material Minimal,Best For Stock Android"
 		}, {
 			"name": "23",
 			"author": "Google Plus/Unknown Source",
@@ -511,7 +511,7 @@
 			"author": "Google Plus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/69.jpeg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/69.jpeg",
-			"category": "Amoled Walls"
+			"category": "Alpha,Amoled Walls"
 		},
 		{
 			"name": "Dope 15",
@@ -594,7 +594,7 @@
 			"name": "Rooftop",
 			"author": "Jenny Yu",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Jenny%20Yu/rooftop.jpg",
-			"category": "ARTWORKS"
+			"category": "Alpha,ARTWORKS"
 		}, 
 		{
 			"name": "Best Material 8",
