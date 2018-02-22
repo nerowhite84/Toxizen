@@ -78,6 +78,49 @@
 	],
 
 	"Wallpapers": [ {
+			"name": "20",
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/20.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/20.jpeg",
+			"category": "Abstract"
+		}, {
+			"name": "21",
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/21.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/21.jpeg",
+			"category": "Abstract"
+		}, {
+			"name": "22",
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/22.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/22.jpeg",
+			"category": "Abstract"
+		}, {
+			"name": "23",
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/23.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/23.jpeg",
+			"category": "Abstract"
+		}, {
+			"name": "24",
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/24.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/24.jpeg",
+			"category": "Abstract"
+		}, {
+			"name": "25",
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/25.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/25.jpeg",
+			"category": "Abstract"
+		}, {
+			"name": "26",
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/26.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/26.jpeg",
+			"category": "Abstract"
+		},
+		{
 			"author": "Nick Nice",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/55.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/55.jpg",
