@@ -78,6 +78,22 @@
 	],
 
 	"Wallpapers": [ {
+			"name": "batman",
+			"author": "Ahmed Kamal",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/batman.png",
+			"category": "Amoled Walls"
+		}, {
+			"name": "batman2",
+			"author": "Ahmed Kamal",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/batman2.jpg",
+			"category": "Amoled Walls"
+		}, {
+			"name": "SaintsRow",
+			"author": "Ahmed Kamal",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/SaintsRow.jpg",
+			"category": "Amoled Walls,Game Walls"
+		},
+		{
 			"name": "20",
 			"author": "Pexels",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/20.jpeg",
