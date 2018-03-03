@@ -78,6 +78,31 @@
 	],
 
 	"Wallpapers": [ {
+			"author": "Sony Mobile",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/xperia/Black.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20xperia/Black.jpg",
+			"name": "Black",
+			"category": "xperia"
+		}, {
+			"author": "Sony Mobile",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/xperia/Green.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20xperia/Green.jpg",
+			"name": "Green",
+			"category": "xperia"
+		}, {
+			"author": "Sony Mobile",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/xperia/Rose.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20xperia/Rose.jpg",
+			"name": "Rose",
+			"category": "xperia"
+		}, {
+			"author": "Sony Mobile",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/xperia/Silver.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20xperia/Silver.jpg",
+			"name": "Silver",
+			"category": "xperia"
+		},
+		{
 			"author": "Nick Nice",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science/19.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science%20thumb/19.jpg",
