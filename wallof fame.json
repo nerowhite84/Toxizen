@@ -78,6 +78,13 @@
 	],
 
 	"Wallpapers": [ {
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science/19.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science%20thumb/19.jpg",
+			"name": "science 19",
+			"category": "science,Best For Stock Android"
+		},
+		{
 			"name": "Guide",
 			"author": "Clays",
 			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Clays/Guide.jpg",
@@ -184,7 +191,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/55.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/55.jpg",
 			"name": "AnotherCategory 55",
-			"category": "Alpha,AnotherCategory"
+			"category": "AnotherCategory"
 		}, {
 			"author": "Nick Nice",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/56.jpg",
@@ -214,7 +221,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/60.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20AnotherCategory/60.jpg",
 			"name": "AnotherCategory 60",
-			"category": "AnotherCategory"
+			"category": "Alpha,AnotherCategory"
 		}, {
 			"author": "Nick Nice",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/AnotherCategory/61.jpg",
@@ -295,7 +302,7 @@
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Valentine's%20Day/4.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Valentine's%20Day%20thumb/4.jpg",
-			"category": "Valentine's Day"
+			"category": "Alpha,Valentine's Day"
 		},
 		{
 			"name": "Abstract 14",
@@ -407,7 +414,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science/18.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science%20thumb/18.jpg",
 			"name": "science 18",
-			"category": "Alpha,science"
+			"category": "science"
 		},
 		{
 			"name": "1",
@@ -498,7 +505,7 @@
 			"author": "Google Plus/Unknown Source",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/15.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha%20thumb/15.jpg",
-			"category": "Material Minimal"
+			"category": "Alpha,Material Minimal"
 		}, {
 			"name": "16",
 			"author": "Google Plus/Unknown Source",
@@ -2415,7 +2422,7 @@
 			"author": " lluluchwan",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/red%20spider.png",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/red%20spider.png",
-			"category": "ARTWORKS"
+			"category": "Alpha,ARTWORKS"
 		},
 		{
 			"name": "13",
@@ -2428,7 +2435,7 @@
 			"author": "Justin Maller",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/14.jpeg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/14.jpeg",
-			"category": "Alpha,Amoled Walls"
+			"category": "Amoled Walls"
 		}, {
 			"name": "15",
 			"author": "Justin Maller",
@@ -2440,7 +2447,7 @@
 			"author": "Justin Maller",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/16.jpeg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/16.jpeg",
-			"category": "Amoled Walls"
+			"category": "Alpha,Amoled Walls"
 		}, {
 			"name": "17",
 			"author": "Justin Maller",
@@ -2477,7 +2484,7 @@
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/1.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/1.jpg",
-			"category": "Dope"
+			"category": "Alpha,Dope"
 		},
 		{
 			"name": "Dope 2",
