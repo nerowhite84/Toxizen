@@ -59,6 +59,8 @@
 			"name": "bmw"
 		}, {
 			"name": "Alpha"
+		}, {
+			"name": "Motivational Wallz"
 		},
 		   {
 			"name": "Best for Miui"
@@ -78,6 +80,49 @@
 	],
 
 	"Wallpapers": [ {
+			"author": "Shuvro",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation/1.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation%20thumb/1.jpg",
+			"name": "1",
+			"category": "Motivational Wallz"
+		}, {
+			"author": "Shuvro",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation/2.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation%20thumb/2.jpg",
+			"name": "2",
+			"category": "Motivational Wallz"
+		}, {
+			"author": "Shuvro",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation/3.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation%20thumb/3.jpg",
+			"name": "3",
+			"category": "Motivational Wallz"
+		}, {
+			"author": "Shuvro",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation/4.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation%20thumb/4.jpg",
+			"name": "4",
+			"category": "Motivational Wallz"
+		}, {
+			"author": "Shuvro",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation/5.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation%20thumb/5.jpg",
+			"name": "5",
+			"category": "Motivational Wallz"
+		}, {
+			"author": "Shuvro",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation/6.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation%20thumb/6.jpg",
+			"name": "6",
+			"category": "Motivational Wallz"
+		}, {
+			"author": "Shuvro",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation/7.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation%20thumb/7.jpg",
+			"name": "7",
+			"category": "Motivational Wallz"
+		},
+		{
 			"author": "Sony Mobile",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/xperia/Black.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20xperia/Black.jpg",
