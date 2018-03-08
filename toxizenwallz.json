@@ -147,6 +147,55 @@
 	],
 
 	"Wallpapers": [{
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/6.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/6.jpg",
+			"name": "Flower 6",
+			"collections": "Flower"
+		}, {
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/7.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/7.jpg",
+			"name": "Flower 7",
+			"collections": "Flower"
+		}, {
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/8.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/8.jpg",
+			"name": "Flower 8",
+			"collections": "Flower"
+		}, {
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/9.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/9.jpg",
+			"name": "Flower 9",
+			"collections": "Flower"
+		}, {
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/10.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/10.jpg",
+			"name": "Flower 10",
+			"collections": "Flower"
+		}, {
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/11.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/11.jpg",
+			"name": "Flower 11",
+			"collections": "Flower"
+		}, {
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/12.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/12.jpg",
+			"name": "Flower 12",
+			"collections": "Flower"
+		}, {
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/13.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/13.jpg",
+			"name": "Flower 13",
+			"collections": "Flower"
+		},
+		{
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/1.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/1.jpg",
@@ -1761,7 +1810,7 @@
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/7.png",
 			"collections": "OnePlus"
 		},
-	
+
 		{
 			"name": "13",
 			"author": "MyRockyS",
@@ -4443,7 +4492,7 @@
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20weather/5.png",
 			"name": "Weather 5",
 			"collections": "weather"
-		}, 
+		},
 		{
 			"author": "Taken from unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Neon%20Light/1.jpg",
