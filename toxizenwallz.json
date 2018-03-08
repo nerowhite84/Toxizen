@@ -111,42 +111,89 @@
 		},
 		{
 			"name": "Material Minimal",
-			"preview_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/2.png ",
-			"preview_thumbnail_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha%20thumb/2.png "
+			"preview_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/2.png",
+			"preview_thumbnail_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha%20thumb/2.png"
 		},
 		{
 			"name": "bmw",
-			"preview_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BMW/BM%20POWER.jpg ",
-			"preview_thumbnail_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20bmw/BM%20POWER.jpg "
+			"preview_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BMW/BM%20POWER.jpg",
+			"preview_thumbnail_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20bmw/BM%20POWER.jpg"
 		},
 		{
 			"name": "Alpha",
 			"preview_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Killing.png ",
-			"preview_thumbnail_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Killing.png "
+			"preview_thumbnail_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Killing.png"
 		},
 		{
 			"name": "Best for Miui",
-			"preview_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Best%20for%20mi/1.jpg ",
-			"preview_thumbnail_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Best%20for%20mi%20thumb/1.jpg "
+			"preview_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Best%20for%20mi/1.jpg",
+			"preview_thumbnail_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Best%20for%20mi%20thumb/1.jpg"
 		},
 		{
 			"name": "Anime Girl Walls",
-			"preview_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls/Adagaki%20Aki.png ",
+			"preview_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls/Adagaki%20Aki.png",
+			"preview_thumbnail_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls%20thumb/Adagaki%20Aki.png "
+		}, {
+			"name": "Motivational Wallz",
+			"preview_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation/2.jpg",
 			"preview_thumbnail_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls%20thumb/Adagaki%20Aki.png "
 		},
 		{
 			"name": "Happy New Year",
-			"preview_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/HAPPY%20NEW%20YEAR/1.jpg ",
-			"preview_thumbnail_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/HAPPY%20NEW%20YEAR%20thumb/1.jpg "
+			"preview_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/HAPPY%20NEW%20YEAR/1.jpg ",
+			"preview_thumbnail_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation%20thumb/1.jpg"
 		},
 		{
 			"name": "Amoled Walls",
-			"preview_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/62.jpg ",
-			"preview_thumbnail_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/62.jpg "
+			"preview_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/62.jpg",
+			"preview_thumbnail_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/62.jpg"
 		}
 	],
 
 	"Wallpapers": [{
+				"author": "Shuvro",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation/1.jpg",
+				"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation%20thumb/1.jpg",
+				"name": "1",
+				"collections": "Motivational Wallz"
+			}, {
+				"author": "Shuvro",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation/2.jpg",
+				"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation%20thumb/2.jpg",
+				"name": "2",
+				"collections": "Motivational Wallz"
+			}, {
+				"author": "Shuvro",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation/3.jpg",
+				"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation%20thumb/3.jpg",
+				"name": "3",
+				"collections": "Motivational Wallz"
+			}, {
+				"author": "Shuvro",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation/4.jpg",
+				"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation%20thumb/4.jpg",
+				"name": "4",
+				"collections": "Motivational Wallz"
+			}, {
+				"author": "Shuvro",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation/5.jpg",
+				"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation%20thumb/5.jpg",
+				"name": "5",
+				"collections": "Motivational Wallz"
+			}, {
+				"author": "Shuvro",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation/6.jpg",
+				"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation%20thumb/6.jpg",
+				"name": "6",
+				"collections": "Motivational Wallz"
+			}, {
+				"author": "Shuvro",
+				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation/7.jpg",
+				"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation%20thumb/7.jpg",
+				"name": "7",
+				"collections": "Motivational Wallz"
+			},
+		{
 			"author": "Pexels",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/6.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/6.jpg",
