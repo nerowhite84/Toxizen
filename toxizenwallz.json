@@ -151,6 +151,25 @@
 	],
 
 	"Wallpapers": [{
+			"name": "First Year Hermione",
+			"author": "Kuvshinov-Ilya",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/first%20year%20hermione.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/first%20year%20hermione.jpg",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "mavis",
+			"author": "Kuvshinov-Ilya",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/mavis.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/mavis.jpg",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "higher",
+			"author": "Kuvshinov-Ilya",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/higher.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/higher.jpg",
+			"collections": "ARTWORKS"
+		},
+		{
 			"name": "Aang",
 			"author": "Cory W.",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Aang.png",
