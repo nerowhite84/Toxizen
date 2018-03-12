@@ -151,6 +151,22 @@
 	],
 
 	"Wallpapers": [{
+			"name": "balcony",
+			"author": "Jenny Yu",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/balcony.jpg",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "jellyfish",
+			"author": "Jenny Yu",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/jellyfish.jpg",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "sunset",
+			"author": "Jenny Yu",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/sunset.jpg",
+			"collections": "ARTWORKS"
+		},
+		{
 			"name": "First Year Hermione",
 			"author": "Kuvshinov-Ilya",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/first%20year%20hermione.jpg",
