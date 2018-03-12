@@ -151,6 +151,31 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Aang",
+			"author": "Cory W.",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Aang.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Aang.png",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "Korra",
+			"author": "Cory W.",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Korra.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Korra.png",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "Roku",
+			"author": "Cory W.",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Roku.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Roku.png",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "Kyoshi",
+			"author": "Cory W.",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Kyoshi.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Kyoshi.png",
+			"collections": "ARTWORKS"
+		},
+		{
 				"author": "Shuvro",
 				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation/1.jpg",
 				"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation%20thumb/1.jpg",
