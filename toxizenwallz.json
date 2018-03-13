@@ -151,6 +151,31 @@
 	],
 
 	"Wallpapers": [{
+			"name": "VERGE BLUE",
+			"author": "The Verge",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Verge%20Blue.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Verge%20Blue.png",
+			"collections": "featured,ARTWORKS,Amoled Walls"
+		}, {
+			"name": "VERGE GREEN",
+			"author": "The Verge",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Verge%20Green.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Verge%20Green.png",
+			"collections": "featured,ARTWORKS"
+		}, {
+			"name": "VERGE PURPLE",
+			"author": "The Verge",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Verge%20Purple.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Verge%20Purple.png",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "VERGE RED",
+			"author": "The Verge",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Verge%20Red.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Verge%20Red.png",
+			"collections": "ARTWORKS,Amoled Walls"
+		},
+		{
 			"name": "balcony",
 			"author": "Jenny Yu",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Jenny%20Yu/balcony.jpg",
@@ -171,13 +196,13 @@
 			"author": "Kuvshinov-Ilya",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/first%20year%20hermione.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/first%20year%20hermione.jpg",
-			"collections": "ARTWORKS"
+			"collections": "featured,ARTWORKS"
 		}, {
 			"name": "mavis",
 			"author": "Kuvshinov-Ilya",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/mavis.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/mavis.jpg",
-			"collections": "ARTWORKS"
+			"collections": "featured,ARTWORKS"
 		}, {
 			"name": "higher",
 			"author": "Kuvshinov-Ilya",
@@ -190,13 +215,13 @@
 			"author": "Cory W.",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Aang.png",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Aang.png",
-			"collections": "ARTWORKS"
+			"collections": "featured,ARTWORKS"
 		}, {
 			"name": "Korra",
 			"author": "Cory W.",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Korra.png",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Korra.png",
-			"collections": "ARTWORKS"
+			"collections": "featured,ARTWORKS"
 		}, {
 			"name": "Roku",
 			"author": "Cory W.",
@@ -387,7 +412,7 @@
 			"author": "Google Plus/Unknown Source",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/7.png",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha%20thumb/7.png",
-			"collections": "Material Minimal"
+			"collections": "featured,Material Minimal"
 		}, {
 			"name": "8",
 			"author": "Google Plus/Unknown Source",
@@ -544,7 +569,7 @@
 			"author": "Google Plus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/68.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/68.jpg",
-			"collections": "Amoled Walls"
+			"collections": "featured,Amoled Walls"
 		}, {
 			"name": "Amoled 67",
 			"author": "Google Plus",
@@ -599,7 +624,7 @@
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/22.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/22.jpg",
-			"collections": "Dope"
+			"collections": "featured,Dope"
 		},
 		{
 			"name": "1",
@@ -633,7 +658,7 @@
 			"name": "Rooftop",
 			"author": "Jenny Yu",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Jenny%20Yu/rooftop.jpg",
-			"collections": "ARTWORKS"
+			"collections": "featured,ARTWORKS"
 		},
 		{
 			"name": "Best Material 8",
@@ -646,7 +671,7 @@
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/9.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/9.jpg",
-			"collections": "Abstract"
+			"collections": "featured,Abstract"
 		}, {
 			"name": "Abstract 10",
 			"author": "From Google Plus",
@@ -861,7 +886,7 @@
 			"author": "OnePlus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/17.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/17.jpg",
-			"collections": "OnePlus"
+			"collections": "featured,OnePlus"
 		},
 		{
 			"name": "1",
