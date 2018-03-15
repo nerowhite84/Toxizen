@@ -155,13 +155,13 @@
 			"author": "The Verge",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Verge%20Blue.png",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Verge%20Blue.png",
-			"collections": "featured,ARTWORKS,Amoled Walls"
+			"collections": "ARTWORKS,Amoled Walls"
 		}, {
 			"name": "VERGE GREEN",
 			"author": "The Verge",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Verge%20Green.png",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Verge%20Green.png",
-			"collections": "featured,ARTWORKS"
+			"collections": "ARTWORKS"
 		}, {
 			"name": "VERGE PURPLE",
 			"author": "The Verge",
@@ -301,7 +301,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/9.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/9.jpg",
 			"name": "Flower 9",
-			"collections": "Flower"
+			"collections": "featured,Flower"
 		}, {
 			"author": "Pexels",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/10.jpg",
@@ -369,7 +369,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science/18.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science%20thumb/18.jpg",
 			"name": "science 18",
-			"collections": "featured,Alpha,science"
+			"collections": "Alpha,science"
 		},
 		{
 			"name": "1",
@@ -394,13 +394,13 @@
 			"author": "Google Plus/Unknown Source",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/4.png",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha%20thumb/4.png",
-			"collections": "Alpha,Material Minimal"
+			"collections": "featured,Alpha,Material Minimal"
 		}, {
 			"name": "5",
 			"author": "Google Plus/Unknown Source",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/5.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha%20thumb/5.jpg",
-			"collections": "Alpha,Material Minimal"
+			"collections": "featured,Alpha,Material Minimal"
 		}, {
 			"name": "6",
 			"author": "Google Plus/Unknown Source",
@@ -1740,13 +1740,13 @@
 			"author": "Google Plus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/44.jpeg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/44.jpeg",
-			"collections": "Amoled Walls"
+			"collections": "featured,Amoled Walls"
 		}, {
 			"name": "45",
 			"author": "Google Plus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/45.png",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/45.png",
-			"collections": "Amoled Walls"
+			"collections": "featured,Amoled Walls"
 		}, {
 			"name": "46",
 			"author": "Google Plus",
@@ -3001,7 +3001,7 @@
 			"name": "Kakashi Hatake",
 			"author": "NcollArt",
 			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/NcollArt/Kakashi%20Hatake.jpg",
-			"collections": "ANIME"
+			"collections": "featured,ANIME"
 		}, {
 			"name": "Kuroyukihime and Haru",
 			"author": "NcollArt",
@@ -3438,7 +3438,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi/1.png",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi%20thumb/1.png",
 			"name": "tofuvi 1",
-			"collections": "tofuvi"
+			"collections": "featured,tofuvi"
 		}, {
 			"author": "By Tofuvi",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi/2.png",
@@ -3674,7 +3674,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/7.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/7.jpg",
 			"name": "Earth 7",
-			"collections": "Earth"
+			"collections": "featured,Earth"
 		}, {
 			"author": "FROM G+",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/8.jpg",
@@ -3873,7 +3873,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Nero%20White/7.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Nero%20White/7.jpg",
 			"name": "Nero White Theme Walls 7",
-			"collections": "Nero White Theme Walls"
+			"collections": "featured,Nero White Theme Walls"
 		},
 		{
 			"author": "Nero Xperia Theme",
@@ -4027,7 +4027,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/8.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/8.jpg",
 			"name": "Material Minimal 8",
-			"collections": "Material Minimal"
+			"collections": "featured,Material Minimal"
 		}, {
 			"author": "From G+",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/9.jpg",
@@ -4069,7 +4069,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/15.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/15.jpg",
 			"name": "Material Minimal 15",
-			"collections": "Material Minimal"
+			"collections": "featured,Material Minimal"
 		}, {
 			"author": "From G+",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/16.jpg",
@@ -4099,7 +4099,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/20.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/20.jpg",
 			"name": "Material Minimal 20",
-			"collections": "Material Minimal"
+			"collections": "featured,Material Minimal"
 		}, {
 			"author": "From G+",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/21.jpg",
