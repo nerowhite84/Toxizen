@@ -151,6 +151,19 @@
 	],
 
 	"Wallpapers": [{
+			"name": "White Blue Red Clouds",
+			"author": "Hang",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/White%20Blue%20Red%20Clouds.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/White%20Blue%20Red%20Clouds.jpg",
+			"collections": "featured,ARTWORKS"
+		}, {
+			"name": "kiss",
+			"author": "Hang",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/kiss.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/kiss.jpg",
+			"collections": "featured,ARTWORKS"
+		},
+		{
 			"name": "VERGE BLUE",
 			"author": "The Verge",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Verge%20Blue.png",
@@ -227,7 +240,7 @@
 			"author": "Cory W.",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Roku.png",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Roku.png",
-			"collections": "featured,ARTWORKS"
+			"collections": "ARTWORKS"
 		}, {
 			"name": "Kyoshi",
 			"author": "Cory W.",
