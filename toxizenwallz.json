@@ -151,6 +151,49 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Green 7",
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green/7.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green%20thumb/7.jpg",
+			"collections": "Green"
+		}, {
+			"name": "Green 8",
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green/8.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green%20thumb/8.jpg",
+			"collections": "Green"
+		}, {
+			"name": "Green 9",
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green/9.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green%20thumb/9.jpeg",
+			"collections": "Green"
+		}, {
+			"name": "Green 10",
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green/10.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green%20thumb/10.jpeg",
+			"collections": "Green"
+		}, {
+			"name": "Green 11",
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green/11.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green%20thumb/11.jpeg",
+			"collections": "Green"
+		}, {
+			"name": "Green 12",
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green/12.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green%20thumb/12.jpeg",
+			"collections": "Green"
+		}, {
+			"name": "Green 13",
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green/13.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Green%20thumb/13.jpeg",
+			"collections": "Green"
+		},
+		{ 
 			"name": "White Blue Red Clouds",
 			"author": "Hang",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/White%20Blue%20Red%20Clouds.jpg",
