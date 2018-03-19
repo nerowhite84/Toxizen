@@ -103,6 +103,10 @@
 			"name": "ARTWORKS",
 			"preview_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/%E5%A4%95%E6%97%A5%E3%81%A8%E8%8D%92%E5%BB%83%20by%20%E3%81%A6%E3%82%93%E3%81%AC%E3%82%8B.jpg ",
 			"preview_thumbnail_url": " https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/%E5%A4%95%E6%97%A5%E3%81%A8%E8%8D%92%E5%BB%83%20by%20%E3%81%A6%E3%82%93%E3%81%AC%E3%82%8B.jpg "
+		}, {
+			"name": "STUDENT",
+			"preview_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student/1.jpeg",
+			"preview_thumbnail_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student%20thumb/1.jpeg"
 		},
 		{
 			"name": "Flower",
@@ -151,6 +155,115 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Student 1",
+			"author": "Pexel/Wall of Fame",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student/1.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student%20thumb/1.jpeg",
+			"collections": "STUDENT"
+		}, {
+			"name": "Student 2",
+			"author": "Pexel/Wall of Fame",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student/2.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student%20thumb/2.jpg",
+			"collections": "STUDENT"
+		}, {
+			"name": "Student 3",
+			"author": "Pexel/Wall of Fame",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student/3.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student%20thumb/3.jpg",
+			"collections": "STUDENT"
+		}, {
+			"name": "Student 4",
+			"author": "Pexel/Wall of Fame",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student/4.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student%20thumb/4.jpeg",
+			"collections": "STUDENT"
+		}, {
+			"name": "Student 5",
+			"author": "Pexel/Wall of Fame",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student/5.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student%20thumb/5.jpeg",
+			"collections": "STUDENT"
+		}, {
+			"name": "Student 6",
+			"author": "Pexel/Wall of Fame",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student/6.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student%20thumb/6.jpeg",
+			"collections": "STUDENT"
+		}, {
+			"name": "Student 7",
+			"author": "Pexel/Wall of Fame",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student/7.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student%20thumb/7.jpeg",
+			"collections": "STUDENT"
+		}, {
+			"name": "Student 8",
+			"author": "Pexel/Wall of Fame",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student/8.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student%20thumb/8.jpeg",
+			"collections": "STUDENT"
+		}, {
+			"name": "Student 9",
+			"author": "Pexel/Wall of Fame",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student/9.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student%20thumb/9.jpeg",
+			"collections": "STUDENT"
+		}, {
+			"name": "Student 10",
+			"author": "Pexel/Wall of Fame",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student/10.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student%20thumb/10.jpeg",
+			"collections": "STUDENT"
+		}, {
+			"name": "Student 11",
+			"author": "Pexel/Wall of Fame",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student/11.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student%20thumb/11.jpeg",
+			"collections": "STUDENT"
+		}, {
+			"name": "Student 12",
+			"author": "Pexel/Wall of Fame",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student/12.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student%20thumb/12.jpeg",
+			"collections": "STUDENT"
+		}, {
+			"name": "Student 13",
+			"author": "Pexel/Wall of Fame",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student/13.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student%20thumb/13.jpeg",
+			"collections": "STUDENT"
+		}, {
+			"name": "Student 14",
+			"author": "Pexel/Wall of Fame",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student/14.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student%20thumb/14.jpeg",
+			"collections": "STUDENT"
+		}, {
+			"name": "Student 15",
+			"author": "Pexel/Wall of Fame",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student/15.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student%20thumb/15.jpeg",
+			"collections": "STUDENT"
+		}, {
+			"name": "Student 16",
+			"author": "Pexel/Wall of Fame",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student/16.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student%20thumb/16.jpeg",
+			"collections": "STUDENT"
+		}, {
+			"name": "Student 17",
+			"author": "Pexel/Wall of Fame",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student/17.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student%20thumb/17.jpeg",
+			"collections": "STUDENT"
+		}, {
+			"name": "Student 18",
+			"author": "Pexel/Wall of Fame",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student/18.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student%20thumb/18.jpeg",
+			"collections": "STUDENT"
+		}, 
+		{
 			"name": "Best 23",
 			"author": "Google Plus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Best%20For%20Stock%20Android/23.jpg",
