@@ -239,13 +239,13 @@
 			"author": "Pexel/Wall of Fame",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student/8.jpeg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student%20thumb/8.jpeg",
-			"collections": "STUDENT"
+			"collections": "featured,STUDENT"
 		}, {
 			"name": "Student 9",
 			"author": "Pexel/Wall of Fame",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student/9.jpeg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student%20thumb/9.jpeg",
-			"collections": "STUDENT"
+			"collections": "featured,STUDENT"
 		}, {
 			"name": "Student 10",
 			"author": "Pexel/Wall of Fame",
@@ -374,13 +374,13 @@
 			"author": "Hang",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/White%20Blue%20Red%20Clouds.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/White%20Blue%20Red%20Clouds.jpg",
-			"collections": "featured,ARTWORKS"
+			"collections": "ARTWORKS"
 		}, {
 			"name": "kiss",
 			"author": "Hang",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/kiss.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/kiss.jpg",
-			"collections": "featured,ARTWORKS"
+			"collections": "ARTWORKS"
 		},
 		{
 			"name": "VERGE BLUE",
@@ -399,7 +399,7 @@
 			"author": "The Verge",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Verge%20Purple.png",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Verge%20Purple.png",
-			"collections": "ARTWORKS"
+			"collections": "featured,ARTWORKS"
 		}, {
 			"name": "VERGE RED",
 			"author": "The Verge",
@@ -440,7 +440,7 @@
 			"author": "Kuvshinov-Ilya",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/higher.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/higher.jpg",
-			"collections": "featured,ARTWORKS"
+			"collections": "ARTWORKS"
 		},
 		{
 			"name": "Aang",
@@ -2102,14 +2102,14 @@
 			"author": "sammymartins",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/totoro.png",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/totoro.png",
-			"collections": "ARTWORKS,ANIME"
+			"collections": "featured,ARTWORKS,ANIME"
 		},
 		{
 			"name": "OnePlus 16",
 			"author": "OnePlus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/16.png",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/16.png",
-			"collections": "OnePlus"
+			"collections": "featured,OnePlus"
 		},
 		{
 			"name": "OnePlus 15",
@@ -2983,7 +2983,7 @@
 			"author": "Wall Of Fame",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BMW/Power%20Inside%20you.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20bmw/Power%20Inside%20you.jpg",
-			"collections": "bmw,Alpha"
+			"collections": "featured,bmw,Alpha"
 		},
 		{
 			"name": "B///M Power",
@@ -3472,7 +3472,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/9.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/9.jpg",
 			"name": "Amoled 9",
-			"collections": "Amoled Walls"
+			"collections": "featured,Amoled Walls"
 		},
 		{
 			"author": "Unknown",
@@ -3485,7 +3485,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/weather/7.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20weather/7.jpg",
 			"name": "Weather 7",
-			"collections": "weather"
+			"collections": "featured,weather"
 		}, {
 			"author": "Unknown",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/weather/8.jpg",
@@ -3924,13 +3924,13 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/10.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/10.jpg",
 			"name": "Earth 10",
-			"collections": "Earth"
+			"collections": "featured,Earth"
 		}, {
 			"author": "FROM G+",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/11.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/11.jpg",
 			"name": "Earth 11",
-			"collections": "Earth"
+			"collections": "featured,Earth"
 		}, {
 			"author": "FROM G+",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/12.jpg",
@@ -3984,7 +3984,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/20.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/20.jpg",
 			"name": "Earth 20",
-			"collections": "Earth,Alpha"
+			"collections": "featured,Earth,Alpha"
 		}, {
 			"author": "FROM G+",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/21.jpg",
@@ -4020,7 +4020,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/26.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/26.jpg",
 			"name": "Earth 26",
-			"collections": "Earth"
+			"collections": "featured,Earth"
 		}, {
 			"author": "FROM G+",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/27.jpg",
