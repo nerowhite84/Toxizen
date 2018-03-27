@@ -155,6 +155,31 @@
 	],
 
 	"Wallpapers": [{
+				"author": "Wlop",
+				"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Wlop/Hope.jpg",
+				"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Wlop%20thumb/Hope.jpg",
+				"name": "Hope",
+				"collections": "ARTWORKS"
+			}, {
+				"author": "Wlop",
+				"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Wlop/Small%20green.jpg",
+				"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Wlop%20thumb/Small%20green.jpg",
+				"name": "Small Green",
+				"collections": "ARTWORKS"
+			}, {
+				"author": "Wlop",
+				"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Wlop/Vow.jpg",
+				"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Wlop%20thumb/Vow.jpg",
+				"name": "Vow",
+				"collections": "ARTWORKS"
+			}, {
+				"author": "Wlop",
+				"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Wlop/freak.jpg",
+				"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Wlop%20thumb/freak.jpg",
+				"name": "Freak",
+				"collections": "ARTWORKS"
+			},
+		{
 				"author": "Shuvro",
 				"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation/8.jpg",
 				"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation%20thumb/8.jpg",
