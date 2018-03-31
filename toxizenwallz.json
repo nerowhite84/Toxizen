@@ -155,6 +155,19 @@
 	],
 
 	"Wallpapers": [{
+				"author": "桜",
+				"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/桜/fairyland.jpg",
+				"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/桜%20thumb/fairyland.jpg",
+				"name": "fairyland",
+				"collections": "ARTWORKS"
+			}, {
+				"author": "桜",
+				"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/桜/A%20warm%20place.jpg",
+				"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/桜%20thumb/A%20warm%20place.jpg",
+				"name": "A Warm Place",
+				"collections": "ARTWORKS"
+			},
+		{
 				"author": "Wlop",
 				"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Wlop/Hope.jpg",
 				"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Wlop%20thumb/Hope.jpg",
