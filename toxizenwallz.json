@@ -155,6 +155,31 @@
 	],
 
 	"Wallpapers": [{
+			"author": "JFL",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/41.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/41.jpg",
+			"name": "Earth 41",
+			"collections": "Earth"
+		}, {
+			"author": "JFL",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/42.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/42.jpeg",
+			"name": "Earth 42",
+			"collections": "Earth"
+		}, {
+			"author": "JFL",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/43.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/43.jpeg",
+			"name": "Earth 43",
+			"collections": "Earth"
+		}, {
+			"author": "JFL",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/44.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/44.jpeg",
+			"name": "Earth 44",
+			"collections": "Earth"
+		},
+		{
 				"author": "桜",
 				"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/桜/fairyland.jpg",
 				"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/桜%20thumb/fairyland.jpg",
