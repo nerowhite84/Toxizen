@@ -155,6 +155,31 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Minimal Potter 1",
+			"author": "Polygn",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/30.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha%20thumb/30.jpg",
+			"collections": "Material Minimal"
+		}, {
+			"name": "Minimal Potter 2",
+			"author": "Polygn",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/31.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha%20thumb/31.jpg",
+			"collections": "Material Minimal"
+		}, {
+			"name": "Minimal Potter 3",
+			"author": "Polygn",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/32.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha%20thumb/32.jpg",
+			"collections": "Material Minimal"
+		}, {
+			"name": "Minimal Potter 4",
+			"author": "Polygn",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/33.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha%20thumb/33.jpg",
+			"collections": "Material Minimal"
+		},
+		{
 			"author": "JFL",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/41.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/41.jpg",
