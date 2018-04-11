@@ -165,7 +165,7 @@
 			"author": "Jeremy For Life",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/35.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha%20thumb/35.jpg",
-			"collections": "Material Minimal"
+			"collections": "featured,Material Minimal"
 		}, {
 			"name": "Material Minimal 36",
 			"author": "Jeremy For Life",
@@ -358,7 +358,7 @@
 			"author": "Pexel/Wall of Fame",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student/8.jpeg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Student%20thumb/8.jpeg",
-			"collections": "featured,STUDENT"
+			"collections": "STUDENT"
 		}, {
 			"name": "Student 9",
 			"author": "Pexel/Wall of Fame",
@@ -425,7 +425,7 @@
 			"author": "Google Plus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Best%20For%20Stock%20Android/23.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/BEstandroid%20thumb/23.jpg",
-			"collections": "Best For Stock Android"
+			"collections": "featured,Best For Stock Android"
 		}, {
 			"name": "Best 24",
 			"author": "Google Plus",
@@ -646,7 +646,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/8.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/8.jpg",
 			"name": "Flower 8",
-			"collections": "Flower"
+			"collections": "featured,Flower"
 		}, {
 			"author": "Pexels",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/9.jpg",
@@ -714,7 +714,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science/17.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science%20thumb/17.jpg",
 			"name": "science 17",
-			"collections": "science,Best For Stock Android"
+			"collections": "featured,science,Best For Stock Android"
 		}, {
 			"author": "G Plus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science/18.jpg",
@@ -751,7 +751,7 @@
 			"author": "Google Plus/Unknown Source",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/5.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha%20thumb/5.jpg",
-			"collections": "featured,Alpha,Material Minimal"
+			"collections": "Alpha,Material Minimal"
 		}, {
 			"name": "6",
 			"author": "Google Plus/Unknown Source",
@@ -3591,7 +3591,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/9.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/9.jpg",
 			"name": "Amoled 9",
-			"collections": "featured,Amoled Walls"
+			"collections": "Amoled Walls"
 		},
 		{
 			"author": "Unknown",
@@ -3843,13 +3843,13 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi/10.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi%20thumb/10.jpg",
 			"name": "tofuvi 10",
-			"collections": "tofuvi"
+			"collections": "featured,tofuvi"
 		}, {
 			"author": "By Tofuvi",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi/11.png",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi%20thumb/11.png",
 			"name": "tofuvi 11",
-			"collections": "tofuvi"
+			"collections": "featured,tofuvi"
 		}, {
 			"author": "By Tofuvi",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/tofuvi/12.png",
@@ -4025,7 +4025,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/7.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/7.jpg",
 			"name": "Earth 7",
-			"collections": "featured,Earth"
+			"collections": "Earth"
 		}, {
 			"author": "FROM G+",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/8.jpg",
@@ -4103,13 +4103,13 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/20.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/20.jpg",
 			"name": "Earth 20",
-			"collections": "featured,Earth,Alpha"
+			"collections": "Earth,Alpha"
 		}, {
 			"author": "FROM G+",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/21.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/21.jpg",
 			"name": "Earth 21",
-			"collections": "Earth"
+			"collections": "featured,Earth"
 		}, {
 			"author": "FROM G+",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/22.jpg",
@@ -4139,7 +4139,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/26.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/26.jpg",
 			"name": "Earth 26",
-			"collections": "featured,Earth"
+			"collections": "Earth"
 		}, {
 			"author": "FROM G+",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/27.jpg",
@@ -4200,7 +4200,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Nero%20White/3.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Nero%20White/3.jpg",
 			"name": "Nero White Theme Walls 3",
-			"collections": "Nero White Theme Walls"
+			"collections": "featured,Nero White Theme Walls"
 		}, {
 			"author": "Nero Xperia Theme",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Nero%20White/4.jpg",
@@ -4251,7 +4251,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Nero%20White/11.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Nero%20White/11.jpg",
 			"name": "Nero White Theme Walls 11",
-			"collections": "Nero White Theme Walls"
+			"collections": "featured,Nero White Theme Walls"
 		}, {
 			"author": "Nero Xperia Theme",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Nero%20White/12.jpg",
