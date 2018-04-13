@@ -155,6 +155,43 @@
 	],
 
 	"Wallpapers": [{
+			"name": "feng 1",
+			"author": "feng",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Feng/1.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Feng%20thumb/1.jpg",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "feng 2",
+			"author": "feng",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Feng/2.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Feng%20thumb/2.jpg",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "feng 3",
+			"author": "feng",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Feng/3.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Feng%20thumb/3.jpg",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "feng 4",
+			"author": "feng",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Feng/4.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Feng%20thumb/4.jpg",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "feng 5",
+			"author": "feng",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Feng/5.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Feng%20thumb/5.jpg",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "feng 6",
+			"author": "feng",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Feng/6.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Feng%20thumb/6.jpg",
+			"collections": "ARTWORKS"
+		},
+		{
 			"name": "The Ritual",
 			"author": "snatti",
 			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/snatti/The%20Ritual.png",
