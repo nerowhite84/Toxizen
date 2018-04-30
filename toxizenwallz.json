@@ -155,6 +155,61 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Dope 23",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/23.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/23.jpg",
+			"collections": "Dope"
+		}, {
+			"name": "Dope 24",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/24.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/24.jpg",
+			"collections": "featured,Flower"
+		}, {
+			"name": "Dope 25",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/25.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/25.jpg",
+			"collections": "featured,Dope"
+		}, {
+			"name": "Dope 26",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/26.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/26.jpg",
+			"collections": "Dope"
+		}, {
+			"name": "Dope 27",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/27.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/27.jpg",
+			"collections": "Dope"
+		}, {
+			"name": "Dope 28",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/28.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/28.jpg",
+			"collections": "Dope"
+		}, {
+			"name": "Dope 29",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/29.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/29.jpg",
+			"collections": "featured,Amoled Walls,Dope"
+		}, {
+			"name": "Dope 30",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/30.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/30.jpg",
+			"collections": "featured,Alpha,Dope"
+		}, {
+			"name": "Dope 31",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/31.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/31.jpg",
+			"collections": "Alpha,Dope"
+		},
+		{
 			"name": "NoriZC 1",
 			"author": "NoriZC ",
 			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/NoriZC/1.jpg",
@@ -171,7 +226,7 @@
 			"author": "NoriZC ",
 			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/NoriZC/3.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/NoriZC%20thumb/3.jpg",
-			"collections": "ARTWORKS"
+			"collections": "featured,ARTWORKS"
 		}, {
 			"name": "NoriZC 4",
 			"author": "NoriZC ",
@@ -2487,21 +2542,21 @@
 			"author": "OnePlus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/10.png",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/10.png",
-			"collections": "OnePlus"
+			"collections": "featured,OnePlus"
 		},
 		{
 			"name": "OnePlus 9",
 			"author": "OnePlus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/9.png",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/9.png",
-			"collections": "OnePlus"
+			"collections": "featured,OnePlus"
 		},
 		{
 			"name": "OnePlus 8",
 			"author": "OnePlus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/8.png",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/8.png",
-			"collections": "OnePlus"
+			"collections": "featured,OnePlus"
 		},
 		{
 			"name": "OnePlus 7",
