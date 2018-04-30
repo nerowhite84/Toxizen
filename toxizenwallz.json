@@ -155,6 +155,43 @@
 	],
 
 	"Wallpapers": [{
+			"name": "NoriZC 1",
+			"author": "NoriZC ",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/NoriZC/1.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/NoriZC%20thumb/1.jpg",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "NoriZC 2",
+			"author": "NoriZC ",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/NoriZC/2.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/NoriZC%20thumb/2.jpg",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "NoriZC 3",
+			"author": "NoriZC ",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/NoriZC/3.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/NoriZC%20thumb/3.jpg",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "NoriZC 4",
+			"author": "NoriZC ",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/NoriZC/4.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/NoriZC%20thumb/4.jpg",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "NoriZC 5",
+			"author": "NoriZC ",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/NoriZC/5.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/NoriZC%20thumb/5.jpg",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "NoriZC 6",
+			"author": "NoriZC ",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/NoriZC/6.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/NoriZC%20thumb/6.jpg",
+			"collections": "ARTWORKS"
+		},
+		{
 			"name": "Material Minimal 39",
 			"author": "Google Plus/Unknown Source",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/39.png",
