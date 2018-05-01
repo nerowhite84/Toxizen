@@ -154,7 +154,38 @@
 		}
 	],
 
-	"Wallpapers": [{
+	"Wallpapers": [ {
+			"author": "Xiaomi Mi A2",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/14.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/14.png",
+			"name": "Flower 14",
+			"collections": "Flower"
+		}, {
+			"author": "Xiaomi Mi A2",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/15.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/15.png",
+			"name": "Flower 15",
+			"collections": "Flower"
+		}, {
+			"author": "Xiaomi Mi A2",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/16.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/16.png",
+			"name": "Flower 16",
+			"collections": "Flower"
+		}, {
+			"author": "Xiaomi Mi A2",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/17.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/17.png",
+			"name": "Flower 17",
+			"collections": "Flower"
+		}, {
+			"author": "Xiaomi Mi 18",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/18.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/18.png",
+			"name": "Flower 18",
+			"collections": "Flower"
+		},
+		{
 			"name": "Dope 23",
 			"author": "Nick Nice",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/23.jpg",
