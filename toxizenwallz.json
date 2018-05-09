@@ -146,6 +146,10 @@
 			"name": "Happy New Year",
 			"preview_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/HAPPY%20NEW%20YEAR/1.jpg ",
 			"preview_thumbnail_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Motivation%20thumb/1.jpg"
+		}, {
+			"name": "OO Shuvro Picture",
+			"preview_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/OO%20Shuvro%20Pictures/together.jpg",
+			"preview_thumbnail_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/OO%20Shuvro%20Pictures%20thumb/together.jpg"
 		},
 		{
 			"name": "Amoled Walls",
@@ -154,7 +158,38 @@
 		}
 	],
 
-	"Wallpapers": [ {
+	"Wallpapers": [{
+			"author": "Shuvro(Admin)",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/OO%20Shuvro%20Pictures/together.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/OO%20Shuvro%20Pictures%20thumb/together.jpg",
+			"name": "Together",
+			"collections": "OO Shuvro Picture"
+		}, {
+			"author": "Shuvro(Admin)",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/OO%20Shuvro%20Pictures/coffee.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/OO%20Shuvro%20Pictures%20thumb/coffee.jpg",
+			"name": "coffee",
+			"collections": "OO Shuvro Picture"
+		}, {
+			"author": "Shuvro(Admin)",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/OO%20Shuvro%20Pictures/haven.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/OO%20Shuvro%20Pictures%20thumb/haven.jpg",
+			"name": "haven",
+			"collections": "OO Shuvro Picture"
+		}, {
+			"author": "Shuvro(Admin)",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/OO%20Shuvro%20Pictures/nature.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/OO%20Shuvro%20Pictures%20thumb/nature.jpg",
+			"name": "nature",
+			"collections": "OO Shuvro Picture"
+		}, {
+			"author": "Shuvro(Admin)",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/OO%20Shuvro%20Pictures/Hope.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/OO%20Shuvro%20Pictures%20thumb/Hope.jpg",
+			"name": "Hope",
+			"collections": "OO Shuvro Picture"
+		},
+		{
 			"author": "Xiaomi Mi A2",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/14.png",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/14.png",
