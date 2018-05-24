@@ -159,6 +159,37 @@
 	],
 
 	"Wallpapers": [{
+			"name": "OnePlus 18",
+			"author": "OnePlus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/18.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/18.jpg",
+			"collections": "featured,OnePlus"
+		}, {
+			"name": "OnePlus 19",
+			"author": "OnePlus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/19.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/19.jpg",
+			"collections": "featured,OnePlus"
+		}, {
+			"name": "OnePlus 20",
+			"author": "OnePlus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/20.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/20.jpg",
+			"collections": "featured,OnePlus"
+		}, {
+			"name": "OnePlus 21",
+			"author": "OnePlus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/21.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/21.jpg",
+			"collections": "featured,OnePlus"
+		}, {
+			"name": "OnePlus 22",
+			"author": "OnePlus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/22.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/22.jpg",
+			"collections": "featured,OnePlus"
+		},
+		{
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/rain/22.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/rain%20thumb/22.jpg",
@@ -199,13 +230,13 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/rain/28.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/rain%20thumb/28.jpg",
 			"name": "Rain 28",
-			"collections": "Rain"
+			"collections": "featured,Rain"
 		},  {
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/rain/29.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/rain%20thumb/29.jpg",
 			"name": "Rain 29",
-			"collections": "Rain"
+			"collections": "featured,Rain"
 		}, 
 		{
 			"author": "CoMix Wave Films",
@@ -236,13 +267,13 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Kimi%20no%20na%20wa/5.png",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Kimi%20no%20na%20wa%20thumb/5.png",
 			"name": "Kimi no na Wa 5",
-			"collections": "ANIME"
+			"collections": "featured,ANIME"
 		}, {
 			"author": "CoMix Wave Films",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Kimi%20no%20na%20wa/6.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Kimi%20no%20na%20wa%20thumb/6.jpg",
 			"name": "Kimi no na Wa 6",
-			"collections": "ANIME"
+			"collections": "featured,ANIME"
 		}, {
 			"author": "CoMix Wave Films",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Kimi%20no%20na%20wa/7.png",
@@ -412,13 +443,13 @@
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/32.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/32.jpg",
-			"collections": "Dope"
+			"collections": "featured,Dope"
 		}, {
 			"name": "Dope 33",
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/33.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/33.jpg",
-			"collections": "Dope"
+			"collections": "featured,Dope"
 		}, {
 			"name": "Dope 34",
 			"author": "Unsplash",
@@ -523,13 +554,13 @@
 			"author": "Nick Nice",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/24.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/24.jpg",
-			"collections": "featured,Flower"
+			"collections": "Flower"
 		}, {
 			"name": "Dope 25",
 			"author": "Nick Nice",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/25.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope%20Thumb/25.jpg",
-			"collections": "featured,Dope"
+			"collections": "Dope"
 		}, {
 			"name": "Dope 26",
 			"author": "Nick Nice",
@@ -572,7 +603,7 @@
 			"author": "NoriZC ",
 			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/NoriZC/3.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/NoriZC%20thumb/3.jpg",
-			"collections": "featured,ARTWORKS"
+			"collections": "ARTWORKS"
 		}, {
 			"name": "NoriZC 4",
 			"author": "NoriZC ",
