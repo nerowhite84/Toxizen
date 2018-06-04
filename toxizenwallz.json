@@ -159,6 +159,55 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Amoled 70",
+			"author": "JFL",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/70.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/70.png",
+			"collections": "featured,Amoled Walls"
+		}, {
+			"name": "Amoled 71",
+			"author": "JFL",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/71.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/71.png",
+			"collections": "featured,Amoled Walls"
+		}, {
+			"name": "Amoled 72",
+			"author": "JFL",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/72.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/72.jpeg",
+			"collections": "featured,Amoled Walls"
+		}, {
+			"name": "Amoled 73",
+			"author": "JFL",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/73.jpeg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/73.jpeg",
+			"collections": "featured,Amoled Walls"
+		}, {
+			"name": "Amoled 74",
+			"author": "JFL",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/74.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/74.png",
+			"collections": "featured,Amoled Walls"
+		}, {
+			"name": "Amoled 75",
+			"author": "JFL",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/75.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/75.png",
+			"collections": "featured,Amoled Walls"
+		}, {
+			"name": "Amoled 76",
+			"author": "JFL",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/76.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/76.png",
+			"collections": "featured,Amoled Walls"
+		}, {
+			"name": "Amoled 77",
+			"author": "JFL",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/77.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/77.png",
+			"collections": "featured,Amoled Walls"
+		},
+		{
 			"name": "OnePlus 18",
 			"author": "OnePlus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/18.jpg",
