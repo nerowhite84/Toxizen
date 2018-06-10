@@ -159,6 +159,13 @@
 	],
 
 	"Wallpapers": [{
+			"name": "15",
+			"author": "MIUI Xiaomi",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Best%20for%20mi/15.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Best%20for%20mi%20thumb/15.jpg",
+			"collections": "Best for Miui"
+		},
+		{
 			"name": "Material Minimal 52",
 			"author": "Google Plus/Unknown Source",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/52.jpg",
