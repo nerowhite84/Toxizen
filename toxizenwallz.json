@@ -150,6 +150,10 @@
 			"name": "OO Shuvro Picture",
 			"preview_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/OO%20Shuvro%20Pictures/together.jpg",
 			"preview_thumbnail_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/OO%20Shuvro%20Pictures%20thumb/together.jpg"
+		}, {
+			"name": "World Cup Special",
+			"preview_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/World%20Cup%20Special/Argentina.jpg",
+			"preview_thumbnail_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/World%20Cup%20Special%20thumb/Argentina.jpg"
 		},
 		{
 			"name": "Amoled Walls",
@@ -159,6 +163,37 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Argentina",
+			"author": "Shuvro",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/World%20Cup%20Special/Argentina.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/World%20Cup%20Special%20thumb/Argentina.jpg",
+			"collections": "World Cup Special"
+		}, {
+			"name": "Brazil",
+			"author": "Shuvro",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/World%20Cup%20Special/Brazil.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/World%20Cup%20Special%20thumb/Brazil.jpg",
+			"collections": "World Cup Special"
+		}, {
+			"name": "Germany",
+			"author": "Shuvro",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/World%20Cup%20Special/Germany.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/World%20Cup%20Special%20thumb/Germany.jpg",
+			"collections": "World Cup Special"
+		}, {
+			"name": "quote1",
+			"author": "Shuvro",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/World%20Cup%20Special/quote1.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/World%20Cup%20Special%20thumb/quote1.jpg",
+			"collections": "World Cup Special"
+		}, {
+			"name": "quote2",
+			"author": "Shuvro",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/World%20Cup%20Special/quote2.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/World%20Cup%20Special%20thumb/quote2.jpg",
+			"collections": "World Cup Special"
+		},
+		{
 			"name": "15",
 			"author": "MIUI Xiaomi",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Best%20for%20mi/15.jpg",
