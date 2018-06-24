@@ -163,6 +163,31 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Arabian Nights",
+			"author": "Tanzim",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/Arabian%20nights.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/Arabian%20nights.jpg",
+			"collections": "featured,Abstract"
+		}, {
+			"name": "Eclipse",
+			"author": "Tanzim",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/Eclipse.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/Eclipse.jpg",
+			"collections": "featured,Abstract"
+		}, {
+			"name": "The Explorer",
+			"author": "Tanzim",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/The%20explorer.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/The%20explorer.jpg",
+			"collections": "featured,Abstract"
+		}, {
+			"name": "Paris",
+			"author": "Tanzim",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/Paris.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/Paris.jpg",
+			"collections": "featured,Abstract"
+		},
+		{
 			"name": "Drawing at the beach",
 			"author": "Snatti",
 			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Snatti/Drawing%20at%20the%20beach.png",
@@ -352,44 +377,44 @@
 			"author": "OnePlus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/18.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/18.jpg",
-			"collections": "featured,OnePlus"
+			"collections": "OnePlus"
 		}, {
 			"name": "OnePlus 19",
 			"author": "OnePlus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/19.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/19.jpg",
-			"collections": "featured,OnePlus"
+			"collections": "OnePlus"
 		}, {
 			"name": "OnePlus 20",
 			"author": "OnePlus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/20.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/20.jpg",
-			"collections": "featured,OnePlus"
+			"collections": "OnePlus"
 		}, {
 			"name": "OnePlus 21",
 			"author": "OnePlus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/21.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/21.jpg",
-			"collections": "featured,OnePlus"
+			"collections": "OnePlus"
 		}, {
 			"name": "OnePlus 22",
 			"author": "OnePlus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/22.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/22.jpg",
-			"collections": "featured,OnePlus"
+			"collections": "OnePlus"
 		},
 		{
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/rain/22.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/rain%20thumb/22.jpg",
 			"name": "Rain 22",
-			"collections": "Rain"
+			"collections": "featured,Rain"
 		}, {
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/rain/23.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/rain%20thumb/23.jpg",
 			"name": "Rain 23",
-			"collections": "Rain"
+			"collections": "featured,Rain"
 		}, {
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/rain/24.jpg",
@@ -2647,13 +2672,13 @@
 			"author": "Google Plus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/55.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/55.jpg",
-			"collections": "Amoled Walls"
+			"collections": "featured,Amoled Walls"
 		}, {
 			"name": "Amoled 56",
 			"author": "Google Plus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/56.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/56.jpg",
-			"collections": "Amoled Walls"
+			"collections": "featured,Amoled Walls"
 		}, {
 			"name": "Amoled 57",
 			"author": "Google Plus",
@@ -4217,18 +4242,18 @@
 			"name": "Catti the cat",
 			"author": "Aletta Carissa",
 			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Aletta%20Carissa/Catti%20the%20cat.jpg",
-			"collections": "ANIME"
+			"collections": "featured,ANIME"
 		},
 		{
 			"name": "Luffy",
 			"author": "Aletta Carissa",
 			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Aletta%20Carissa/Luffy.jpg",
-			"collections": "ANIME"
+			"collections": "featured,ANIME"
 		}, {
 			"name": "Pingu Pinguin",
 			"author": "Aletta Carissa",
 			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Aletta%20Carissa/Pingu%20Pinguin.jpg",
-			"collections": "ANIME"
+			"collections": "featured,ANIME"
 		}, {
 			"name": "Pingu Pinguin",
 			"author": "Aletta Carissa",
@@ -4869,13 +4894,13 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/8.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/8.jpg",
 			"name": "Earth 8",
-			"collections": "Earth"
+			"collections": "featured,Earth"
 		}, {
 			"author": "FROM G+",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/9.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/EARTH%20THUMB/9.jpg",
 			"name": "Earth 9",
-			"collections": "Earth"
+			"collections": "featured,Earth"
 		}, {
 			"author": "FROM G+",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Earth/10.jpg",
@@ -5062,7 +5087,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Nero%20White/7.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Nero%20White/7.jpg",
 			"name": "Nero White Theme Walls 7",
-			"collections": "featured,Nero White Theme Walls"
+			"collections": "Nero White Theme Walls"
 		},
 		{
 			"author": "Nero Xperia Theme",
@@ -5222,13 +5247,13 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/9.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/9.jpg",
 			"name": "Material Minimal 9",
-			"collections": "Material Minimal"
+			"collections": "featured,Material Minimal"
 		}, {
 			"author": "From G+",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/10.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/10.jpg",
 			"name": "Material Minimal 10",
-			"collections": "Material Minimal"
+			"collections": "featured,Material Minimal"
 		}, {
 			"author": "From G+",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/11.jpg",
