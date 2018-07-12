@@ -163,6 +163,67 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Pokemon 1",
+			"author": "POKEMON",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Pokemon/Pokemon1.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Pokemon%20thumb/Pokemon1.png",
+			"collections": "ANIME"
+		}, {
+			"name": "Pokemon 2",
+			"author": "POKEMON",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Pokemon/Pokemon2.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Pokemon%20thumb/Pokemon2.png",
+			"collections": "ANIME"
+		}, {
+			"name": "Pokemon 3",
+			"author": "POKEMON",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Pokemon/Pokemon3.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Pokemon%20thumb/Pokemon3.png",
+			"collections": "ANIME"
+		}, {
+			"name": "Pokemon 4",
+			"author": "POKEMON",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Pokemon/Pokemon4.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Pokemon%20thumb/Pokemon4.png",
+			"collections": "ANIME"
+		}, {
+			"name": "Pokemon 5",
+			"author": "POKEMON",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Pokemon/Pokemon5.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Pokemon%20thumb/Pokemon5.png",
+			"collections": "ANIME"
+		}, {
+			"name": "Pokemon 6",
+			"author": "POKEMON",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Pokemon/Pokemon6.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Pokemon%20thumb/Pokemon6.png",
+			"collections": "ANIME"
+		}, {
+			"name": "Pokemon 7",
+			"author": "POKEMON",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Pokemon/Pokemon7.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Pokemon%20thumb/Pokemon7.png",
+			"collections": "ANIME"
+		}, {
+			"name": "TeamInstintc",
+			"author": "malexer",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Pokemon/TeamInstintc.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Pokemon%20thumb/TeamInstintc.png",
+			"collections": "ANIME"
+		}, {
+			"name": "TeamMystic",
+			"author": "malexer",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Pokemon/TeamMystic.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Pokemon%20thumb/TeamMystic.png",
+			"collections": "ANIME"
+		}, {
+			"name": "TeamValor",
+			"author": "malexer",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Pokemon/TeamValor.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Pokemon%20thumb/TeamValor.png",
+			"collections": "ANIME"
+		},
+		{
 			"name": "Best 31",
 			"author": "Nick Nice",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Best%20For%20Stock%20Android/31.jpg",
