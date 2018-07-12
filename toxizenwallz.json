@@ -163,6 +163,43 @@
 	],
 
 	"Wallpapers": [{
+			"name": "4",
+			"author": "MyrockyS",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/MyrockyS/4.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/MyrockyS%20thumb/4.jpg",
+			"collections": "featured,ARTWORKS"
+		}, {
+			"name": "5",
+			"author": "MyrockyS",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/MyrockyS/5.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/MyrockyS%20thumb/5.jpg",
+			"collections": "featured,ARTWORKS"
+		}, {
+			"name": "6",
+			"author": "MyrockyS",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/MyrockyS/6.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/MyrockyS%20thumb/6.jpg",
+			"collections": "featured,ARTWORKS"
+		}, {
+			"name": "7",
+			"author": "MyrockyS",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/MyrockyS/7.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/MyrockyS%20thumb/7.jpg",
+			"collections": "featured,ARTWORKS"
+		}, {
+			"name": "8",
+			"author": "MyrockyS",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/MyrockyS/8.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/MyrockyS%20thumb/8.jpg",
+			"collections": "featured,ARTWORKS"
+		}, {
+			"name": "9",
+			"author": "MyrockyS",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/MyrockyS/9.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/MyrockyS%20thumb/9.jpg",
+			"collections": "featured,ARTWORKS"
+		},
+		{
 			"name": "Pokemon 1",
 			"author": "POKEMON",
 			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/Pokemon/Pokemon1.png",
