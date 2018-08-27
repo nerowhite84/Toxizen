@@ -158,6 +158,10 @@
 			"name": "Chill Vibe",
 			"preview_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Chill%20Vibe/1.jpg",
 			"preview_thumbnail_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Chill%20Vibe%20thumb/1.jpg"
+		},{
+			"name": "Anime Vibe",
+			"preview_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Vibe/alone.jpg",
+			"preview_thumbnail_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Vibe%20thumb/alone.jpg"
 		}, {
 			"name": "World Cup Special",
 			"preview_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/World%20Cup%20Special/Argentina.jpg",
@@ -171,6 +175,43 @@
 	],
 
 	"Wallpapers": [{
+			"name": "alone",
+			"author": "Wall of Fame Special",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Vibe/alone.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Vibe%20thumb/alone.jpg",
+			"collections": "Anime Vibe"
+		}, {
+			"name": "find",
+			"author": "Wall of Fame Special",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Vibe/find.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Vibe%20thumb/find.jpg",
+			"collections": "Anime Vibe"
+		}, {
+			"name": "hold",
+			"author": "Wall of Fame Special",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Vibe/hold.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Vibe%20thumb/hold.jpg",
+			"collections": "Anime Vibe"
+		}, {
+			"name": "night",
+			"author": "Wall of Fame Special",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Vibe/night.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Vibe%20thumb/night.jpg",
+			"collections": "Anime Vibe"
+		}, {
+			"name": "know",
+			"author": "Wall of Fame Special",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Vibe/know.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Vibe%20thumb/know.jpg",
+			"collections": "Anime Vibe"
+		}, {
+			"name": "fool",
+			"author": "Wall of Fame Special",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Vibe/fool.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Vibe%20thumb/fool.jpg",
+			"collections": "Anime Vibe"
+		},
+		{
 			"name": "Chill Vibe 1",
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Chill%20Vibe/1.jpg",
