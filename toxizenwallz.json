@@ -159,6 +159,10 @@
 			"preview_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Chill%20Vibe/1.jpg",
 			"preview_thumbnail_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Chill%20Vibe%20thumb/1.jpg"
 		},{
+			"name": "Bike",
+			"preview_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Bike/1.jpg",
+			"preview_thumbnail_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Bike%20thumb/1.jpg"
+		},{
 			"name": "Anime Vibe",
 			"preview_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Vibe/alone.jpg",
 			"preview_thumbnail_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Vibe%20thumb/alone.jpg"
@@ -175,6 +179,67 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Bike 1",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Bike/1.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Bike%20thumb/1.jpg",
+			"collections": "Dope"
+		}, {
+			"name": "Bike 2",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Bike/2.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Bike%20thumb/2.jpg",
+			"collections": "Dope"
+		}, {
+			"name": "Bike 3",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Bike/3.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Bike%20thumb/3.jpg",
+			"collections": "Dope"
+		}, {
+			"name": "Bike 4",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Bike/4.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Bike%20thumb/4.jpg",
+			"collections": "Dope"
+		}, {
+			"name": "Bike 5",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Bike/5.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Bike%20thumb/5.jpg",
+			"collections": "Dope"
+		},  {
+			"name": "Bike 6",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Bike/6.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Bike%20thumb/6.jpg",
+			"collections": "Dope"
+		}, {
+			"name": "Bike 7",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Bike/7.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Bike%20thumb/7.jpg",
+			"collections": "Dope"
+		}, {
+			"name": "Bike 8",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Bike/8.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Bike%20thumb/8.jpg",
+			"collections": "Dope"
+		}, {
+			"name": "Bike 9",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Bike/9.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Bike%20thumb/9.jpg",
+			"collections": "Dope"
+		}, {
+			"name": "Bike 10",
+			"author": "Unsplash",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Bike/10.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Bike%20thumb/10.jpg",
+			"collections": "Dope"
+		}, 
+		{
 			"name": "Dope 45",
 			"author": "JFL",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Dope/45.jpg",
