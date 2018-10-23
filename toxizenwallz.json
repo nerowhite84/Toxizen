@@ -193,13 +193,13 @@
 			"author": "Maco",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls/19.png",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls%20thumb/19.png",
-			"collections": "Anime Girl Walls"
+			"collections": "featured,Anime Girl Walls"
 		}, {
 			"name": "20",
 			"author": "Maco",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls/20.png",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls%20thumb/20.png",
-			"collections": "Anime Girl Walls"
+			"collections": "featured,Anime Girl Walls"
 		}, {
 			"name": "21",
 			"author": "Maco",
@@ -278,7 +278,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/40.png",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/40.png",
 			"name": "Material Minimal 40",
-			"collections": "Material Minimal"
+			"collections": "featured,Material Minimal"
 		}, {
 			"author": "From G+",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/41.jpg",
@@ -3893,7 +3893,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls/Tamako.png",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls%20thumb/Tamako.png",
 			"name": "Tamako",
-			"collections": "Anime Girl Walls"
+			"collections": "featured,Anime Girl Walls"
 		}, {
 			"author": "FikriMochizou",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Anime%20Girl%20Walls/Usami%20Mizuki.png",
@@ -4186,7 +4186,7 @@
 			"name": "S AMOLED 3",
 			"author": "Google Plus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/Amoled/3.jpg",
-			"collections": "Amoled Walls"
+			"collections": "featured,Amoled Walls"
 		}, {
 			"name": "S AMOLED 4",
 			"author": "Google Plus",
@@ -4267,7 +4267,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science/12.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science%20thumb/12.jpg",
 			"name": "science 12",
-			"collections": "science"
+			"collections": "featured,science"
 		}, {
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/science/13.jpg",
@@ -4347,13 +4347,13 @@
 			"author": "The Paper Crane",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/The%20Paper%20Crane/Moonlight%20companion.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/The%20Paper%20Crane/Moonlight%20companion.jpg",
-			"collections": "ARTWORKS"
+			"collections": "featured,ARTWORKS"
 		}, {
 			"name": "Reconnect",
 			"author": "The Paper Crane",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/The%20Paper%20Crane/Reconnect.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/The%20Paper%20Crane/Reconnect.jpg",
-			"collections": "ARTWORKS"
+			"collections": "featured,ARTWORKS"
 		}, {
 			"name": "Solitude",
 			"author": "The Paper Crane",
@@ -4434,7 +4434,7 @@
 			"author": "Google Plus",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/45.png",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls%20thumb/45.png",
-			"collections": "featured,Amoled Walls"
+			"collections": "Amoled Walls"
 		}, {
 			"name": "46",
 			"author": "Google Plus",
