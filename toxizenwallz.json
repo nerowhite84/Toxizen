@@ -182,7 +182,8 @@
 		}
 	],
 
-	"Wallpapers": [{"author": "Shuvro(Admin)",
+	"Wallpapers": [{
+		        "author": "Shuvro(Admin)",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/OO%20Shuvro%20Pictures/1.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/OO%20Shuvro%20Pictures%20thumb/1.jpg",
 			"name": "1",
