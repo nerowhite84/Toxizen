@@ -183,6 +183,55 @@
 	],
 
 	"Wallpapers": [{
+		        "author": "Ghibli Studio",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Ghibli/ghibli1.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Ghibli%20thumb/ghibli1.jpg",
+			"name": "Ghibli 1",
+			"collections": "ANIME"
+		}, {
+		        "author": "Ghibli Studio",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Ghibli/ghibli2.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Ghibli%20thumb/ghibli2.jpg",
+			"name": "Ghibli 2",
+			"collections": "ANIME"
+		}, {
+		        "author": "Ghibli Studio",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Ghibli/ghibli3.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Ghibli%20thumb/ghibli3.jpg",
+			"name": "Ghibli 3",
+			"collections": "ANIME"
+		}, {
+		        "author": "Ghibli Studio",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Ghibli/ghibli4.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Ghibli%20thumb/ghibli4.jpg",
+			"name": "Ghibli 4",
+			"collections": "ANIME"
+		}, {
+		        "author": "Ghibli Studio",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Ghibli/ghibli5.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Ghibli%20thumb/ghibli5.jpg",
+			"name": "Ghibli 5",
+			"collections": "ANIME"
+		}, {
+		        "author": "Ghibli Studio",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Ghibli/ghibli6.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Ghibli%20thumb/ghibli6.jpg",
+			"name": "Ghibli 6",
+			"collections": "ANIME"
+		}, {
+		        "author": "Ghibli Studio",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Ghibli/ghibli7.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Ghibli%20thumb/ghibli7.jpg",
+			"name": "Ghibli 7",
+			"collections": "ANIME"
+		}, {
+		        "author": "Ghibli Studio",
+			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Ghibli/ghibli8.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ANIME/Ghibli%20thumb/ghibli8.jpg",
+			"name": "Ghibli 8",
+			"collections": "ANIME"
+		},
+		{
 		        "author": "Shuvro(Admin)",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/OO%20Shuvro%20Pictures/1.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/OO%20Shuvro%20Pictures%20thumb/1.jpg",
