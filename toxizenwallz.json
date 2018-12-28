@@ -183,6 +183,49 @@
 	],
 
 	"Wallpapers": [{
+			"name": "OnePlus 31",
+			"author": "OnePlus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/31.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/31.png",
+			"collections": "OnePlus"
+		}, {
+			"name": "OnePlus 32",
+			"author": "OnePlus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/32.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/32.png",
+			"collections": "OnePlus"
+		}, {
+			"name": "OnePlus 33",
+			"author": "OnePlus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/33.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/33.png",
+			"collections": "OnePlus"
+		}, {
+			"name": "OnePlus 34",
+			"author": "OnePlus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/34.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/34.png",
+			"collections": "OnePlus"
+		}, {
+			"name": "OnePlus 35",
+			"author": "OnePlus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/35.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/35.png",
+			"collections": "OnePlus"
+		}, {
+			"name": "OnePlus 36",
+			"author": "OnePlus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/36.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/36.png",
+			"collections": "OnePlus"
+		}, {
+			"name": "OnePlus 37",
+			"author": "OnePlus",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus/37.png",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/OnePlus%20thumb/37.png",
+			"collections": "OnePlus"
+		},
+		{
 			"name": "OneUi",
 			"author": "Samsung Mobile",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Amoled%20Walls/OneUi.jpg",
