@@ -183,6 +183,13 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Bridge",
+			"author": "Perry Kibler",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha/Bridge.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Alpha%20thumb/Bridge.jpg",
+			"collections": "Alpha"
+		},
+		{
 			"name": "Rem",
 			"author": "Lococo:p",
 			"url": "https://raw.githubusercontent.com/nerowhite84/SCREENIFY/master/ART/Lococop/rem.jpg",
