@@ -1,130 +1,52 @@
 {
   "Collections": [
     {
-      "name": "Landscapes",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+      "name": "Coffee",
+      "preview_url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa/Coffee.jpg?raw=true",
+      "preview_thumbnail_url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa%20thumb/Coffee.jpg?raw=true"
     },
     {
-      "name": "City",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
-    },
-    {
-      "name": "Food",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
-    },
-    {
-      "name": "People",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
+      "name": "Coffeetaa Special",
+      "preview_url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa/Black%20telephone.jpg?raw=true",
+      "preview_thumbnail_url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa%20thumb/Black%20telephone.jpg?raw=true"
     }
   ],
   "Wallpapers": [
     {
-      "name": "ShotA",
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-      "collections": "featured,landscapes,people"
+      "name": "Black Telephone",
+      "author": "Coffeetaa",
+      "url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa/Black%20telephone.jpg?raw=true",
+      "thumbnail": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa%20thumb/Black%20telephone.jpg?raw=true",
+      "collections": "featured,Coffeetaa Special"
     },
     {
-      "name": "ShotB",
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-      "dimensions": "3200x2560",
-      "collections": "people,city",
-      "downloadable": false
-    },
+      "name": "Cake and Coffee",
+      "author": "Coffeetaa",
+      "url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa/Cake%20and%20Coffee.jpg?raw=true",
+      "thumbnail": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa%20thumb/Cake%20and%20Coffee.jpg?raw=true",
+      "collections": "Coffee"
+    }, 
     {
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
-      "name": "ShotC",
-      "dimensions": "1280x720",
-      "copyright": "Credits to its creator",
-      "collections": "landscapes,city"
-    },
-    {
-      "name": "Wallsplash 1",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes,people,city",
+      "name": "Coffee",
+      "author": "Coffeetaa",
+      "url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa/Coffee.jpg?raw=true",
+      "thumbnail": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa%20thumb/Coffee.jpg?raw=true",
+      "collections": "Coffee"
       "featured": true
     },
     {
-      "name": "Wallsplash 2",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes,people,food"
+      "name": "Comics with cup",
+      "author": "Coffeetaa",
+      "url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa/Comics%20with%20cup.jpg?raw=true",
+      "thumbnail": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa%20thumb/Comics%20with%20cup.jpg?raw=true",
+      "collections": "featured,Coffeetaa Special"
     },
     {
-      "name": "Wallsplash 3",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,food,people"
-    },
-    {
-      "name": "Wallsplash 4",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "landscapes,people,city"
-    },
-    {
-      "name": "Wallsplash 5",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes"
-    },
-    {
-      "name": "Wallsplash 6",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,people"
-    },
-    {
-      "name": "Wallsplash 7",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_g.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "landscapes,people"
-    },
-    {
-      "name": "Wallsplash 8",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "food"
-    },
-    {
-      "name": "Webp Image",
-      "author": "unknown",
-      "url": "https://www.gstatic.com/webp/gallery/4.webp",
-      "thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-      "dimensions": "3200x2560",
-      "copyright": "Unknown",
-      "collections": "landscapes"
+      "name": "Comics",
+      "author": "Coffeetaa",
+      "url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa/Comics.jpg?raw=true",
+      "thumbnail": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa%20thumb/Comics.jpg?raw=true",
+      "collections": "featured,Coffeetaa Special"
     }
   ]
 }
