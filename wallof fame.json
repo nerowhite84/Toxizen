@@ -1,52 +1,49 @@
 {
-  "Collections": [
-    {
-      "name": "Coffee",
-      "preview_url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa/Coffee.jpg?raw=true",
-      "preview_thumbnail_url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa%20thumb/Coffee.jpg?raw=true"
-    },
-    {
-      "name": "Coffeetaa Special",
-      "preview_url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa/Black%20telephone.jpg?raw=true",
-      "preview_thumbnail_url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa%20thumb/Black%20telephone.jpg?raw=true"
-    }
-  ],
-  "Wallpapers": [
-    {
-      "name": "Black Telephone",
-      "author": "Coffeetaa",
-      "url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa/Black%20telephone.jpg?raw=true",
-      "thumbnail": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa%20thumb/Black%20telephone.jpg?raw=true",
-      "collections": "featured,Coffeetaa Special"
-    },
-    {
-      "name": "Cake and Coffee",
-      "author": "Coffeetaa",
-      "url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa/Cake%20and%20Coffee.jpg?raw=true",
-      "thumbnail": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa%20thumb/Cake%20and%20Coffee.jpg?raw=true",
-      "collections": "Coffee"
-    }, 
-    {
-      "name": "Coffee",
-      "author": "Coffeetaa",
-      "url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa/Coffee.jpg?raw=true",
-      "thumbnail": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa%20thumb/Coffee.jpg?raw=true",
-      "collections": "Coffee"
-      "featured": true
-    },
-    {
-      "name": "Comics with cup",
-      "author": "Coffeetaa",
-      "url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa/Comics%20with%20cup.jpg?raw=true",
-      "thumbnail": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa%20thumb/Comics%20with%20cup.jpg?raw=true",
-      "collections": "featured,Coffeetaa Special"
-    },
-    {
-      "name": "Comics",
-      "author": "Coffeetaa",
-      "url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa/Comics.jpg?raw=true",
-      "thumbnail": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa%20thumb/Comics.jpg?raw=true",
-      "collections": "featured,Coffeetaa Special"
-    }
-  ]
+	"Collections": [{
+			"name": "Coffee",
+			"preview_url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa/Coffee.jpg?raw=true",
+			"preview_thumbnail_url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa%20thumb/Coffee.jpg?raw=true"
+		},
+		{
+			"name": "Coffeetaa Special",
+			"preview_url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa/Black%20telephone.jpg?raw=true",
+			"preview_thumbnail_url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa%20thumb/Black%20telephone.jpg?raw=true"
+		}
+	],
+	"Wallpapers": [{
+			"name": "Black Telephone",
+			"author": "Coffeetaa",
+			"url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa/Black%20telephone.jpg?raw=true",
+			"thumbnail": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa%20thumb/Black%20telephone.jpg?raw=true",
+			"collections": "featured,Coffeetaa Special"
+		},
+		{
+			"name": "Cake and Coffee",
+			"author": "Coffeetaa",
+			"url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa/Cake%20and%20Coffee.jpg?raw=true",
+			"thumbnail": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa%20thumb/Cake%20and%20Coffee.jpg?raw=true",
+			"collections": "Coffee"
+		},
+		{
+			"name": "Coffee",
+			"author": "Coffeetaa",
+			"url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa/Coffee.jpg?raw=true",
+			"thumbnail": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa%20thumb/Coffee.jpg?raw=true",
+			"collections": "Coffee"
+		},
+		{
+			"name": "Comics with cup",
+			"author": "Coffeetaa",
+			"url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa/Comics%20with%20cup.jpg?raw=true",
+			"thumbnail": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa%20thumb/Comics%20with%20cup.jpg?raw=true",
+			"collections": "featured,Coffeetaa Special"
+		},
+		{
+			"name": "Comics",
+			"author": "Coffeetaa",
+			"url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa/Comics.jpg?raw=true",
+			"thumbnail": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa%20thumb/Comics.jpg?raw=true",
+			"collections": "featured,Coffeetaa Special"
+		}
+	]
 }
