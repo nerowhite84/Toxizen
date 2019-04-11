@@ -11,6 +11,19 @@
 		}
 	],
 	"Wallpapers": [{
+			"name": "Cup",
+			"author": "Coffeetaa",
+			"url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa/Cup.jpg?raw=true",
+			"thumbnail": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa%20thumb/Cup.jpg?raw=true",
+			"collections": "featured,Coffeetaa Special"
+		}, {
+			"name": "Groot",
+			"author": "Coffeetaa",
+			"url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa/Groot.jpg?raw=true",
+			"thumbnail": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa%20thumb/Groot.jpg?raw=true",
+			"collections": "featured,Coffeetaa Special"
+		},
+		{
 			"name": "Black Telephone",
 			"author": "Coffeetaa",
 			"url": "https://github.com/nerowhite84/SCREENIFY/blob/master/Coffeetaa/Black%20telephone.jpg?raw=true",
