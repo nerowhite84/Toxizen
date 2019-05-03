@@ -192,7 +192,6 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/33.jpeg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/33.jpeg",
 			"collections": "featured,Abstract",
-			"featured": true
 		}, {
 			"name": "34",
 			"author": "Unknown",
@@ -1401,7 +1400,8 @@
 			"author": "Min An Photography",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Chill%20Vibe/35.jpeg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Chill%20Vibe%20thumb/35.jpeg",
-			"collections": "Chill Vibe"
+			"collections": "Chill Vibe",
+			"featured": true
 		},
 		{
 			"author": "Mushk Rizvi",
