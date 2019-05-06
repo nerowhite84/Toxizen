@@ -187,6 +187,14 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Ramadan Mubarak",
+			"author": "WALL OF FAME",
+			"url": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Alpha/Ramadan.jpg?raw=true",
+			"thumbnail": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Alpha%20thumb/Ramadanthumb.jpg?raw=true",
+			"collections": "featured,Alpha",
+		        "featured": true
+		},
+		{
 			"name": "33",
 			"author": "Unknown",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/33.jpeg",
@@ -1122,8 +1130,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/42.png",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/thumb%20Minimal%20Material/42.png",
 			"name": "Material Minimal 42",
-			"collections": "Material Minimal",
-			"featured": true
+			"collections": "Material Minimal"
 		}, {
 			"author": "From G+",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Minimal%20Material/43.jpg",
