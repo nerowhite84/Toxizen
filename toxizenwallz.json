@@ -187,6 +187,37 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Illustration 1",
+			"author": "http://www.freeillustrated.com",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Illustration1.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Illustration1.jpg",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "Illustration 2",
+			"author": "http://www.freeillustrated.com",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Illustration2.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Illustration2.jpg",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "Illustration 3",
+			"author": "http://www.freeillustrated.com",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Illustration3.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Illustration3.jpg",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "Illustration 4",
+			"author": "http://www.freeillustrated.com",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Illustration4.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Illustration4.jpg",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "Illustration 5",
+			"author": "http://www.freeillustrated.com",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Illustration5.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/Illustration5.jpg",
+			"collections": "ARTWORKS"
+		}, 
+		{
 			"name": "Anime World 1",
 			"author": "コーラ",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/senery1.jpg",
