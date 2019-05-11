@@ -187,12 +187,49 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Anime World 1",
+			"author": "コーラ",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/senery1.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/senery1.jpg",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "Anime World 2",
+			"author": "コーラ",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/senery2.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/senery2.jpg",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "Anime World 3",
+			"author": "コーラ",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/senery3.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/senery3.jpg",
+			"collections": "ARTWORKS",
+			"featured": true
+		}, {
+			"name": "Anime World 4",
+			"author": "コーラ",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/senery4.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/senery4.jpg",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "Anime World 5",
+			"author": "コーラ",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/senery5.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/senery5.jpg",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "Anime World 6",
+			"author": "コーラ",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/senery6.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art%20Thumb/senery6.jpg",
+			"collections": "ARTWORKS"
+		},
+		{
 			"name": "Ramadan Mubarak",
 			"author": "WALL OF FAME",
 			"url": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Alpha/Ramadan.jpg?raw=true",
 			"thumbnail": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Alpha%20thumb/Ramadanthumb.jpg?raw=true",
-			"collections": "featured,Alpha",
-		        "featured": true
+			"collections": "featured,Alpha"
 		},
 		{
 			"name": "33",
