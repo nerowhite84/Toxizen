@@ -187,6 +187,37 @@
 	],
 
 	"Wallpapers": [{
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/flower19.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/flower19.jpg",
+			"name": "Flower 19",
+			"collections": "Flower"
+		}, {
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/flower20.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/flower20.jpg",
+			"name": "Flower 20",
+			"collections": "Flower"
+		}, {
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/flower21.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/flower21.jpg",
+			"name": "Flower 21",
+			"collections": "Flower"
+		}, {
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/flower22.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/flower22.jpg",
+			"name": "Flower 22",
+			"collections": "Flower"
+		}, {
+			"author": "Pexels",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers/flower23.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Flowers%20thumb/flower23.jpg",
+			"name": "Flower 23",
+			"collections": "Flower"
+		},
+		{
 			"name": "Illustration 1",
 			"author": "http://www.freeillustrated.com",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Art/Illustration1.jpg",
