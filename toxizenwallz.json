@@ -219,7 +219,8 @@
 			"author": "Pexels",
 			"url": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Hello%20Spring!/spring5.jpg?raw=true",
 			"thumbnail": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Spring%20Thumb/spring5.jpg?raw=true",
-			"collections": "Hello Spring!"
+			"collections": "Hello Spring!",
+			"featured": true
 		}, {
 			"name": "Spring 6",
 			"author": "Pexels",
@@ -604,31 +605,31 @@
 			"author": "Unknown",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/33.jpeg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/33.jpeg",
-			"collections": "featured,Abstract"
+			"collections": "Abstract"
 		}, {
 			"name": "34",
 			"author": "Unknown",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/34.jpeg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/34.jpeg",
-			"collections": "featured,Abstract"
+			"collections": "Abstract"
 		}, {
 			"name": "35",
 			"author": "Unknown",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/35.jpeg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/35.jpeg",
-			"collections": "featured,Abstract"
+			"collections": "Abstract"
 		}, {
 			"name": "36",
 			"author": "Unknown",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/36.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/36.jpg",
-			"collections": "featured,Abstract"
+			"collections": "Abstract"
 		}, {
 			"name": "37",
 			"author": "Unknown",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract/37.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Abstract%20Thumb/37.jpg",
-			"collections": "featured,Abstract"
+			"collections": "Abstract"
 		}, {
 			"name": "38",
 			"author": "Unknown",
@@ -2856,8 +2857,7 @@
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/rain/26.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/rain%20thumb/26.jpg",
 			"name": "Rain 26",
-			"collections": "Rain",
-			"featured": true
+			"collections": "Rain"
 		}, {
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/rain/27.jpg",
