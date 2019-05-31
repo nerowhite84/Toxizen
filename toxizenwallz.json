@@ -175,6 +175,10 @@
 			"preview_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/World%20Cup%20Special/Argentina.jpg",
 			"preview_thumbnail_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/World%20Cup%20Special%20thumb/Argentina.jpg"
 		}, {
+			"name": "Hello Spring!",
+			"preview_url": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Hello%20Spring!/spring5.jpg?raw=true",
+			"preview_thumbnail_url": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Spring%20Thumb/spring5.jpg?raw=true"
+		}, {
 			"name": "Galaxy S10 Special",
 			"preview_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/galaxy%20s10/1.png",
 			"preview_thumbnail_url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/Toxizen%20Wallz/galaxy%20s%2010%20thumb/1.png"
@@ -187,6 +191,61 @@
 	],
 
 	"Wallpapers": [{
+			"name": "Spring 1",
+			"author": "Pexels",
+			"url": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Hello%20Spring!/spring1.jpg?raw=true",
+			"thumbnail": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Spring%20Thumb/spring1.jpg?raw=true",
+			"collections": "Hello Spring!"
+		}, {
+			"name": "Spring 2",
+			"author": "Pexels",
+			"url": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Hello%20Spring!/spring2.jpg?raw=true",
+			"thumbnail": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Spring%20Thumb/spring2.jpg?raw=true",
+			"collections": "Hello Spring!"
+		}, {
+			"name": "Spring 3",
+			"author": "Pexels",
+			"url": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Hello%20Spring!/spring3.jpg?raw=true",
+			"thumbnail": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Spring%20Thumb/spring3.jpg?raw=true",
+			"collections": "Hello Spring!"
+		}, {
+			"name": "Spring 4",
+			"author": "Pexels",
+			"url": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Hello%20Spring!/spring4.jpg?raw=true",
+			"thumbnail": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Spring%20Thumb/spring4.jpg?raw=true",
+			"collections": "Hello Spring!"
+		}, {
+			"name": "Spring 5",
+			"author": "Pexels",
+			"url": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Hello%20Spring!/spring5.jpg?raw=true",
+			"thumbnail": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Spring%20Thumb/spring5.jpg?raw=true",
+			"collections": "Hello Spring!"
+		}, {
+			"name": "Spring 6",
+			"author": "Pexels",
+			"url": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Hello%20Spring!/spring6.jpg?raw=true",
+			"thumbnail": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Spring%20Thumb/spring6.jpg?raw=true",
+			"collections": "Hello Spring!"
+		}, {
+			"name": "Spring7",
+			"author": "Pexels",
+			"url": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Hello%20Spring!/spring7.jpg?raw=true",
+			"thumbnail": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Spring%20Thumb/spring7.jpg?raw=true",
+			"collections": "Hello Spring!"
+		}, {
+			"name": "Spring 8",
+			"author": "Pexels",
+			"url": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Hello%20Spring!/spring8.jpg?raw=true",
+			"thumbnail": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Spring%20Thumb/spring8.jpg?raw=true",
+			"collections": "Hello Spring!"
+		}, {
+			"name": "Spring 9",
+			"author": "Pexels",
+			"url": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Hello%20Spring!/spring9.jpg?raw=true",
+			"thumbnail": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Spring%20Thumb/spring9.jpg?raw=true",
+			"collections": "Hello Spring!"
+		},
+		{
 			"name": "Chill Vibe 1",
 			"author": "Unsplash",
 			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/Chill%20Vibe/1.jpg",
