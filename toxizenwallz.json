@@ -190,7 +190,26 @@
 		}
 	],
 
-	"Wallpapers": [{
+	"Wallpapers":[{
+			"name": "Window Light",
+			"author": "Jenny Yu",
+			"url": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Art/Jenny%20Yu/Window%20Light.jpg?raw=true",
+			"thumbnail": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Art%20Thumb/Window%20Light.jpg?raw=true",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "Window Light 2",
+			"author": "Jenny Yu",
+			"url": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Art/Jenny%20Yu/Window%20Light%202.jpg?raw=true",
+			"thumbnail": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Art%20Thumb/Window%20Light%202.jpg?raw=true",
+			"collections": "ARTWORKS"
+		}, {
+			"name": "Spider Verse Rainy City",
+			"author": "Jenny Yu",
+			"url": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Art/Jenny%20Yu/Spider%20Verse%20Rainy%20City.jpg?raw=true",
+			"thumbnail": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Art%20Thumb/Spider%20Verse%20Rainy%20City.jpg?raw=true",
+			"collections": "ARTWORKS"
+		},
+		{
 			"name": "Spring 1",
 			"author": "Pexels",
 			"url": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Hello%20Spring!/spring1.jpg?raw=true",
