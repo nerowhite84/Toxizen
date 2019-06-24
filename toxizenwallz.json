@@ -191,6 +191,32 @@
 	],
 
 	"Wallpapers":[{
+			"author": "Shuvro(Admin)",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/OO%20Shuvro%20Pictures/Night%20Light.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/OO%20Shuvro%20Pictures%20thumb/Night%20Light.jpg",
+			"name": "Night Light",
+			"collections": "OO Shuvro Picture"
+		}, {
+			"author": "Shuvro(Admin)",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/OO%20Shuvro%20Pictures/Hope.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/OO%20Shuvro%20Pictures%20thumb/Hope.jpg",
+			"name": "Hope",
+			"collections": "OO Shuvro Picture",
+			"featured": true
+		}, {
+			"author": "Shuvro(Admin)",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/OO%20Shuvro%20Pictures/Red%20Afternoon.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/OO%20Shuvro%20Pictures%20thumb/Red%20Afternoon.jpg",
+			"name": "Red Afternoon",
+			"collections": "OO Shuvro Picture"
+		}, {
+			"author": "Shuvro(Admin)",
+			"url": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/OO%20Shuvro%20Pictures/Time.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/nerowhite84/Toxizen/master/toxizen%20walls/OO%20Shuvro%20Pictures%20thumb/Time.jpg",
+			"name": "Time",
+			"collections": "OO Shuvro Picture"
+		},
+		{
 			"name": "Window Light",
 			"author": "Jenny Yu",
 			"url": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Art/Jenny%20Yu/Window%20Light.jpg?raw=true",
@@ -238,8 +264,7 @@
 			"author": "Pexels",
 			"url": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Hello%20Spring!/spring5.jpg?raw=true",
 			"thumbnail": "https://github.com/nerowhite84/Toxizen/blob/master/toxizen%20walls/Spring%20Thumb/spring5.jpg?raw=true",
-			"collections": "Hello Spring!",
-			"featured": true
+			"collections": "Hello Spring!"		
 		}, {
 			"name": "Spring 6",
 			"author": "Pexels",
